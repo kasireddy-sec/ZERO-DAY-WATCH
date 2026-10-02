@@ -1,0 +1,94 @@
+# Source registry. Add sources using the same schema.
+# The first set is intentionally conservative and can be expanded.
+
+sources:
+  - id: cisa_kev
+    name: CISA Known Exploited Vulnerabilities
+    type: json
+    url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json
+    tier: 1
+    role: authoritative_exploitation
+    enabled: true
+
+  - id: cisa_alerts
+    name: CISA Cybersecurity Advisories
+    type: rss
+    url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+    tier: 1
+    role: authoritative_advisory
+    enabled: true
+
+  - id: bleepingcomputer
+    name: BleepingComputer
+    type: rss
+    url: https://www.bleepingcomputer.com/feed/
+    tier: 3
+    role: discovery
+    enabled: true
+
+  - id: thehackernews
+    name: The Hacker News
+    type: rss
+    url: https://feeds.feedburner.com/TheHackersNews
+    tier: 3
+    role: discovery
+    enabled: true
+
+  - id: securityweek
+    name: SecurityWeek
+    type: rss
+    url: https://feeds.feedburner.com/securityweek
+    tier: 3
+    role: discovery
+    enabled: true
+
+  - id: google_project_zero
+    name: Google Project Zero
+    type: rss
+    url: https://googleprojectzero.blogspot.com/feeds/posts/default
+    tier: 2
+    role: research
+    enabled: true
+
+  - id: tenable_research
+    name: Tenable Research
+    type: rss
+    url: https://feeds.feedburner.com/tenable
+    tier: 2
+    role: research
+    enabled: true
+
+  - id: rapid7
+    name: Rapid7
+    type: rss
+    url: https://blog.rapid7.com/rss/
+    tier: 2
+    role: research
+    enabled: true
+
+  - id: zdi
+    name: Trend Micro Zero Day Initiative
+    type: rss
+    url: https://www.zerodayinitiative.com/blog?format=rss
+    tier: 2
+    role: research
+    enabled: true
+
+  - id: palo_alto
+    name: Palo Alto Networks Security Advisories
+    type: rss
+    url: https://security.paloaltonetworks.com/rss.xml
+    tier: 1
+    role: vendor_advisory
+    enabled: true
+
+  - id: cyber_security_news
+    name: Cyber Security News
+    type: rss
+    url: https://cybersecuritynews.com/feed/
+    tier: 3
+    role: discovery
+    enabled: true
+
+# Add more vendor PSIRTs, CERTs and research feeds here.
+# For HTML-only sources, use type: html with a discovery URL.
