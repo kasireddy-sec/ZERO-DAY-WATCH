@@ -1,1 +1,918 @@
-{}
+{
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|bf3ccfb779bae28f365f07f01cb6d4ac1cea8fef7421a8344486f0b2494af54a": {
+    "seen_at": "2026-10-02T06:36:11.585048+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|14b5bcb427e9db14ebaf102ad2c6839da8b2e17657219658cec98ff0718f851c": {
+    "seen_at": "2026-10-02T06:36:11.585065+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|7fafc9fe0e51c84a3d3323a0faf6f546030fc39825d998855e462959611b8af8": {
+    "seen_at": "2026-10-02T06:36:11.585070+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|2b9a8e71b3c592674548b6715b0d8c31744b9f8e607a14e9aa3dab4067f089f0": {
+    "seen_at": "2026-10-02T06:36:11.585074+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|700ba92dc3e177f38047df090fb75d33067a615a2763ddcba232d7a4cb03ac72": {
+    "seen_at": "2026-10-02T06:36:11.585078+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|04a40323bf56ce24ccc85e0f528066bf3be2b2e4b6a91d8847cb20447b7f3437": {
+    "seen_at": "2026-10-02T06:36:11.585082+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|33441667d8ea07a95ba8713dccec6ba2ee3fda8e7596f156dab9a9f8bcc2e777": {
+    "seen_at": "2026-10-02T06:36:11.585086+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|49ceb675c5b68f7dc85e7ab6e1a162bbc47ee418ed5b6e5c5a40692ff1537f09": {
+    "seen_at": "2026-10-02T06:36:11.585089+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|a7489e3e697d21c91c9c449ae314d18d0fbbc7bf81cc9e69e17dea5f855df7c8": {
+    "seen_at": "2026-10-02T06:36:11.585092+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|74e80fa7a1be0ae20f83d741ab95544374304d002e14de43b7aa9a8c1ae7b945": {
+    "seen_at": "2026-10-02T06:36:11.585095+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|ff8e84f478456ba521ac190ebd53c0d89828ec9cc279ef69bf507c16e88e5af0": {
+    "seen_at": "2026-10-02T06:36:11.585099+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|a3baa12f44a737991e556730d2fa892fd86e06b3497244fde3dc4834430c3c92": {
+    "seen_at": "2026-10-02T06:36:11.585103+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|f6600f20b5c564661840905c2382bc368306cfeb076737ee94fb072045d8520d": {
+    "seen_at": "2026-10-02T06:36:11.585106+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|4860c95429416fe18b418e8aac362ff32dbd6fa97f1c169ece8a3fba2765251a": {
+    "seen_at": "2026-10-02T06:36:11.585109+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|291c36f39ae236e4bb9f011cc08e30b0a10d82024e2f558f20c18d3e1a7a35ef": {
+    "seen_at": "2026-10-02T06:36:11.585112+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|28db9441ce9912044c5a3fbeb18dee0d23e5b0fff599bb0a40d423679ac992ac": {
+    "seen_at": "2026-10-02T06:36:11.585115+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|daae012577c50afed8351ec3db6d86aba7eadaaac6b1796a35731481c2554e40": {
+    "seen_at": "2026-10-02T06:36:11.585118+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|eab0252079c6e65edbc22febcaa17e589956a821112451ddaf1ae09ca89376e4": {
+    "seen_at": "2026-10-02T06:36:11.585122+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|272bd9c714781afa223fb54bcecc031544b1233045af090acd77838e1f12bd5b": {
+    "seen_at": "2026-10-02T06:36:11.585126+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|246bf90babdb8bb61fbcaecda0f22d02fde0a373bb290e37e976dfe4b5c8e71a": {
+    "seen_at": "2026-10-02T06:36:11.585129+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|0cfb121ba6983a728f97329c1bafed3579947a99a59ca1e41d7c9ff42f5c1bcc": {
+    "seen_at": "2026-10-02T06:36:11.585132+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|0a9a5be38793abe594fb1930f8fd075e3270cf7b5f078c90f063321c6ff80222": {
+    "seen_at": "2026-10-02T06:36:11.585174+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|9028d90fa9b8dd6f50675e4f13e18a19ad6861400eca5abc6e9d1596d6c7aa6a": {
+    "seen_at": "2026-10-02T06:36:11.585180+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|1749fe2094e908af594e80cc8ceaae58a99ac7c8e1cbfd67658e17b7af329275": {
+    "seen_at": "2026-10-02T06:36:11.585184+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|ef7fc446da8be39aff6557da91a02715f3c60009891563d2102c16b56fc21b70": {
+    "seen_at": "2026-10-02T06:36:11.585188+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|ec74b2465c60b286045fed471aad5e10a9ac1f756af7b4a6fe6694441b5f4e11": {
+    "seen_at": "2026-10-02T06:36:11.585191+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|61fed950364d289a2f378cb8fa0c9ef0f48440c928d6320c4d21a0a2af1e8cf8": {
+    "seen_at": "2026-10-02T06:36:11.585195+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|627604fb6de5eed4c625e2de22b2beacd5ce10efc08b2819426569a8829ade02": {
+    "seen_at": "2026-10-02T06:36:11.585198+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|1be751bd7a216723ca6f858db8e1f04d3883073cfecafd57f2307aa84ec8585f": {
+    "seen_at": "2026-10-02T06:36:11.585202+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|701831df58f1cc334aca834ccb26b4a23576e87a2b535ed4b445687de0d9c17c": {
+    "seen_at": "2026-10-02T06:36:11.585206+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|6f535462feb1b2e1ad76e0d7fbf7a9aedade7eb769d46f3143a012ed37c88fcf": {
+    "seen_at": "2026-10-02T06:36:11.585209+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|a8348d96b689c9cca5887aa96c852f24503f32445c5b45843f4377c134c79daa": {
+    "seen_at": "2026-10-02T06:36:11.585213+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|e0da55958c652c3347d84adf8ab92b225d895a36d3cc400f737c82674b8e378f": {
+    "seen_at": "2026-10-02T06:36:11.585216+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|179315236dc103055ff754fbacc9fb70417d371c4548c86bba4e78616ab01ae5": {
+    "seen_at": "2026-10-02T06:36:11.585219+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|9428ff9800229e95ab73472144db1d3fab80b93fc33cf904cc3934d1a1c551db": {
+    "seen_at": "2026-10-02T06:36:11.585223+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|a7d4bda29e7b5269fab802b01af36f637dcf0655214de255fe4c0f388b0c2fc7": {
+    "seen_at": "2026-10-02T06:36:11.585226+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|e14df2b52be827c21a0e66d0fdb81af9f979a0c8e352cb9fd06bf35e16980533": {
+    "seen_at": "2026-10-02T06:36:11.585229+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|c3feba953182a959fbb0a194199f56bb55ada1b99a29d37e2ffd85f5b36a517f": {
+    "seen_at": "2026-10-02T06:36:11.585233+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|7c05e210c9f019bebcb95cc29d9d4e761a57a8a085e4ce65cd16c1231361899d": {
+    "seen_at": "2026-10-02T06:36:11.585236+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|15f3d0f8292772d421859cb04c5447369f8fb1de7d95c96a9f105774fa4799bd": {
+    "seen_at": "2026-10-02T06:36:11.585239+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|4c4de88e05479ce983398b412bd3b94b8ad991b2297f21b922b1defb7eec45fa": {
+    "seen_at": "2026-10-02T06:36:11.585243+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|9686b8fe4ce8506a995d6596feadccc2fa53b1d0acd6ea73a6a387687ae2714b": {
+    "seen_at": "2026-10-02T06:36:11.585247+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|ea8a784088c519ec3fd2c407fc5fc2830236e7f666c09e88dc91976e64e1eec9": {
+    "seen_at": "2026-10-02T06:36:11.585251+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|3e91f80c8c1fc608840202020e5390d601c3e096707616bd543e34a95b029f6d": {
+    "seen_at": "2026-10-02T06:36:11.585255+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|6653ee8e36c26ef1359a2dae65c36a8c076d2b39398e594734c2b329c7fcb843": {
+    "seen_at": "2026-10-02T06:36:11.585258+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|05257566262f8c52aa985c80a88cb1cdc50df15d2b6f9e09da5c856f0f9d318e": {
+    "seen_at": "2026-10-02T06:36:11.585261+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|52924efe296196544e08f8f76358815da54fb875f556a41f4cd902bb528b9b37": {
+    "seen_at": "2026-10-02T06:36:11.585265+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|fd1e7a4aa335e0c34acb368a37072d14f3431d6856062b6ac65e822aefb8535e": {
+    "seen_at": "2026-10-02T06:36:11.585268+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|60581fc09d08b3d474d5f6e80516a4e50d898b876004c629086e3315539a86fc": {
+    "seen_at": "2026-10-02T06:36:11.585272+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|e74825236592a0443b305c48bbf7b573c3ad54c081eafa405d0e89c4a76b3239": {
+    "seen_at": "2026-10-02T06:36:11.585275+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|0caa6ba1c489a069f49a82ca0004e86b8529c55bbf1ef4aacf55bc5471a96a9f": {
+    "seen_at": "2026-10-02T06:36:11.585278+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|7155d3043c8f899efb4d0646424dad555b1c98aa72b82d2f93bbc8a3fc73daac": {
+    "seen_at": "2026-10-02T06:36:11.585281+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|3edd78fa0d21847585f51aa862b11ea6fe8712587d3352693ed723d74fef2e22": {
+    "seen_at": "2026-10-02T06:36:11.585285+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|e2debc78c08bcc110e1d0549c6d4dfb22f73d19174e673def1ef9da1e7f0163f": {
+    "seen_at": "2026-10-02T06:36:11.585288+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|dfd97aa64e119ed8748a2f3f8f241dba1e9522d8cc2f30de9a05201a73b2ec73": {
+    "seen_at": "2026-10-02T06:36:11.585292+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|35d0f51c0749c8be349c254a8e8ff954c0008e9a289c78c012283279554b6deb": {
+    "seen_at": "2026-10-02T06:36:11.585295+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|89524d8aeee66e08a367f453a5405d4dee38ff0c01393fe047c3aa9c304c3f73": {
+    "seen_at": "2026-10-02T06:36:11.585299+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|1aefcd165ec33e7f53c8a0298fe33c1f28d9d2b3718aa5ea3b7525977b32cdd2": {
+    "seen_at": "2026-10-02T06:36:11.585302+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|9ed91a8c48364359ab7c65b67b05d669f9023cc2a6ee92a8f3edd7f4b659d37d": {
+    "seen_at": "2026-10-02T06:36:11.585306+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|8f169cd53d328857e4b54e579134bfe567b90f7b6cf809137dd95c95d971bbbd": {
+    "seen_at": "2026-10-02T06:36:11.585310+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|d026ea80ecc19111c20714a515bb0ce07ee2b75faf2e13217b2f44c1ffd872ff": {
+    "seen_at": "2026-10-02T06:36:11.585313+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|b019a51da94f8d05b3b430ac2268b804991057a2e6114c01f26c8377384baaa8": {
+    "seen_at": "2026-10-02T06:36:11.585317+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|32121ba339e078b98ae51ae888f3b4b62c7c0b8ea6e8edf03672c97b401dd45e": {
+    "seen_at": "2026-10-02T06:36:11.585321+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|185f3f5726cc351765bc983072784325fd5548106d7455893effe4e76ca6c95a": {
+    "seen_at": "2026-10-02T06:36:11.585324+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|9e27103f464fd88a9a688fe2d91701036aecdd92c73b52dfb95c9a6d97a1a4ea": {
+    "seen_at": "2026-10-02T06:36:11.585327+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|27f2d03b67184199d800a4e6cfa80db6cc2d443558915618361681336ace1f0b": {
+    "seen_at": "2026-10-02T06:36:11.585331+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|5e8d7d33d02f1331167cfab6856cfd2aa320260d80bb4b4012ae9d03e4161a7d": {
+    "seen_at": "2026-10-02T06:36:11.585334+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|f878ef27b8f4452162c9e52529deb3d41a7ddb5093ff8b7654d01c900cf5b188": {
+    "seen_at": "2026-10-02T06:36:11.585337+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|b137bb0f70b0231b3111d03e4aef73ee4729036b46e5459b035bd366be5babd7": {
+    "seen_at": "2026-10-02T06:36:11.585341+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|fe818fecf1e9d8b6f27b62322cc9ee53238b8ce9dba0bf61d020de37a6340f2c": {
+    "seen_at": "2026-10-02T06:36:11.585344+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|b94c249731c54b1c0541df0f378c0a46c55e2835998256a1bd3d078f20132069": {
+    "seen_at": "2026-10-02T06:36:11.585348+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|82f859a16d5a1af7c51e4e0b48a583d08f3e19569e5ab9b5377a8e0c0df860b6": {
+    "seen_at": "2026-10-02T06:36:11.585351+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|4b24fdce274fa04e6be5bca823c64e41e519c237268d960db9d300ab5176683f": {
+    "seen_at": "2026-10-02T06:36:11.585355+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|4d3781976489f9d4955bf334c7606c009bb870c682dfba8fc4ff6dd6795c86ae": {
+    "seen_at": "2026-10-02T06:36:11.585358+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|47f168f95c59851d7c29bfef41909cfda67313fe386d1fb202b24a977ac7dd2c": {
+    "seen_at": "2026-10-02T06:36:11.585361+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|9bfd7f8d97b5c636869937cf3ad22625a694157e4d9af255e6d49da245e5687a": {
+    "seen_at": "2026-10-02T06:36:11.585365+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|20e1ffec45da832ca70056902443450f2b8b432e96ef10680c3942fbd016e9c0": {
+    "seen_at": "2026-10-02T06:36:11.585368+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|f510234ff85077ab428e219f41385b50a0535c8ecc21cbf5d116a945c4aee813": {
+    "seen_at": "2026-10-02T06:36:11.585372+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|b077c88f22171ec6809ed77194a11b9d707eadd3b3bad6fb3762141dc0b0fd27": {
+    "seen_at": "2026-10-02T06:36:11.585376+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|a2a8d1043404dcbb62f0199ec327d087588b3b5f4c5b8ac19b1ca32645e24b13": {
+    "seen_at": "2026-10-02T06:36:11.585379+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|dbbdd2f97b07b4415da96dafae224b87dc7fdd30cb2b9af16aeb98dc505ac605": {
+    "seen_at": "2026-10-02T06:36:11.585383+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|185828f96a15067ea08705bd2288821ed649728b085b32f644d01930b2408f83": {
+    "seen_at": "2026-10-02T06:36:11.585386+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|751c591f8becfdd5704aff8b40e8422ec46d9eb8618397f3968f3d6626f81414": {
+    "seen_at": "2026-10-02T06:36:11.585390+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|df0e929299805019769256c35671884c9a179991556798332c85bea1d7d1e49e": {
+    "seen_at": "2026-10-02T06:36:11.585393+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|0f0cf27f882fa85af7dac64dd82130f3fdd3a5e89b7d62a366fe5f6337813c6d": {
+    "seen_at": "2026-10-02T06:36:11.585396+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|433af635eae6fbb4e98fc9f93b29f0a94d33fc196e630c1b80190d8a1639c751": {
+    "seen_at": "2026-10-02T06:36:11.585402+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|313956b89c7f156508d88ce2e378b88f6e9aa41bb45a57f380d78383d7abc627": {
+    "seen_at": "2026-10-02T06:36:11.585407+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|29aceeffd6501d768b9d96d9808ea5b371a5c6ef2c144fb95f7bc139eb0e8225": {
+    "seen_at": "2026-10-02T06:36:11.585410+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|6e24757f560f840f7f7576eedbd526f6c6db328991a0aa0c0a1665130ddc44d8": {
+    "seen_at": "2026-10-02T06:36:11.585414+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|b2ed5d8b537e96395ec0fc6486fc0ad01eb52d0ba247d6f8e1e9347a13eeb6e2": {
+    "seen_at": "2026-10-02T06:36:11.585417+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|3aefd996fe52df036b90860faabffdda3e1a5911bc33ce7f662bd45b5473e58d": {
+    "seen_at": "2026-10-02T06:36:11.585420+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|bdfe128711b323e91e1e8ac12cce86d0840218b39f313e943c83e3b9aa2b0686": {
+    "seen_at": "2026-10-02T06:36:11.585424+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|08066928e9e4cc2652fb7670da15e028f4f93844af24d2b387d90f8e3d6a3821": {
+    "seen_at": "2026-10-02T06:36:11.585427+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|aba89d193c3b0cfcb2c22926c1e1c4f50ee5d5889ef150e1e5ed383d58414af8": {
+    "seen_at": "2026-10-02T06:36:11.585431+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|a39f97c9d0965a8e7486027f2c0b6ee10a7cdc6a9caeccb903483ba2dfa5b957": {
+    "seen_at": "2026-10-02T06:36:11.585434+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|53b3650a52fd9e193928470daf97e02115fa502eec9db781779c4eddb84e3447": {
+    "seen_at": "2026-10-02T06:36:11.585438+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|a9bf73b3169911e6754bdfcb91d000e86b985712377d7032df624faa9aece423": {
+    "seen_at": "2026-10-02T06:36:11.585441+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|1f39d6ab5069a841f4ea0e766948df9f0e8b12e8734a4451961aa51463876aca": {
+    "seen_at": "2026-10-02T06:36:11.585444+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|77996fbfcd84954a8d481ed0fee918dda4ac83c8bd9d9dbe057f2e8709096077": {
+    "seen_at": "2026-10-02T06:36:11.585447+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|4b7b510816265db1dfbdefa0819bfc99c42b8b9beba12a1bad349ee3960c032f": {
+    "seen_at": "2026-10-02T06:36:11.585450+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks|adc1e288f513f7ddf1187b542d2add7600c84ef8506b7b6ab7e43bf816db798a": {
+    "seen_at": "2026-10-02T06:36:11.585454+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites|38d974751cddc783a3f61dbd081f41fee89c04adcf35a59555d0a1807acd1da2": {
+    "seen_at": "2026-10-02T06:36:11.585458+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race|7b362afe4fe292e732fe38aa52eabd21d81cc373c091e1669f808c5807e5496a": {
+    "seen_at": "2026-10-02T06:36:11.585463+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old|32ba7d4fd8ece03871e291e1bb56ff4cfd221cee45a13d2f80c4bc7e2f336ca6": {
+    "seen_at": "2026-10-02T06:36:11.585466+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture|501671abc3d6e744c1b49e21a36998d6e76405ad3061f552528c6990afdc3296": {
+    "seen_at": "2026-10-02T06:36:11.585471+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html|eb243dac9fdf5d3198462496f5fb7e706fb51ba6c186748f98c948eaa87dc128": {
+    "seen_at": "2026-10-02T06:36:11.585475+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html|2c77131f3a8667d04b36fd2d33b9e7c6c19cebf750f87d9cc218d43b4744b1b1": {
+    "seen_at": "2026-10-02T06:36:11.585480+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html|f375566d55690ec5b210e12c9ec39bf4f53fc24cfae97b3c4f5827078a9f44cf": {
+    "seen_at": "2026-10-02T06:36:11.585484+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html|a2808fa96f177f9ccae18007f99ec12a24c7d6048fc4af7da2486ffb86dc0142": {
+    "seen_at": "2026-10-02T06:36:11.585489+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/how-financial-services-companies-can.html|054e99667dfee4cf43a33572bc3c4f3046638d06b53ae0fa3d3f14f2750b1eac": {
+    "seen_at": "2026-10-02T06:36:11.585493+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html|1977e8096eb65d754b9bf822fcf94eaea4e693d877d14b0b08d451d4d73b8399": {
+    "seen_at": "2026-10-02T06:36:11.585497+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html|246e05712dd6c2fdabc24961b71420e91c6c069c563d8097b09c628fa3150b85": {
+    "seen_at": "2026-10-02T06:36:11.585501+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html|934f968d17f7701c680abda0118a221d6f08293761859b2ade68ce89483282af": {
+    "seen_at": "2026-10-02T06:36:11.585505+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html|e158f9beb514e86d291ef206df1cef4aead7081e52bf4e4e603c3cda725544e8": {
+    "seen_at": "2026-10-02T06:36:11.585509+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html|14666799f5b77d4bf66350f61474d53e6d61740cf8e4e89b8aeebf2443719ff1": {
+    "seen_at": "2026-10-02T06:36:11.585513+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html|9b7c3ead661f85ef503649bbacdb6a0e7d0e19af1b1023c1597e5da123b83694": {
+    "seen_at": "2026-10-02T06:36:11.585517+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html|488298e426ae25715bc1d95d361fb64c5c26f6f3f277f2a3835a588d02830e5f": {
+    "seen_at": "2026-10-02T06:36:11.585521+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html|55cfa003f3e51ee2194acc41cbe51d5e59c8d691e9b345e12372269852448c54": {
+    "seen_at": "2026-10-02T06:36:11.585525+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html|1ab1760d84f642ebde0463ec71b9ddfd3dad8c9c5f33067e00a39e55b5060b6c": {
+    "seen_at": "2026-10-02T06:36:11.585529+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html|0edb507945094a60427c17e3fce2b9e9b59339c9a0ed654e0f471e694926e76f": {
+    "seen_at": "2026-10-02T06:36:11.585533+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html|7a8a1b20e89d7d6c10ae76cdd3641ad39c676d5edbfb9519b94fbaedd6d05607": {
+    "seen_at": "2026-10-02T06:36:11.585537+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html|dbc83e893c14e006f0ab3e3239c39c30bce763f7fb246f9e385d514c5511f5d0": {
+    "seen_at": "2026-10-02T06:36:11.585541+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html|b05250faaeb73da85af2aa7322f5d94d2d5c69be83ea5daad9368ab9900c317c": {
+    "seen_at": "2026-10-02T06:36:11.585546+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html|e23b17111b22094dbb2fbf2113b92b1bed5319daabce984f42615521052de02c": {
+    "seen_at": "2026-10-02T06:36:11.585550+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html|0d5c7960cdd0975918114a94b595d0339e62bc02f330169693bf3e294b6cb9ab": {
+    "seen_at": "2026-10-02T06:36:11.585554+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html|eac1a97785b4fdf16d5a40c2762f0118054f822f8a2cad34f8de55dd0e2bceb7": {
+    "seen_at": "2026-10-02T06:36:11.585558+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html|bea74c98040d57d11de650c67ff2fa0613ea6b2c5e0fd0044c88f1fd11e58fe0": {
+    "seen_at": "2026-10-02T06:36:11.585562+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html|c483c3c9bb7e772040fd3693e21ab9a7884755219fb6735bfbc5fab3ac509eec": {
+    "seen_at": "2026-10-02T06:36:11.585566+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html|6b561866e4bad9e17deec847d5e51dae0be13b6de775276f567922e5f7a237d0": {
+    "seen_at": "2026-10-02T06:36:11.585570+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html|b2533b0d0107401b26f9a021b4e937b0f8399dab81f93c4a05551ea3287e5f07": {
+    "seen_at": "2026-10-02T06:36:11.585574+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html|79dd413c0b6d247dc2fef7f1102df2fa41106f6d107349c4f9e6405d14031223": {
+    "seen_at": "2026-10-02T06:36:11.585578+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html|fd547d9d187625b784f62a32973cca301f3da30bd5db8694a96492a17ba45687": {
+    "seen_at": "2026-10-02T06:36:11.585583+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html|c199a015bf3af220483cf9bb2fbbf1ac69f9176df54c9f005927880a3490a161": {
+    "seen_at": "2026-10-02T06:36:11.585587+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html|9729bbcb2e7b5656a1bf474e3fb0accf461e572dc08eb8516e7dfeb8f11ecacd": {
+    "seen_at": "2026-10-02T06:36:11.585592+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html|8cc8caffe4ad97540f37efb0d801244122d7b9f91a3dd8b5a5a42be241888c09": {
+    "seen_at": "2026-10-02T06:36:11.585596+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html|5e52b5c98651bfc247aae1690c3672c4f0e062b0994652230f1d83234e14f1ba": {
+    "seen_at": "2026-10-02T06:36:11.585599+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html|94dfc6d5ddf9367231b879b223027dec7d7a03fefec7487d688681c4d85ae435": {
+    "seen_at": "2026-10-02T06:36:11.585603+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html|ca575b376c7f090e398501f685d93c2c5e472a37e206dc3ce0f1ef04b1e07963": {
+    "seen_at": "2026-10-02T06:36:11.585607+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/iam-for-ai-agent.html|eae2df69282a8d715ff0f4ceb828834d9350b322fb66b421aa30f555286468a6": {
+    "seen_at": "2026-10-02T06:36:11.585612+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html|5fc73695baf2a1d6b976e3803db996f97886f575048d350e9bc0a9a91a948fc7": {
+    "seen_at": "2026-10-02T06:36:11.585616+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html|f3ef8db3b256860a31e5d53371f5f5af7e4a5c1f089c850fe14475f95327424b": {
+    "seen_at": "2026-10-02T06:36:11.585621+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html|c301c5a1e807be514fa3a8a298963de2c0c2e7452b1770676feed17d7e3d95e0": {
+    "seen_at": "2026-10-02T06:36:11.585625+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html|203cb72b75348926c9fab890db3b1dbb607ee636f40bf8ed3fc2471189674dbc": {
+    "seen_at": "2026-10-02T06:36:11.585629+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html|137608bf5d051db2ab342ac6b5cc90e644e67674acafd2d612aa6fabab7c522b": {
+    "seen_at": "2026-10-02T06:36:11.585633+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html|3ae74dab883d2d246059370b20198667856663a3fcea9d07f0d8d9b0d3007ed4": {
+    "seen_at": "2026-10-02T06:36:11.585638+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html|f3a45dd9147e0bbc33295a409c859f6026417a3cc0b89c479385ecfc3027d4e9": {
+    "seen_at": "2026-10-02T06:36:11.585642+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html|beecc05122922c6054aa0ba7a63a1359b584b79721e18cb7950216b95a431721": {
+    "seen_at": "2026-10-02T06:36:11.585646+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html|141c6ab5f2eaa445067cfdaf6d06c939f7ef094ae4698ee7e9ae085d5e4e46f1": {
+    "seen_at": "2026-10-02T06:36:11.585650+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html|d32f7c70a78da4d23727d9d25f4aec399a9884aef9a4563692fb152037946ae3": {
+    "seen_at": "2026-10-02T06:36:11.585654+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html|91a426e5aba1ed6bc9d1599f4ea77cc112962f311ca9f6f43c2e2e8ba5857d58": {
+    "seen_at": "2026-10-02T06:36:11.585658+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html|eab9df32af8871d84edbe70075617c7c74f48d9fe9a1a944f0b3957a492d4b28": {
+    "seen_at": "2026-10-02T06:36:11.585661+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html|9a66eed2b7f4d34877439d044bfe6392f2a9d30b42bc400ef5613d0924e458dd": {
+    "seen_at": "2026-10-02T06:36:11.585664+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html|5fc74b8fbe541465f018a0f1b57c747fbcbddde579e4e5ea6e21e6d5ba91953c": {
+    "seen_at": "2026-10-02T06:36:11.585668+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html|af42494dc1ed65d7c221301036589bf4517d7d9e5e24b99f7ebe14c51d17c33c": {
+    "seen_at": "2026-10-02T06:36:11.585671+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html|26b957d5fd00795ca6ba00f0a325a35cbe7b0d7cd48800ee92edd065c53711e9": {
+    "seen_at": "2026-10-02T06:36:11.585674+00:00",
+    "source": "thehackernews"
+  },
+  "https://projectzero.google/2026/09/windows-dangling-com.html|67593aa92a0627c9ec094851482662f63bcca23ad14b4d5f7b79d6c38b24a4c9": {
+    "seen_at": "2026-10-02T06:36:11.585677+00:00",
+    "source": "google_project_zero"
+  },
+  "https://projectzero.google/2026/09/maccconc-race-condition.html|f0c456e5abe86e2615edb056d6f40f26d9ec5cb3d462b62fb82325564fc37a3c": {
+    "seen_at": "2026-10-02T06:36:11.585681+00:00",
+    "source": "google_project_zero"
+  },
+  "https://projectzero.google/2026/05/pixel-10-exploit.html|c90890c229901ffc7052e8e8c417c4f3d230da592065119727a114f37bd09444": {
+    "seen_at": "2026-10-02T06:36:11.585685+00:00",
+    "source": "google_project_zero"
+  },
+  "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html|51faaf56d01a8fc5200ec7f4c18770e1e87ba9a2cf0a8d46d0755e74ebddccd4": {
+    "seen_at": "2026-10-02T06:36:11.585689+00:00",
+    "source": "google_project_zero"
+  },
+  "https://projectzero.google/2026/02/gphfh-deep-dive.html|d7d02bb44250d1593c0e5a0544b1d652cf5dbb0c8127d4a155d779eb2adbccc5": {
+    "seen_at": "2026-10-02T06:36:11.585692+00:00",
+    "source": "google_project_zero"
+  },
+  "https://projectzero.google/2026/02/windows-administrator-protection.html|7d33b5b391a90f6ee221f1841638c458ed3a0cd815514edb9b829586c6f66a4a": {
+    "seen_at": "2026-10-02T06:36:11.585696+00:00",
+    "source": "google_project_zero"
+  },
+  "https://projectzero.google/2026/01/sound-barrier-2.html|aa438418d182e1e8173fe04c5c5b98545632f5e60fe3d10b3855f80d2880ad40": {
+    "seen_at": "2026-10-02T06:36:11.585700+00:00",
+    "source": "google_project_zero"
+  },
+  "https://projectzero.google/2026/26/windows-administrator-protection.html|09dd3cec1bab2c9b97b45b7cfd18c5845e13e71f6c17716e3f4f3b8d4f05888c": {
+    "seen_at": "2026-10-02T06:36:11.585704+00:00",
+    "source": "google_project_zero"
+  },
+  "https://projectzero.google/2026/01/pixel-0-click-part-3.html|4dba859d7192fd927df75b6b459070037559774ebb8c3aabb4cfc8d4e4237463": {
+    "seen_at": "2026-10-02T06:36:11.585707+00:00",
+    "source": "google_project_zero"
+  },
+  "https://projectzero.google/2026/01/pixel-0-click-part-2.html|91186a1870a78f1fa6f93996f195a4780ed35c31068b02e36249bb96f66f2bef": {
+    "seen_at": "2026-10-02T06:36:11.585711+00:00",
+    "source": "google_project_zero"
+  },
+  "https://www.rapid7.com/blog/post/ai-changing-security-operations-center-roles-soc|aa322de04203b84a69952353cdefc854b998873f907e1504ac61902653c5fc1f": {
+    "seen_at": "2026-10-02T06:36:11.585715+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-critical-cisco-catalyst-sd-wan-manager-api-authentication-bypass-exploited-in-the-wild-cve-2026-76504|71f665a3a4b6bb8b63d662d95ec1668dc3c248ddb6f9d8815c81c27d7d553162": {
+    "seen_at": "2026-10-02T06:36:11.585718+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/it-higher-education-under-siege-fragmented-security|179c436f26df209238b5e078922364a09f642f83baa596ccc7b9ed8cd4c2d719": {
+    "seen_at": "2026-10-02T06:36:11.585723+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772|3b09cddeebad522dbe7321bc08bbd388060992f5ae2bb6aeb5869bad7bda994b": {
+    "seen_at": "2026-10-02T06:36:11.585727+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-belgian-waffles-chocolates-and-modules-frites|22ece6f065f87bde8b992b7d51cd1bd923e94362a6757781af8ca831ba7efae1": {
+    "seen_at": "2026-10-02T06:36:11.585730+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/ve-business-email-compromise-rewriting-reality-zimbra-cve|503354e09505ec083e6fc941152744bd93fef0f7d3a780ecc50236d4988cfb88": {
+    "seen_at": "2026-10-02T06:36:11.585740+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/em-dynamic-application-security-testing-dast-validates-risk-at-runtime-idc-marketscape|98c4b0878145b637342830c3867eeec980ade24440aea26e83e4e36548b17c15": {
+    "seen_at": "2026-10-02T06:36:11.585747+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-94127-critical-unauthenticated-rce-in-f5-big-ip-apm|8d236f8cb3e843c1a5ff3dea2a13cf8eba479a08f49462ab9c8d1dd4e2f3850c": {
+    "seen_at": "2026-10-02T06:36:11.585751+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-76461-critical-cisco-secure-email-gateway-vulnerability-exploited-in-the-wild|ec6e0b3bb71c7d8912f41310930c2e6557c802d3095f1a45f25431b671893b11": {
+    "seen_at": "2026-10-02T06:36:11.585754+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/dr-forrester-mdr-landscape-notable-vendor-preemptive|5286511283bb8dcf5b2c799f573eb3504a9856b2b37295fb5493fd93849dd88c": {
+    "seen_at": "2026-10-02T06:36:11.585758+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-85706-critical-gitlab-path-traversal-exploited-in-the-wild|575d55f8bcefa3d5c74e97914796039d53fb05ec66793e7ebc9463f767e90782": {
+    "seen_at": "2026-10-02T06:36:11.585761+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-goes-to-sixteen|15550aafeab47a9d48e8e13344ab19ef337bad3e7bcbe17f6a0fd98e5943f823": {
+    "seen_at": "2026-10-02T06:36:11.585765+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/tr-fraud-ecosystem-fragmenting-marketplaces|0727cd53cc11bc601be60f2edef4a08529108dc423229024ae08249ea2baf099": {
+    "seen_at": "2026-10-02T06:36:11.585770+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/pt-credentialed-pre-port-discovery-asking-host|88cfce05fcfe3221fef00c872cef11ac94945dfce3015368cf8baf627db3159a": {
+    "seen_at": "2026-10-02T06:36:11.585773+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/ve-cve-2026-86206-cve-2026-86207-n-able-n-central-authentication-bypass-fixed|765ae59ea85524796b11f3ab17e475303fbbc626f8e1069242c6ef4eaa641475": {
+    "seen_at": "2026-10-02T06:36:11.585777+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/tr-dprk-apts-ted-backdoor-curlrat-target-south-korean-media-automotive-sectors|ca3bdf4a3f334f97fe619ad91c76c1df5215ce9a05b69b44025a91176a25c62f": {
+    "seen_at": "2026-10-02T06:36:11.585781+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-critical-sonicwall-sma1000-vulnerabilities-cve-2026-83548-cve-2026-83549-exploited-in-the-wild|f607d047657e524d6ccc19afb5fc21f31d21e52c6134234cb0334b3b2ec7756e": {
+    "seen_at": "2026-10-02T06:36:11.585785+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners|254f592bb36b1589497355474b5a819e9fa1f79d444f5d7c1d3f5b1b95483032": {
+    "seen_at": "2026-10-02T06:36:11.585788+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-papercut-ng-mf-critical-zero-day-exploited-in-the-wild|130015d52924631500c21b08181f8559a653141860b6fdc96c27e1a74504052d": {
+    "seen_at": "2026-10-02T06:36:11.585792+00:00",
+    "source": "rapid7"
+  },
+  "https://www.thezdi.com/blog/2026/9/23/cve-2024-0244-a-heap-buffer-overflow-in-the-canon-mf753cdw-printer|4e981a1ed4347a1436506068fbedf06950cf85208500a60d9fe3284ef7b25e47": {
+    "seen_at": "2026-10-02T06:36:11.585795+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/9/16/the-apple-security-update-review-for-september-2026|53dda5c54da633615b86e5f519dafe3cc9d0d7cbc8f4bc1d5d4d677bf1321e60": {
+    "seen_at": "2026-10-02T06:36:11.585800+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/9/8/the-september-2026-security-update-review|22d7d9bd80602fb5430875392360dbc8f55da83265e2977c5533a9b4bf3a9a04": {
+    "seen_at": "2026-10-02T06:36:11.585803+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/8/11/the-august-2026-security-update-review|b9a542276630a487debabc6b4538df5dde86c7a1dd4e3464387d6495f1595031": {
+    "seen_at": "2026-10-02T06:36:11.585807+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/7/29/the-july-2026-apple-security-update-review|e5e1d40658115e25d7bb216da51b0f9256ab50fb20e0ca0acb15a3c2b63d9f6b": {
+    "seen_at": "2026-10-02T06:36:11.585810+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/7/21/pwn2own-ireland-2026-new-targets-and-categories|718d91af573de5cc6535e30d97f4ed1d25407d51713eb94fe47ca6d48f7bb6c5": {
+    "seen_at": "2026-10-02T06:36:11.585814+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/7/14/the-july-2026-security-update-review|588ea2420658bc7c96913eb80ec5eec7c7192a860303b035c23d8c3330dcf05f": {
+    "seen_at": "2026-10-02T06:36:11.585817+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/7/9/cve-2026-47291-remote-code-execution-in-the-windows-httpsys|482ee508f1f7eba41f67b9b0a50b7354a5eedbff5ea48ba5a5b32f7a046f7844": {
+    "seen_at": "2026-10-02T06:36:11.585821+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review|69090b7493fd1d21ce658adb1eb1ddef444241e0363cd8d8cf759990b7e5d86b": {
+    "seen_at": "2026-10-02T06:36:11.585825+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/6/9/the-june-2026-security-update-review|d72ab92fa0145768b6e00778ce4c3f7dd7648984871e33df08d52ab977c8df0e": {
+    "seen_at": "2026-10-02T06:36:11.585829+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/5/16/pwn2own-berlin-2026-day-three-results-and-master-of-pwn|2a4376811c71de9d467d9e25b7ae19e9b5189cddc657054ecf1caba7fa6bd58e": {
+    "seen_at": "2026-10-02T06:36:11.585833+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/5/15/pwn2own-berlin-2026-day-two-results|6958060a466cd4711dae675f2ffd09e981abe9695629d08ba4b2564056f1b9e9": {
+    "seen_at": "2026-10-02T06:36:11.585836+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/5/13/pwn2own-berlin-2026-day-one-results|2dd90275eee6f1c666381cb7040e08b891a873a79d796dbd4f3ac195b63b13be": {
+    "seen_at": "2026-10-02T06:36:11.585840+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/5/13/pwn2own-berlin-2026-the-full-schedule|0166ae019b7aa2ecb6df3ff0c3e2bc6e08dce1671d9bfbcad418ff4e37318ae9": {
+    "seen_at": "2026-10-02T06:36:11.585843+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/5/12/the-may-2026-security-update-review|415b55d57bc28005e19536947eb1c5e185f8b5d498b309d60b296b50c56d8614": {
+    "seen_at": "2026-10-02T06:36:11.585846+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review|1b82872496f1e5474e4a07288599a14589d80d52fb7f48a9dd86d55d27b87b66": {
+    "seen_at": "2026-10-02T06:36:11.585849+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/4/22/cve-2026-33824-remote-code-execution-in-windows-ikev2|0fc1818f51e1cb0914f1a0e4a6e16cebe9367583c3db0bf6c7ebb61d47df74ab": {
+    "seen_at": "2026-10-02T06:36:11.585852+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/4/14/the-april-2026-security-update-review|f4487e9bc79a914cffa378275b8e5cfece3a11d5344cf0acb272c6f36d240911": {
+    "seen_at": "2026-10-02T06:36:11.585856+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/4/8/nodejs-trust-falls-dangerous-module-resolution-on-windows|6599022d04e3184396932fa362eca4c8e67577c81ae05d1e294c7e9c3817aebb": {
+    "seen_at": "2026-10-02T06:36:11.585860+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/3/11/announcing-pwn2own-berlin-for-2026|abcea963dbb1f609cb9fd9774f61adfab9232c59af8107858bc18b6d3c3858ba": {
+    "seen_at": "2026-10-02T06:36:11.585863+00:00",
+    "source": "zdi"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0307|bbca0853ed973b92872926dbbdc8150ef406ea12142abc0324f2155271033435": {
+    "seen_at": "2026-10-02T06:36:11.585867+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0298|9621d0668160552e9bfb005fa81c5b1270dfa8caba2cde72f6dc68723113f396": {
+    "seen_at": "2026-10-02T06:36:11.585870+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0299|0727d0d57ba447d517c6a314385ab4550ef491f6f867bc554eb19e65741f2d6a": {
+    "seen_at": "2026-10-02T06:36:11.585873+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0295|f4dccaf42935147d7546badcb94b6b51db94fdaf190e8ea478c402526e3f761f": {
+    "seen_at": "2026-10-02T06:36:11.585877+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0250|c69fa52bff7cf6eebecabbdcc3969fd747e72d5c00e68b132c3e270979566c9a": {
+    "seen_at": "2026-10-02T06:36:11.585880+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0297|87db91a905296f1cd9de7997e257af5f35b43d066608cb435fb4f51efcc80096": {
+    "seen_at": "2026-10-02T06:36:11.585883+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0296|e54c253a2c4b3ce542e5bb54de6ca5c741818c8faf7550d0f5119e7cefee5d81": {
+    "seen_at": "2026-10-02T06:36:11.585887+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0308|f21b8168d95011b73850502383904aefa3c966e92aef71b6f90aa62450b5c7a9": {
+    "seen_at": "2026-10-02T06:36:11.585890+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0304|750946dd5a677411a402b7daab03773f1b5416178b9ab58544f12134eec345c2": {
+    "seen_at": "2026-10-02T06:36:11.585894+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0309|0100565da369602448cd1abb158bf3d62735d7794a5034cd68ab631e8d5d92af": {
+    "seen_at": "2026-10-02T06:36:11.585897+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0305|a1fff67894fafa9de5f3cfeba8e71be42e97db873dd7badc3d33e3ceb7da0f5b": {
+    "seen_at": "2026-10-02T06:36:11.585900+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0306|22fe23b11cea1b774b787d8f0a2982528e5c4e513eadc1e9b855ef3fd7e3405f": {
+    "seen_at": "2026-10-02T06:36:11.585903+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0303|031a24f01f35cf4ead7310ccc674dbf03b711564f08ad4c0b8fa877c24a3eb32": {
+    "seen_at": "2026-10-02T06:36:11.585906+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0310|090a93ead8f5258e2ab752558ce116a981c1c0de2bbf1f0bb1d998111d18da12": {
+    "seen_at": "2026-10-02T06:36:11.585910+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0302|28d28d26ed0106fdbab2ff08eb6548d2a66f73314d7b6d61bb57f490b7fe75ae": {
+    "seen_at": "2026-10-02T06:36:11.585914+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/PAN-SA-2026-0012|4dcf0b5bf1974621920eb6889b544ea0d05a9ba1ffdae9b0d844f34ea8e5ce54": {
+    "seen_at": "2026-10-02T06:36:11.585917+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0251|3e7336381f383385a7c3603c562e90d62df3ab033550280192509f48f30e2370": {
+    "seen_at": "2026-10-02T06:36:11.585920+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0292|0ad1027c97428de50e3d2cf19c7fe2ce309c5c355bc7705bebff4a90775c1cbb": {
+    "seen_at": "2026-10-02T06:36:11.585924+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0294|805910a8b7a2923e07dcec4722458335dcd4b7bac2636eeb24361d64cc1feacb": {
+    "seen_at": "2026-10-02T06:36:11.585927+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0293|be2688323a1a49ed8267c9a4ed918ae8a1beb09cae165c89d3fb536e4b9ca50d": {
+    "seen_at": "2026-10-02T06:36:11.585931+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/PAN-SA-2026-0011|79094ac5835246c4c77c8d65c2e55012b74c34ea359a8fb8815f383d3c1871d7": {
+    "seen_at": "2026-10-02T06:36:11.585934+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0291|4b4db14de86e49e0419cc7b0767ca275553ac8f64020acffa24efdcfab0dcb3d": {
+    "seen_at": "2026-10-02T06:36:11.587088+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0301|202908c2cf38358dc924c9cd2621913a2b99a6d2bebb1e2f9b523302dcb04fe0": {
+    "seen_at": "2026-10-02T06:36:11.587096+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0279|a3334a82aa8f42a570cfe5a390114b772e7df5b9fd2f9fcf35b50e2f0a0a20b8": {
+    "seen_at": "2026-10-02T06:36:11.587100+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0280|0d8bb9e8838643a9a7f6c51176b4119854ce53098e95ea38b4bde9d74a5682a4": {
+    "seen_at": "2026-10-02T06:36:11.587103+00:00",
+    "source": "palo_alto"
+  }
+}
