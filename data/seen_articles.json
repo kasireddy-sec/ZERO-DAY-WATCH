@@ -998,5 +998,13 @@
   "https://www.rapid7.com/blog/post/tr-smtp-is-the-key-bpfdoor-averat-hitting-the-network-edge|1190cdde988a913dded93d8ee87ef53f2eb10281d4f495bec1a0a97604700f94": {
     "seen_at": "2026-10-02T18:20:09.174055+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees|29052b0f40cc6c7e659174a1f0579864b2a0096ad92fb5094d30715ed08cdeeb": {
+    "seen_at": "2026-10-02T22:26:58.517094+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks|7896e3ef84e83bc8638dd09142f68909c48beb5543d1e074c6d6b91a3beed18f": {
+    "seen_at": "2026-10-02T22:26:58.517110+00:00",
+    "source": "bleepingcomputer"
   }
 }
