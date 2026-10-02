@@ -914,5 +914,45 @@
   "https://security.paloaltonetworks.com/CVE-2026-0280|0d8bb9e8838643a9a7f6c51176b4119854ce53098e95ea38b4bde9d74a5682a4": {
     "seen_at": "2026-10-02T06:36:11.587103+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges|1b41c09250c4d4b4f0f0a5414db1ecd6e2eb37b76d9507dbe198718dc6f9cccb": {
+    "seen_at": "2026-10-02T12:59:33.801386+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme|b1cec37f0f048203c66169ed093fcbb20e917b1a77c5e5723abb9ae2940e2291": {
+    "seen_at": "2026-10-02T12:59:33.801400+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability|315e5432a0fe953b9811e3a4c3e94897e943f40c9d61913896eab42a958a6d58": {
+    "seen_at": "2026-10-02T12:59:33.801411+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people|188f8458ec0fc481177e6946368817c8c4d8aa4ec9d8a47a397c4ed7f575a02f": {
+    "seen_at": "2026-10-02T12:59:33.801414+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach|c0d20230c10f88d6f4644237a9ead20985d162cdcfbc240676bbc7cbe5530dd0": {
+    "seen_at": "2026-10-02T12:59:33.801417+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html|64a4cc33a497ae414a0f649d7a82539428177bc20f0cf73d50d751cfce380df8": {
+    "seen_at": "2026-10-02T12:59:33.801420+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html|1cd0fcc35ad90cfb6b176cb5c480b3b65a03a8fcabad11c4d59322574f541697": {
+    "seen_at": "2026-10-02T12:59:33.801422+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html|e9c8cbf8b7e70d862b7d37b5c1c98772639c9d4e3770426016aac72542a7ecc1": {
+    "seen_at": "2026-10-02T12:59:33.801425+00:00",
+    "source": "thehackernews"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0250|175fa28e5356d60d05e740a457499c39db2051d09bb6a4bd410ea654ef15845a": {
+    "seen_at": "2026-10-02T12:59:33.801577+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0281|ba40b7d21b5b5c4602ec793dc30444d92beb3010ee9277867ba8c689fe4040c0": {
+    "seen_at": "2026-10-02T12:59:33.801612+00:00",
+    "source": "palo_alto"
   }
 }
