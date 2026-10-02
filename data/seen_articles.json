@@ -954,5 +954,49 @@
   "https://security.paloaltonetworks.com/CVE-2026-0281|ba40b7d21b5b5c4602ec793dc30444d92beb3010ee9277867ba8c689fe4040c0": {
     "seen_at": "2026-10-02T12:59:33.801612+00:00",
     "source": "palo_alto"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|b6ec26c443455a4d439853f5f028d531df68435b7212742900b91786381dcb8a": {
+    "seen_at": "2026-10-02T18:20:09.173886+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|5388a957adac888c7841effc1e2a6103cd87700cb02bdf9f2b02514f99f5dee6": {
+    "seen_at": "2026-10-02T18:20:09.173905+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service|b2d2c17f0c08c4f866a27e77e5e7ee993e905f5753cdec536bd45ea48d451aee": {
+    "seen_at": "2026-10-02T18:20:09.173945+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown|7c394060fe13a7955326a69e5e3919bff4325d6089b2cb7f34d0d2a8bd7f550c": {
+    "seen_at": "2026-10-02T18:20:09.173949+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry|dd9746717aa1fad8b139b940c490c0d3197aa190ead7f6b43b8351544deaf8ec": {
+    "seen_at": "2026-10-02T18:20:09.173953+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html|7efdc2742ec553519654707c598497ccd255afbf7048ca6a77371b115a1def21": {
+    "seen_at": "2026-10-02T18:20:09.173967+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html|7f1b94a793373102d9c939578380484e169c654433c3e00120360b18e0eed9bd": {
+    "seen_at": "2026-10-02T18:20:09.173971+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html|8f3f43e18cd7858e8a203c07ec72f147c7193d5468cfe537588e711a770188d9": {
+    "seen_at": "2026-10-02T18:20:09.173974+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html|ba84bd3f3dce4f4f8152b5c1468dcbd46eb635c4442459ad0739f73d236d1290": {
+    "seen_at": "2026-10-02T18:20:09.173977+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html|f32edae407721e43aac8e126f319681d5a3c090f677ab84eace007f31caad376": {
+    "seen_at": "2026-10-02T18:20:09.173980+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/tr-smtp-is-the-key-bpfdoor-averat-hitting-the-network-edge|1190cdde988a913dded93d8ee87ef53f2eb10281d4f495bec1a0a97604700f94": {
+    "seen_at": "2026-10-02T18:20:09.174055+00:00",
+    "source": "rapid7"
   }
 }
