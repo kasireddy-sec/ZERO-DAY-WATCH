@@ -1006,5 +1006,9 @@
   "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks|7896e3ef84e83bc8638dd09142f68909c48beb5543d1e074c6d6b91a3beed18f": {
     "seen_at": "2026-10-02T22:26:58.517110+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html|1061c816c0d80c93d80b5fba51041ba1e2e39edc3ad5d842593e28f04f730af7": {
+    "seen_at": "2026-10-03T12:13:22.147033+00:00",
+    "source": "thehackernews"
   }
 }
