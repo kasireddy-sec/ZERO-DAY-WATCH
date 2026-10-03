@@ -1022,5 +1022,9 @@
   "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html|655c5efcc6f2cc8ecf22dea233e98f31ed6ceaec526adb4daa95bd1684115286": {
     "seen_at": "2026-10-03T16:35:29.681664+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi|5ba586344e2b4100c73c9436e5cfa61c572659f9a54d43063fd54d1e7f32aff5": {
+    "seen_at": "2026-10-03T19:40:34.525250+00:00",
+    "source": "bleepingcomputer"
   }
 }
