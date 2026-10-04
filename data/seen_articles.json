@@ -1030,5 +1030,17 @@
   "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web|10f1b7fc28806d23bb7cb891be81acef2df74409bc117df9901a4e602cde234d": {
     "seen_at": "2026-10-04T02:23:22.983371+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html|22f0531b6c1579754d6077186d02d80a4b2ef68d42114cb82e0700b3889f0208": {
+    "seen_at": "2026-10-04T08:39:14.327442+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html|f35d455122ff07735042cfabbd2ea514ba173698b24e9409b979d8bbf5c6cc30": {
+    "seen_at": "2026-10-04T08:39:14.327455+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html|6954a197d8c7fc006536507b51ebbcc4e2ab5432b828efeba3315e4bd89c9489": {
+    "seen_at": "2026-10-04T08:39:14.327472+00:00",
+    "source": "thehackernews"
   }
 }
