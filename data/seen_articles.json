@@ -1042,5 +1042,9 @@
   "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html|6954a197d8c7fc006536507b51ebbcc4e2ab5432b828efeba3315e4bd89c9489": {
     "seen_at": "2026-10-04T08:39:14.327472+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training|499b02f187b864eac61083df7aeb1e8a3dba4bc564bec605ee362cb857180d95": {
+    "seen_at": "2026-10-04T14:37:01.238277+00:00",
+    "source": "bleepingcomputer"
   }
 }
