@@ -1046,5 +1046,13 @@
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training|499b02f187b864eac61083df7aeb1e8a3dba4bc564bec605ee362cb857180d95": {
     "seen_at": "2026-10-04T14:37:01.238277+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|d9ac37e46b7bac3453b038b51fd061a5e359588f144be4a30459dec8fac78a21": {
+    "seen_at": "2026-10-04T22:12:13.518234+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks|002599b9bfe2887f479b7ae1311d38e95c60a9b7ec8a545f0d1d30b6796891ac": {
+    "seen_at": "2026-10-04T22:12:13.518284+00:00",
+    "source": "bleepingcomputer"
   }
 }
