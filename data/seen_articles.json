@@ -1054,5 +1054,61 @@
   "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks|002599b9bfe2887f479b7ae1311d38e95c60a9b7ec8a545f0d1d30b6796891ac": {
     "seen_at": "2026-10-04T22:12:13.518284+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people|1c7f6940da7139da9a336352a0295475bed85305a90d831aa99fed51c5b4c55d": {
+    "seen_at": "2026-10-05T16:18:09.177824+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges|63903210320efb758929c41c2435debfbacd35aca136597aae00ab6b4eb218ab": {
+    "seen_at": "2026-10-05T16:18:09.177842+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks|cd9fd6484ef32dbf3201c884ed96d9b0e9060d71959e55f76a7deb009c943833": {
+    "seen_at": "2026-10-05T16:18:09.177847+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features|3478f8e2253c97a825f4971303a32ec25e44ea2ff06b5ddbb7a759ebcbd60396": {
+    "seen_at": "2026-10-05T16:18:09.177851+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest|24021d45ec93b8bd2ae2f0f27647d7fa59873d6366cd9580a9f0a1336c812024": {
+    "seen_at": "2026-10-05T16:18:09.177854+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html|585ae848b5227fbedcb2a1892ba7fe0255b59c1940578f794317e94b1011d77d": {
+    "seen_at": "2026-10-05T16:18:09.177858+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html|71dcd6ff8e1cfbc8c2b5aa1692fd6623f5dbf924cd4fd8ca4c77cc90d0efbacf": {
+    "seen_at": "2026-10-05T16:18:09.177862+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html|d514c7f66161f3539e8c762ee4ecac3a5b472ff4548935803b0392ee47ea836e": {
+    "seen_at": "2026-10-05T16:18:09.177865+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html|5a87ec0e9b8c0b3601c266782c113d121191b072bedc6cc0cfbc4395680922ab": {
+    "seen_at": "2026-10-05T16:18:09.177868+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html|6ff618616d8a9e30607d4b66977761f8d42de631c7f727f20459027f9443845c": {
+    "seen_at": "2026-10-05T16:18:09.177871+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html|426d9c6f9610eb3d76a5b2b70deb472bdb94eb1389f68436a59c38eeb1981af9": {
+    "seen_at": "2026-10-05T16:18:09.177875+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html|e889c1cad5535710d7da32ae60b41cdf20d3b4085cd6564d3329245f5b9a7306": {
+    "seen_at": "2026-10-05T16:18:09.177878+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html|2326451b2580823b4f426db1a550132588b6649d358b7fab7c2533ddf2473a3a": {
+    "seen_at": "2026-10-05T16:18:09.177914+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772|e6c6978bab96eb02c78bbed229a4b3dc296324a37656c88a41d49f66ba526fd3": {
+    "seen_at": "2026-10-05T16:18:09.177946+00:00",
+    "source": "rapid7"
   }
 }
