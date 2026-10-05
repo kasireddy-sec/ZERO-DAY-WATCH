@@ -1110,5 +1110,25 @@
   "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772|e6c6978bab96eb02c78bbed229a4b3dc296324a37656c88a41d49f66ba526fd3": {
     "seen_at": "2026-10-05T16:18:09.177946+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu|e8408551ce1566591a9800debcde928f0139b6f7266206f6c116fa07ac58633d": {
+    "seen_at": "2026-10-05T22:50:23.363630+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw|d859b197bc76ce0da0d6924418193f5c5eae47a87e3d8e189daf66a10239c2a0": {
+    "seen_at": "2026-10-05T22:50:23.363647+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data|3df8feeacbaf45f81aaecf2b49885dc3b09a498c71bcb3446b58ef0161d98fda": {
+    "seen_at": "2026-10-05T22:50:23.363651+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html|3e3beff83c17395351db9ef202a98c7b3e375b82c3d847af397a7fe0cfb6899e": {
+    "seen_at": "2026-10-05T22:50:23.363657+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.thezdi.com/blog/2026/10/5/pwn2own-ireland-2026-the-full-schedule|8a566ef0fec4f71e939a2a1b15d4a8a18a3081ba6f02ee5b07f6734a908076c9": {
+    "seen_at": "2026-10-05T22:50:23.363732+00:00",
+    "source": "zdi"
   }
 }
