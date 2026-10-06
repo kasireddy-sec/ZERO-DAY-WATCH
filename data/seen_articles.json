@@ -1130,5 +1130,41 @@
   "https://www.thezdi.com/blog/2026/10/5/pwn2own-ireland-2026-the-full-schedule|8a566ef0fec4f71e939a2a1b15d4a8a18a3081ba6f02ee5b07f6734a908076c9": {
     "seen_at": "2026-10-05T22:50:23.363732+00:00",
     "source": "zdi"
+  },
+  "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts|4e777e50173eb00c544e034464c104b52af4d3df705b167b220b6af43bedfe8f": {
+    "seen_at": "2026-10-06T09:46:09.937428+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network|6b9f9a08b199544eab0f34d1c8005f1c7b2a67f96847fcaec7b21378d8413990": {
+    "seen_at": "2026-10-06T09:46:09.937446+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html|b1054bc67cfd55d4b196e4b35a72fb8c0d0c5590e252865ace3cbe75e3e1c227": {
+    "seen_at": "2026-10-06T09:46:09.937455+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html|61748cbb3e66f171fba8c85493eee81391d0d5a0b6c5f0f4e54c161ae9339ee9": {
+    "seen_at": "2026-10-06T09:46:09.937486+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html|5988a8214ff6b13890273cca4f3ed9384582a4df2e4659824be49bd91af91b8e": {
+    "seen_at": "2026-10-06T09:46:09.937495+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html|44ba0eea49f5f22d3595404691a65b3412eda2014b127cf123038789c40e161d": {
+    "seen_at": "2026-10-06T09:46:09.937502+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html|eb96be019515587be9f4c678bdd21ca267b26e38c48517a576b04de9e4ca01ec": {
+    "seen_at": "2026-10-06T09:46:09.937507+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html|fa0436ab793ed0c7f310d2ef26e82fc175564bd12f805fb5d13b5de14a01129f": {
+    "seen_at": "2026-10-06T09:46:09.937526+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.thezdi.com/blog/2026/10/6/pwn2own-ireland-2026-day-one-results|652edffc0f794ec41d1ef2249f6ec1d50264638485c295427e69610c22a49d56": {
+    "seen_at": "2026-10-06T09:46:09.937606+00:00",
+    "source": "zdi"
   }
 }
