@@ -1166,5 +1166,41 @@
   "https://www.thezdi.com/blog/2026/10/6/pwn2own-ireland-2026-day-one-results|652edffc0f794ec41d1ef2249f6ec1d50264638485c295427e69610c22a49d56": {
     "seen_at": "2026-10-06T09:46:09.937606+00:00",
     "source": "zdi"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes|ccfa85b158890dda29370fce86fa3d28232dc79586deb5350d65039be00d4a8c": {
+    "seen_at": "2026-10-06T16:29:46.396523+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test|a24b498f599f973f9534cb3d9f0c7c0c337be1d581adeb66077458861451a8eb": {
+    "seen_at": "2026-10-06T16:29:46.396537+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits|f43e7f577332daf20b56429d21f36e3ea504e71ccc2a0b2dfa1542c5022fe917": {
+    "seen_at": "2026-10-06T16:29:46.396542+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html|0e96d30db463176055593347b11bf6334e487918fb7b2aef4da2eacb03222e55": {
+    "seen_at": "2026-10-06T16:29:46.396548+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html|e5b14ac30ee6ce7d4bb41d3aadb85595c30c954661fc86e42bda0d87873e81c0": {
+    "seen_at": "2026-10-06T16:29:46.396552+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html|531429d19d633db22db0de66a424e2a35d0f91a45da41d1676874f18f1089ae3": {
+    "seen_at": "2026-10-06T16:29:46.396555+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/ai-securing-agent-to-agent-communication-next-identity-frontier|27f31a0a9084d63d1f301dc0e91acf5aaec074f3c2e877ac6c48eeedf5550d6f": {
+    "seen_at": "2026-10-06T16:29:46.396614+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772|3f55782aec96b7a63a9e0837b6e5d516f1d1898c38ebf806362e71a67d136a0a": {
+    "seen_at": "2026-10-06T16:29:46.396621+00:00",
+    "source": "rapid7"
+  },
+  "https://www.thezdi.com/blog/2026/10/6/pwn2own-ireland-2026-day-one-results|5b563b32b7952c9e46fe05f34019fee92e7021029beb278571bf4f90f47896d0": {
+    "seen_at": "2026-10-06T16:29:46.396636+00:00",
+    "source": "zdi"
   }
 }
