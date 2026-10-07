@@ -1234,5 +1234,13 @@
   "https://www.thezdi.com/blog/2026/10/6/pwn2own-ireland-2026-day-one-results|54d725b7c815a1125960bca63c2b19cb84df2bd5e543f4aef431a31b542ea0f5": {
     "seen_at": "2026-10-06T21:10:36.039041+00:00",
     "source": "zdi"
+  },
+  "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html|672a27c1da9701aba256c083cf9c0be7acef30b37389745c83586ed9112984fb": {
+    "seen_at": "2026-10-07T06:50:42.320350+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html|c9c4699e4d916f53d9c4787d9aa0289013e2dff83723d9cae5d92df1d892c067": {
+    "seen_at": "2026-10-07T06:50:42.320372+00:00",
+    "source": "thehackernews"
   }
 }
