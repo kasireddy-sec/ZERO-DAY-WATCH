@@ -1310,5 +1310,45 @@
   "https://www.thezdi.com/blog/2026/10/5/pwn2own-ireland-2026-the-full-schedule|968cee043fc2f670cf555fc0f9b88eb6c5e1767b16f20d933886989ce5c91724": {
     "seen_at": "2026-10-07T14:12:29.042910+00:00",
     "source": "zdi"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks|e5dae93362b4d8c9c87fad23e413884d04501c87ed67076cd0b3a93045e43c94": {
+    "seen_at": "2026-10-07T20:04:45.291718+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks|c11532025b0f9491301811ff2643b77254d2a8cffecf4c70513b1e5507005998": {
+    "seen_at": "2026-10-07T20:04:45.291737+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html|5aaf90eb77fec73fb230330f024a0d04eff65dec76023b50862739c262f4b287": {
+    "seen_at": "2026-10-07T20:04:45.291746+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html|a1085aca94bf1568213c4ffe868935b0627967d18b28a56ea4153c52776d9a26": {
+    "seen_at": "2026-10-07T20:04:45.291749+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html|b79169c75ebcf13fda1b14fd624d35029a237467bcd6f0aa8cbb5e0248439344": {
+    "seen_at": "2026-10-07T20:04:45.291753+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html|c50a551464b7855ff9d401fbe3571cc183460a499d5112183aa6903b9aca2c64": {
+    "seen_at": "2026-10-07T20:04:45.291756+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html|05acfe43b7bb3f3da18eb2ed285e46161bc71d0dce703709a6ae114e0e86907e": {
+    "seen_at": "2026-10-07T20:04:45.291759+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html|9c29b53fb431197247986a1a2e5b68ff4a6d3245bd768a4244d89be798757570": {
+    "seen_at": "2026-10-07T20:04:45.291775+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/it-compliance-frameworks-for-universities-drowning-in-regulatory-risk|ef050bcbbe8870203b163ac4ad58b38568426645ca0eb0276279875ed63e727a": {
+    "seen_at": "2026-10-07T20:04:45.291837+00:00",
+    "source": "rapid7"
+  },
+  "https://www.thezdi.com/blog/2026/10/7/pwn2own-ireland-2026-day-two-results|38adac805144d7f7814c93e6c452f20483e04a98c7ece4678e5e7bacbee9c0dd": {
+    "seen_at": "2026-10-07T20:04:45.291864+00:00",
+    "source": "zdi"
   }
 }
