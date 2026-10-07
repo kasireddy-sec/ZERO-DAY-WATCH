@@ -1242,5 +1242,73 @@
   "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html|c9c4699e4d916f53d9c4787d9aa0289013e2dff83723d9cae5d92df1d892c067": {
     "seen_at": "2026-10-07T06:50:42.320372+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready|4759e647af6b016898dd735593ea9765e1d21f420cbe86418c2bdb65c1c3334d": {
+    "seen_at": "2026-10-07T14:12:29.042754+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release|04443fbf0bb547e79f37de203298e924d08158344e0533b2e5a9f57fecf98a88": {
+    "seen_at": "2026-10-07T14:12:29.042774+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways|ed4c6302726dd7278aa3b3a6b81361a997faba904a1caf9a642f70821e9027f4": {
+    "seen_at": "2026-10-07T14:12:29.042779+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots|b5500dc2eb5adda7c9ed2f5bb891c823951e3c5196bd905505d798abf1c541cd": {
+    "seen_at": "2026-10-07T14:12:29.042783+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack|f2c4c83800597fa3861d61103c602fd54e6c249995893db0dce73acd303bf005": {
+    "seen_at": "2026-10-07T14:12:29.042786+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html|8ddb708ceca94fed46445364ae8c953ea6d7ab0bed9b32e96d2c38e31a05e16b": {
+    "seen_at": "2026-10-07T14:12:29.042790+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html|d60e3415cd0dfd5d983a02af4e4c7e800a4ca2b7b15b65d2caf1799d5dfa81d3": {
+    "seen_at": "2026-10-07T14:12:29.042795+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html|bfe3f9fe7db29fe85a60cb37621c597f05118a1dae724e58c0af8ab0bcbd9750": {
+    "seen_at": "2026-10-07T14:12:29.042798+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html|33c27e7e0e7d3d097094235809a6d390ec9e23d402a9b42bf0b4120059fa7e51": {
+    "seen_at": "2026-10-07T14:12:29.042801+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html|bf95426447d63c34cad10848b232eca2ee8be7dbe0432b73fe0c0c515da28153": {
+    "seen_at": "2026-10-07T14:12:29.042805+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html|e7c4292a10190f4fb1c67bad186f554172661d5d439c9622d82ca49a7cd9ef1b": {
+    "seen_at": "2026-10-07T14:12:29.042809+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html|a1c9045940f0ec56ef215d93c293de836a977e98a816414c8c900dba4e492306": {
+    "seen_at": "2026-10-07T14:12:29.042817+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html|2255a5a4450c1528d3055adf3e95146955c71969bbaf2f6a6d70d7ca118fa96c": {
+    "seen_at": "2026-10-07T14:12:29.042833+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products|776c23e69b251c927e6278f93739fd293fd5779c36721d26d6b9f0bb4f5275bf": {
+    "seen_at": "2026-10-07T14:12:29.042880+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/it-asos-incident-attackers-using-channels-customers-trust|e827609e34ef9394bbe643d871acd1cc4281870d1338e53751d8c42034f56e6a": {
+    "seen_at": "2026-10-07T14:12:29.042883+00:00",
+    "source": "rapid7"
+  },
+  "https://www.thezdi.com/blog/2026/10/7/pwn2own-ireland-2026-day-two-results|d79ea0fb17a60c7be93aaceda831c4cf8ab75eaf0db853c4077c0869a52014e8": {
+    "seen_at": "2026-10-07T14:12:29.042906+00:00",
+    "source": "zdi"
+  },
+  "https://www.thezdi.com/blog/2026/10/5/pwn2own-ireland-2026-the-full-schedule|968cee043fc2f670cf555fc0f9b88eb6c5e1767b16f20d933886989ce5c91724": {
+    "seen_at": "2026-10-07T14:12:29.042910+00:00",
+    "source": "zdi"
   }
 }
