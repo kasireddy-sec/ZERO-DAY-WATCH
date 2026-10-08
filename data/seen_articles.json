@@ -1350,5 +1350,21 @@
   "https://www.thezdi.com/blog/2026/10/7/pwn2own-ireland-2026-day-two-results|38adac805144d7f7814c93e6c452f20483e04a98c7ece4678e5e7bacbee9c0dd": {
     "seen_at": "2026-10-07T20:04:45.291864+00:00",
     "source": "zdi"
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments|dcf434689ea231ce39471c32a9c30fdb8107c1e43f166450ec48d80b4224d00d": {
+    "seen_at": "2026-10-08T00:19:34.117096+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins|2a22162f949e754f874f9e9adb18b47d65bace59842e1db0cefc1c306bc93d74": {
+    "seen_at": "2026-10-08T00:19:34.117115+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries|7db93294de2aa3e801bac47e1d12d99eb26b10dc2d3d1540d294def6465118c2": {
+    "seen_at": "2026-10-08T00:19:34.117120+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.thezdi.com/blog/2026/10/7/pwn2own-ireland-2026-day-two-results|5974302a54964767cd6e52c380827a913d57b334173aaa6d33a09d1f7d7a22e3": {
+    "seen_at": "2026-10-08T00:19:34.117215+00:00",
+    "source": "zdi"
   }
 }
