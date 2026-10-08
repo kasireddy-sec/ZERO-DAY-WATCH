@@ -1366,5 +1366,13 @@
   "https://www.thezdi.com/blog/2026/10/7/pwn2own-ireland-2026-day-two-results|5974302a54964767cd6e52c380827a913d57b334173aaa6d33a09d1f7d7a22e3": {
     "seen_at": "2026-10-08T00:19:34.117215+00:00",
     "source": "zdi"
+  },
+  "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html|b1c3878945f8c91ddb7a673ce6ca83f421cb29f49633f959fc0ac5181118ed7e": {
+    "seen_at": "2026-10-08T06:27:58.714280+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html|99849393061e5a7518e153807b42a63b2207d05462099b041e9f1c737d272d15": {
+    "seen_at": "2026-10-08T06:27:58.714298+00:00",
+    "source": "thehackernews"
   }
 }
