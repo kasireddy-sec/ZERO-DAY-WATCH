@@ -1374,5 +1374,61 @@
   "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html|99849393061e5a7518e153807b42a63b2207d05462099b041e9f1c737d272d15": {
     "seen_at": "2026-10-08T06:27:58.714298+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft|93a93478c8c3b82d38d32e6018562fd50a9a155d73888061add41be878d1c9c4": {
+    "seen_at": "2026-10-08T13:53:15.710319+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection|f2fca869677e08875cff108436a15abd37715f98ce970d7b5bc37ae27902a517": {
+    "seen_at": "2026-10-08T13:53:15.710340+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft|c6167af47337487b8646d6db9df77287801f4cd5ef21d340580f74a18c290290": {
+    "seen_at": "2026-10-08T13:53:15.710345+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison|54148ed68ff5195f54a17999662a9ca356ea485c33d40cc75afd0344e0208ab6": {
+    "seen_at": "2026-10-08T13:53:15.710347+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland|6aed7c80d0ceeccf9fb9746a19c8fc5049ec9c8ca0f037ad50d87a11b9e8eefe": {
+    "seen_at": "2026-10-08T13:53:15.710350+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html|8e46f2fa33d0bb6921536358409f4ee480fb38ffbe6c177bcfbba4c6c11220cb": {
+    "seen_at": "2026-10-08T13:53:15.710355+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html|287bed85dd7aef9ffa1a53c244d9320de1dda3ce75ebe10f8cbb6a422b0c275e": {
+    "seen_at": "2026-10-08T13:53:15.710357+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html|94a010d1217e5ea489d8fc7d81fc7ec4912fcac19f28441dc01bd18cf257c3a2": {
+    "seen_at": "2026-10-08T13:53:15.710360+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html|b7594772b8a9a18fd2de8aab2cc0aafe5a857d280e0cb34c8a0aab479a2ace54": {
+    "seen_at": "2026-10-08T13:53:15.710363+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html|de6112608fee8d0a29e7a01d7e31f0d9ea4b2b9024d4132ab099643012e54950": {
+    "seen_at": "2026-10-08T13:53:15.710366+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html|2ec993323082536fb9597a7cbfa9e62b2bcad60ffdff20183d9705823439b5a0": {
+    "seen_at": "2026-10-08T13:53:15.710377+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/it-compliance-frameworks-for-universities-drowning-in-regulatory-risk|2d3a22382df3d63f92cf1af7fab99806676381e9807bfd54a9bed6eeddc091cc": {
+    "seen_at": "2026-10-08T13:53:15.710437+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/it-asos-incident-attackers-using-channels-customers-trust|d42f0f554ba1970c30860d83bacb8a5e753cd9f84fde4f91c7ad9ef41483e373": {
+    "seen_at": "2026-10-08T13:53:15.710442+00:00",
+    "source": "rapid7"
+  },
+  "https://www.thezdi.com/blog/2026/10/8/pwn2own-ireland-2026-day-three-results-amp-master-of-pwn|c79974b8ffe2ccc2eff2ae0ec977556d0c3ea9eaba652f728b48bbacaf3232bc": {
+    "seen_at": "2026-10-08T13:53:15.710465+00:00",
+    "source": "zdi"
   }
 }
