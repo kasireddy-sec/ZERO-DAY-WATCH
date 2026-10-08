@@ -1430,5 +1430,77 @@
   "https://www.thezdi.com/blog/2026/10/8/pwn2own-ireland-2026-day-three-results-amp-master-of-pwn|c79974b8ffe2ccc2eff2ae0ec977556d0c3ea9eaba652f728b48bbacaf3232bc": {
     "seen_at": "2026-10-08T13:53:15.710465+00:00",
     "source": "zdi"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|40f19cba65b6f55f40b165c09aad1c2fdeda8d43e3003a736fe4a1e9460c6c27": {
+    "seen_at": "2026-10-08T19:40:22.056661+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|09b1b4b9a36feabceb40864b1bf68aa40864b56f1db522dc6e667713db33ac4c": {
+    "seen_at": "2026-10-08T19:40:22.056679+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|f9fec849b7ac215799bcce4ac6a2984e706b4b9c2d8791ece13b9f49ef15653f": {
+    "seen_at": "2026-10-08T19:40:22.056684+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|5ada5839d47b210bb842bbb8eb7755deab9630f2e6b79d6b9b48a0a7ec123dda": {
+    "seen_at": "2026-10-08T19:40:22.056687+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|55734d6be56ab1df8fdea69255332f7f51463a6f9cd2e2ad454f6bebcec37072": {
+    "seen_at": "2026-10-08T19:40:22.056689+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|2d1c0000d41c9cbae1bd4a34f335325601a0910eff54c4df27d588e8e778ce0b": {
+    "seen_at": "2026-10-08T19:40:22.056693+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|9671560d5a2ed82505bca53632ed0ede357a3e4d2c0b7672cbddebf980abb9ea": {
+    "seen_at": "2026-10-08T19:40:22.056699+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|e2de422af6b096c7815ed005a70779278d77cab20191e2205a52bef17f95c299": {
+    "seen_at": "2026-10-08T19:40:22.056718+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware|998d2c01083e47c44bfb573c51fb63eeedd51a1b5f51329faa78eefe7dca3e33": {
+    "seen_at": "2026-10-08T19:40:22.056735+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos|1cbf4c3a7f2a6858f2f08abfeb65393f22e4fdce03a7f8d43273ecc1c9ad1755": {
+    "seen_at": "2026-10-08T19:40:22.056737+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover|9588d584c15580a7cd88ac06b9dffc6b9d55f58b341c6b5ac56a2f690e8943c6": {
+    "seen_at": "2026-10-08T19:40:22.056741+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up|8bfab9b9d3d1f1233fb6400fbc79e04b4e8b3ae33239a3978048e2545892420c": {
+    "seen_at": "2026-10-08T19:40:22.056744+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html|634b4367953f65e40708266a616b305baa10bd8457c45f15fad1574c0b8c77e5": {
+    "seen_at": "2026-10-08T19:40:22.056748+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html|d4db5780f72fc63ab52e236235e415d6013f8d1adc0c8dba0a4bd231fa97768e": {
+    "seen_at": "2026-10-08T19:40:22.056752+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html|0027a0699b5fbfc3572f60b21e805aabaee46d3652f4af9364ea16bed029cb93": {
+    "seen_at": "2026-10-08T19:40:22.056755+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html|729a807b8f81ee57bcf2a79037f9731b5085a9ba40d532264c5760a65a3de36f": {
+    "seen_at": "2026-10-08T19:40:22.056758+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html|405b75781a58e3f368d0fdbe49b31c04091bb9a4a0a074087e2ab0a9f8bfcbb4": {
+    "seen_at": "2026-10-08T19:40:22.056761+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.thezdi.com/blog/2026/10/8/pwn2own-ireland-2026-day-three-results-amp-master-of-pwn|caea10afae822c3c43e2d07a4354c295d62a4112134b88f24b8dac57d20deece": {
+    "seen_at": "2026-10-08T19:40:22.056844+00:00",
+    "source": "zdi"
   }
 }
