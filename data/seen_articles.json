@@ -1534,5 +1534,65 @@
   "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html|2c165ea733c9df7945f2f9d0ce15eec6cdffaa1bd5a646f94947f7533b676ed1": {
     "seen_at": "2026-10-09T06:29:06.540594+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks|250f646cce2f5cd6cdfa7b86647e9327a3b724678a45cbbf5b5fc37b8c212950": {
+    "seen_at": "2026-10-09T13:39:00.554261+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals|1c199f83e9792a7fad20bfbec98de49687ac2bd281aacd243ccab15a8e248fd7": {
+    "seen_at": "2026-10-09T13:39:00.554275+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year|bf48a23269a6026654ea13dc435b6f8e55da579b82937edfa37a26413a4931d6": {
+    "seen_at": "2026-10-09T13:39:00.554278+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately|7b96e8a538bad85db9410394fc083746da5f982e09bf3fbe6308053fec8609ba": {
+    "seen_at": "2026-10-09T13:39:00.554282+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html|07933e51b5f8a5cded493ff5ee2225055fc017f9b6128519f379c55dd2b1945b": {
+    "seen_at": "2026-10-09T13:39:00.554286+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html|baa2b4c9f3f842f58ee67355f3b1f1c34a8e8a81eab1d9fd3067fb7ffc7b3466": {
+    "seen_at": "2026-10-09T13:39:00.554290+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html|11a106a1aa0671dd5faf635e13597013712a306d47a9e332e7b1b9fb07fcfe66": {
+    "seen_at": "2026-10-09T13:39:00.554292+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html|870082901a1681c8569e105c65f326261a572c863725d0eec6ae565c259aa78d": {
+    "seen_at": "2026-10-09T13:39:00.554295+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html|21357e6e2cd6bc0bb388722804310e77bf08e77ec69ba64401ca5c38a6bb4316": {
+    "seen_at": "2026-10-09T13:39:00.554298+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html|cdd3ac5fe7c853a07e876045b5a59d0b9ef43d85a4782befb4f54441ba233e98": {
+    "seen_at": "2026-10-09T13:39:00.554301+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html|4821a5c6e385226fcc7a03ff605bd7ddfb87828f0c4d78556ba5d49f621dc284": {
+    "seen_at": "2026-10-09T13:39:00.554310+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html|96545ec6ca397a77689be11aab37e82c37befd7943340fc437110c814a3fa235": {
+    "seen_at": "2026-10-09T13:39:00.554318+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html|162915f90ffd2aae23c2e64a78e872e4f47a93e81d73ee90d77147a5c09fce49": {
+    "seen_at": "2026-10-09T13:39:00.554328+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-a-collection-of-what-can-only-be-called-eclectic-modules|4b520f649e2f20e93c2fa30eb513315a92d5f4f728754d53e9921fb300265c73": {
+    "seen_at": "2026-10-09T13:39:00.554373+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products|e0b4eba3224479b91c494ac5620cfd3fc003b2b0db8e9da6dd01c8d3c2ada7cd": {
+    "seen_at": "2026-10-09T13:39:00.554378+00:00",
+    "source": "rapid7"
   }
 }
