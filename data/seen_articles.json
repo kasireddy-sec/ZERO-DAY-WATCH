@@ -1634,5 +1634,13 @@
   "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html|9e208b89d2b1b0d346c101b5c662eb0173a054c38a78849d3e2d8ed1bd790c74": {
     "seen_at": "2026-10-09T19:15:28.906957+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks|28e44cf776cdd5e188d55768f5c131bbd99d876811cad3a7d5505125496ca48c": {
+    "seen_at": "2026-10-09T23:24:36.798138+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/credential-stealing-github-actions.html|cb5b4efa4d2f4ba5e0931d211602844e2a0793fbdfb5e616f86717bd52bd80fc": {
+    "seen_at": "2026-10-09T23:24:36.798156+00:00",
+    "source": "thehackernews"
   }
 }
