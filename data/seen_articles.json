@@ -1594,5 +1594,45 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products|e0b4eba3224479b91c494ac5620cfd3fc003b2b0db8e9da6dd01c8d3c2ada7cd": {
     "seen_at": "2026-10-09T13:39:00.554378+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto|f4fdc50c0d8fb8040941adaf0ba1090eab5a20c357625387aaa8c26d3f546879": {
+    "seen_at": "2026-10-09T19:15:28.906910+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach|4e4b50769f99fd4a1ee7cfa8b69f88c846ef5225236df488adbc7c2b2d841f66": {
+    "seen_at": "2026-10-09T19:15:28.906927+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition|77b8f4d88d1070fc69c6d167d533607fa13eb164bc3da0205b7677929703e8fb": {
+    "seen_at": "2026-10-09T19:15:28.906932+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions|f07a9fdbd13cc3421431d70254a24a7b4a21d93c56f8e7c957c05344468ae8ec": {
+    "seen_at": "2026-10-09T19:15:28.906935+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html|48d6989c1ababe51abd61eeb73449ca798210aad28f7029e87be85d714af0d9b": {
+    "seen_at": "2026-10-09T19:15:28.906940+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html|26f86fc80c299ffbc1f364e715da611f4b9ba75f06b67e4d42352d9836ec37c5": {
+    "seen_at": "2026-10-09T19:15:28.906944+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html|444da6cdc9b03329e8bc1dba65d7fa0b663d9c45fb958ec4352d6fd74a76a5ab": {
+    "seen_at": "2026-10-09T19:15:28.906947+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html|f351591b63aa528a31bac2eb66d33ce3a0488573da3e999103f21f49df2d3cb8": {
+    "seen_at": "2026-10-09T19:15:28.906951+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html|e63114b2f5777b366f42f7a3e92105da14319f37c75d0a4d4d7c9416b36285a4": {
+    "seen_at": "2026-10-09T19:15:28.906954+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html|9e208b89d2b1b0d346c101b5c662eb0173a054c38a78849d3e2d8ed1bd790c74": {
+    "seen_at": "2026-10-09T19:15:28.906957+00:00",
+    "source": "thehackernews"
   }
 }
