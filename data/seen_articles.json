@@ -1502,5 +1502,25 @@
   "https://www.thezdi.com/blog/2026/10/8/pwn2own-ireland-2026-day-three-results-amp-master-of-pwn|caea10afae822c3c43e2d07a4354c295d62a4112134b88f24b8dac57d20deece": {
     "seen_at": "2026-10-08T19:40:22.056844+00:00",
     "source": "zdi"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|4109ba6482ac9d0dccf586f0b2b78a27b655b176d000dd89a2e54281916fa1b7": {
+    "seen_at": "2026-10-09T00:09:48.539101+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure|df1ecf01f69e8b30dd184421f7a4a735c879ddcaf19e71f78b65ecf990c0634a": {
+    "seen_at": "2026-10-09T00:09:48.539151+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients|2e7ab51cf3cef508482cdd98323d30625f17955034b6cf0b0fc83d8ec2b68ee9": {
+    "seen_at": "2026-10-09T00:09:48.539157+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.thezdi.com/blog/2026/10/8/pwn2own-ireland-2026-day-three-results-amp-master-of-pwn|f984e87acfc44fa9c7b7a7b6bba7d25371b0aa4a4597f06eaa190773e3873acc": {
+    "seen_at": "2026-10-09T00:09:48.539206+00:00",
+    "source": "zdi"
+  },
+  "https://security.paloaltonetworks.com/PAN-SA-2026-0011|cdd74660bc86fcfe5ac41bf5205d189cff710b95b668081d4ec752f01862c51a": {
+    "seen_at": "2026-10-09T00:09:48.539252+00:00",
+    "source": "palo_alto"
   }
 }
