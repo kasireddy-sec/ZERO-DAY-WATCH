@@ -1522,5 +1522,17 @@
   "https://security.paloaltonetworks.com/PAN-SA-2026-0011|cdd74660bc86fcfe5ac41bf5205d189cff710b95b668081d4ec752f01862c51a": {
     "seen_at": "2026-10-09T00:09:48.539252+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland|f71a1acdf48a6ec7a4fdab48a75acd36cc19581f8e9b56d65474468cc5e56e83": {
+    "seen_at": "2026-10-09T06:29:06.540503+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html|2e3ef47f59be3c13b60d9c2825b9b33e531305cbe9fe7e314cc6c6e7c0cab416": {
+    "seen_at": "2026-10-09T06:29:06.540549+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html|2c165ea733c9df7945f2f9d0ce15eec6cdffaa1bd5a646f94947f7533b676ed1": {
+    "seen_at": "2026-10-09T06:29:06.540594+00:00",
+    "source": "thehackernews"
   }
 }
