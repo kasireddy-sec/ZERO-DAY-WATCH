@@ -1642,5 +1642,17 @@
   "https://thehackernews.com/2026/10/credential-stealing-github-actions.html|cb5b4efa4d2f4ba5e0931d211602844e2a0793fbdfb5e616f86717bd52bd80fc": {
     "seen_at": "2026-10-09T23:24:36.798156+00:00",
     "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html|95e8307fec465858c196d1735347b431b073df92fa6fc2d7e2069cfa8bb2bc65": {
+    "seen_at": "2026-10-10T09:22:28.735331+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html|1f2e3f0676bff2ca7d7472d0448a84ddf18fa96f7c4aec98bcbdf5793daafb62": {
+    "seen_at": "2026-10-10T09:22:28.735349+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html|1990b0b8b711567445e05d5addc6864c3cb0f094b00656ebb365be414ef5a7f5": {
+    "seen_at": "2026-10-10T09:22:28.735362+00:00",
+    "source": "thehackernews"
   }
 }
