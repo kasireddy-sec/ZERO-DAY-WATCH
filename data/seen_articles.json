@@ -1654,5 +1654,29 @@
   "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html|1990b0b8b711567445e05d5addc6864c3cb0f094b00656ebb365be414ef5a7f5": {
     "seen_at": "2026-10-10T09:22:28.735362+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers|e9e77d3fddeb2835bd5209b5decc40c54dd7768304e1ff60203d7097b957e5d0": {
+    "seen_at": "2026-10-10T15:31:15.233679+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks|c5fa872d2318b2a52553368175d457b6797d2df1dd09ef343710779f3731b47a": {
+    "seen_at": "2026-10-10T15:31:15.233696+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management|1875edca5de49fd53435bf4c71dd0855e9cf9f24fb1c69db168886052fe2a304": {
+    "seen_at": "2026-10-10T15:31:15.233700+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html|29f7725fcc8af5ce1bc53f9cc62e1f302ff0be0d919d165a7fcca36cdc1d3b75": {
+    "seen_at": "2026-10-10T15:31:15.233706+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html|ad008cdf9147f42a5fdd41786dfebd3eccb0a502c01a70e8d9eabac0457768cd": {
+    "seen_at": "2026-10-10T15:31:15.233710+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html|bdee920e06e91b7a40047dce66de53c8969d2086dbb82c91a8125d6f19d15987": {
+    "seen_at": "2026-10-10T15:31:15.233733+00:00",
+    "source": "thehackernews"
   }
 }
