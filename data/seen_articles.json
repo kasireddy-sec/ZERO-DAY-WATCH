@@ -1678,5 +1678,9 @@
   "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html|bdee920e06e91b7a40047dce66de53c8969d2086dbb82c91a8125d6f19d15987": {
     "seen_at": "2026-10-10T15:31:15.233733+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records|41a2a5fdf2a146cd0ad9b2f9ec1f6e25d60f87e07ecf1f2a27b3b97cec7d6294": {
+    "seen_at": "2026-10-11T15:53:02.340631+00:00",
+    "source": "bleepingcomputer"
   }
 }
