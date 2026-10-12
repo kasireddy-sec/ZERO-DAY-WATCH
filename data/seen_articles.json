@@ -1682,5 +1682,21 @@
   "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records|41a2a5fdf2a146cd0ad9b2f9ec1f6e25d60f87e07ecf1f2a27b3b97cec7d6294": {
     "seen_at": "2026-10-11T15:53:02.340631+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html|a8b492d63889e307a053182f7577b0439696fcde1ec35545863ab7f3d7c45204": {
+    "seen_at": "2026-10-12T10:12:32.708982+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html|0cae7f3b49825ee0f669831d90fdd0e157e7c1441a1bbe0f9f7ec02344ab61d5": {
+    "seen_at": "2026-10-12T10:12:32.708997+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html|82583368fc972cf70331baeee62fa2bb74ba8f19b18bc516bd78e179e2432518": {
+    "seen_at": "2026-10-12T10:12:32.709002+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html|70b8ad462489ff55eb9e023f86856852694f38cdecf3406aecb4015a8cf96630": {
+    "seen_at": "2026-10-12T10:12:32.709006+00:00",
+    "source": "thehackernews"
   }
 }
