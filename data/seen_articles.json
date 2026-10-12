@@ -1698,5 +1698,45 @@
   "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html|70b8ad462489ff55eb9e023f86856852694f38cdecf3406aecb4015a8cf96630": {
     "seen_at": "2026-10-12T10:12:32.709006+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files|b4dea009040b0876a7dca0493f3f132b3175918556171e47cf2fa197ab41f7b2": {
+    "seen_at": "2026-10-12T19:56:24.050987+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites|57fb0ba7ca0fc0ba662bd1f6c944e8dc72103251787dc7ddf4a3c3c020b186df": {
+    "seen_at": "2026-10-12T19:56:24.051005+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts|c880bed55f010d125adddf2197091302552b4bf479dd97c705c4bd8dec66d00c": {
+    "seen_at": "2026-10-12T19:56:24.051009+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets|ab978131b1cad677d3794f673981a2315a7c461559cd99af72556bce01cef269": {
+    "seen_at": "2026-10-12T19:56:24.051013+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption|37510f708a11cfe45dafc7e5251ac2ff14e26bfc6a6789bdc2c584f13d4a9dbd": {
+    "seen_at": "2026-10-12T19:56:24.051016+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html|a810e1adab974a95cc6f3d1790c8e9a47f0cd0605798f2fdbc6cab10bb0cfc1f": {
+    "seen_at": "2026-10-12T19:56:24.051019+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html|c7574bb7589000bb24aca078af761977bc0e2eb523a65b2f058a8a029ca0c470": {
+    "seen_at": "2026-10-12T19:56:24.051021+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html|18b7d52a4b26701155f43c861d7fca3b329ec9cec2fe6c74b8151131e469853f": {
+    "seen_at": "2026-10-12T19:56:24.051024+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html|69960e8698e7396e8a733e8615effba6e8c857687c9574a89d46f84113115f88": {
+    "seen_at": "2026-10-12T19:56:24.051027+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html|b88d232c13cc52963d450eb4b0ccde73cf34f9581c77bf47fdda034c06920dfa": {
+    "seen_at": "2026-10-12T19:56:24.051033+00:00",
+    "source": "thehackernews"
   }
 }
