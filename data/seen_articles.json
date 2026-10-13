@@ -1750,5 +1750,61 @@
   "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html|09f90d782cfc3542f66f34d97a1c158fb351cf625e4b34f3c049a7e96e47462d": {
     "seen_at": "2026-10-13T08:55:38.838542+00:00",
     "source": "thehackernews"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|ab5846a729865a7e679f02125cfd22896ddac225381f92552767bd02e83b7e71": {
+    "seen_at": "2026-10-13T16:43:30.940315+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks|1b7f1e3dc2e5e8516087dd5d673879982ee782a8a8bdb628be3c2f14e2ca6d53": {
+    "seen_at": "2026-10-13T16:43:30.940365+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images|4147a243b3c2cdfe5b9b32db810922069bd71c44be6341b63937705700bdc836": {
+    "seen_at": "2026-10-13T16:43:30.940369+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting|52b1430c30fe364e6124c39073fd732ae067da278a34dc2d7b4bc6fc037d249f": {
+    "seen_at": "2026-10-13T16:43:30.940372+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw|a499b20db42e3ce2a23b5bef673cb7c5134710edbc74bf870aa5f3dc2bb1f144": {
+    "seen_at": "2026-10-13T16:43:30.940375+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html|ded4690ae08ab09f16e6e61c4bf75ad5416da54285a7c293bded1011865527ff": {
+    "seen_at": "2026-10-13T16:43:30.940380+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html|f94921394da67de7024de71afbd7cdf43c232740c62337a5a5f0cc40c7b6ce33": {
+    "seen_at": "2026-10-13T16:43:30.940382+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html|d4a369f7125d6ea7c2a6e282a2e70ca26fd87660c5f3bbe50aee71ce95e58fab": {
+    "seen_at": "2026-10-13T16:43:30.940385+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html|744dc5614ac23ac2c8f6363838d0ed6c3394252cca541ab87de7da3181cb0e3f": {
+    "seen_at": "2026-10-13T16:43:30.940387+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html|0257b82ff143a3db3697d6861cfbd73d5f88ec4c3f978752323a43f6bcd27ee5": {
+    "seen_at": "2026-10-13T16:43:30.940390+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html|0cdb899584abd62aecaa87a6c5b392ccc27212d5793aad5882d005936d483c24": {
+    "seen_at": "2026-10-13T16:43:30.940393+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html|37aa5f54aba41ff6f2dbfe7437165dcab3d65f2b9a6aadcf3760675a560ac1c0": {
+    "seen_at": "2026-10-13T16:43:30.940396+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html|e0d7bb6f093231f102495abcbffa952810f3ef8b6be7b5a69829133354214743": {
+    "seen_at": "2026-10-13T16:43:30.940398+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-97229-critical-unauthenticated-remote-code-execution-in-gitlab|703ee4e96e3da33f45712fb7f6812e0617dfdf3a934ddeba7ff34c93b6e00219": {
+    "seen_at": "2026-10-13T16:43:30.940465+00:00",
+    "source": "rapid7"
   }
 }
