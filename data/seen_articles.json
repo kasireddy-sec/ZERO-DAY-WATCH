@@ -1806,5 +1806,61 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-97229-critical-unauthenticated-remote-code-execution-in-gitlab|703ee4e96e3da33f45712fb7f6812e0617dfdf3a934ddeba7ff34c93b6e00219": {
     "seen_at": "2026-10-13T16:43:30.940465+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|8606f54df9d00a6f81f354f77a11d7588d516003221027f3049c71957b77555c": {
+    "seen_at": "2026-10-13T21:43:52.573400+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|f4f51e29c976e63b0dd53561b779ae44118f8867367fac657469e50cf2e76991": {
+    "seen_at": "2026-10-13T21:43:52.573421+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads|ea4ac2edbbe4fbcd9a80ed97071e8fc8c91d9bb2bb96e8e9f872fd8377ab2bb3": {
+    "seen_at": "2026-10-13T21:43:52.573498+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices|69434a1407cd47cabd32675fd00c7494dded0e4647107d7eea67a97625daf4c2": {
+    "seen_at": "2026-10-13T21:43:52.573501+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days|c8b5c74459a335a03283ec072e1379c48b31baf854ed287ae71a573ac8d7d9bd": {
+    "seen_at": "2026-10-13T21:43:52.573504+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update|b9aa92fe6ddd6a2ce3ca998888807de876691cb8e0c368c53286244242fb81e0": {
+    "seen_at": "2026-10-13T21:43:52.573507+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support|33a8648b63872845a2c5d2d341e58fee27705c60dcb2453d70fd38a1c8c0795a": {
+    "seen_at": "2026-10-13T21:43:52.573510+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html|e360a98c08fae3c2d45795f4642feacfc84db84705d1442144ddc9dd9e085eba": {
+    "seen_at": "2026-10-13T21:43:52.573513+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html|339a08b8d438ea11546a3aca9db3313a79b306e016e5d2a8138229db1d8f5917": {
+    "seen_at": "2026-10-13T21:43:52.573517+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html|b655689e0d4dd6473d2e09be4129cf89db3d89d78d04ad29cc7d58b679537273": {
+    "seen_at": "2026-10-13T21:43:52.573520+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html|7bfbc99bf26b210e1a89bd8adbbd08ad915d2f7f7b7a66890daaddef6195a69b": {
+    "seen_at": "2026-10-13T21:43:52.573524+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html|1aea3786c066cc9148b582b8244b5584316111ac612e8fb89eadd192268b9e3f": {
+    "seen_at": "2026-10-13T21:43:52.573543+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-ivanti-connect-secure-zero-day-exploited-in-the-wild-cve-2026-104935|dd9f2fc15a92d404f2401bdecd20d09330480e7e8af029884bb85cfb169e2552": {
+    "seen_at": "2026-10-13T21:43:52.573606+00:00",
+    "source": "rapid7"
+  },
+  "https://www.thezdi.com/blog/2026/10/13/the-october-2026-security-update-review|b624bb8756bc95b78ab341107dc1552968778768e6477ae53fca374d2ce406ed": {
+    "seen_at": "2026-10-13T21:43:52.573637+00:00",
+    "source": "zdi"
   }
 }
