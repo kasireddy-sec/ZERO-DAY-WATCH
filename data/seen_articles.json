@@ -1742,5 +1742,13 @@
   "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing|675c6f06f6d84d84c46d1504354c889baf4460df6b10f0fe1b5eebf984892f06": {
     "seen_at": "2026-10-13T01:48:48.720258+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html|04974a16f1ac111566490dcfd6c069329dc9baf2c341f59da4f426bfc1fcada2": {
+    "seen_at": "2026-10-13T08:55:38.838522+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html|09f90d782cfc3542f66f34d97a1c158fb351cf625e4b34f3c049a7e96e47462d": {
+    "seen_at": "2026-10-13T08:55:38.838542+00:00",
+    "source": "thehackernews"
   }
 }
