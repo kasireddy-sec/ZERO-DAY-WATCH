@@ -1870,5 +1870,21 @@
   "https://www.rapid7.com/blog/post/em-patch-tuesday-october-2026|f55f7d586ba82635e0fa93a3716a7abd791d69b3841ffdde318768c8b4ce090c": {
     "seen_at": "2026-10-14T00:51:27.917112+00:00",
     "source": "rapid7"
+  },
+  "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html|1a284d28683e6d6e97fc02c6fc4eedcd3aa78b20644c665ec36dbe18f003758b": {
+    "seen_at": "2026-10-14T05:47:27.495791+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html|755ea4b8b498dade790002f97daa4218c15ad5e03d5bf7149dc85af347b77afc": {
+    "seen_at": "2026-10-14T05:47:27.495809+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html|3fdb102f43adbd5446b5134809156d74a612ae3181e7897f544e88fd8307b622": {
+    "seen_at": "2026-10-14T05:47:27.495819+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html|4650d186fcfe233de2fe4c56fd7f284ffecd21b5299750bebc1f3c0c8700784f": {
+    "seen_at": "2026-10-14T05:47:27.495837+00:00",
+    "source": "thehackernews"
   }
 }
