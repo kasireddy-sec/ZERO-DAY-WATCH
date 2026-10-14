@@ -1886,5 +1886,25 @@
   "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html|4650d186fcfe233de2fe4c56fd7f284ffecd21b5299750bebc1f3c0c8700784f": {
     "seen_at": "2026-10-14T05:47:27.495837+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures|b4e4e63a90406a9f00a68968b48b269157beee9674ff6654835f62356391b060": {
+    "seen_at": "2026-10-14T11:08:58.712275+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days|c7446ee48ffc98f80c45a466b810ecdb704af5144efa2af3ac19b8446c7125ac": {
+    "seen_at": "2026-10-14T11:08:58.712294+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html|582c7ebc19a92fe697fb339d659d87f0d1bfa91a41dcba7fd91f42eb7dd93443": {
+    "seen_at": "2026-10-14T11:08:58.712299+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html|de038c11b962dd0f4bf2e6f24bffdd2ba626f254940a0993e6a8206849888bdc": {
+    "seen_at": "2026-10-14T11:08:58.712302+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html|411157719e400390f53a422739bfb1fa29017d6d8c984a1edc986eb2248c69ea": {
+    "seen_at": "2026-10-14T11:08:58.712307+00:00",
+    "source": "thehackernews"
   }
 }
