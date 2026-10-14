@@ -1906,5 +1906,33 @@
   "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html|411157719e400390f53a422739bfb1fa29017d6d8c984a1edc986eb2248c69ea": {
     "seen_at": "2026-10-14T11:08:58.712307+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates|f1e2733d8c05f60b890596b977a41fe2911569865f8b11379edc2a5256662194": {
+    "seen_at": "2026-10-14T15:54:25.926961+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them|c8ed4d04336a5a06b874b63f11b96957b5b333acf957009d9fd6114214eb6a76": {
+    "seen_at": "2026-10-14T15:54:25.926976+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages|1bf57526868962595eabd147311bb986d1a0d04532f214465d10b21e911f8f0c": {
+    "seen_at": "2026-10-14T15:54:25.926981+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day|20db4d7827696479e44a22c098c5080caaf56564a8885bbd812336d4e84672de": {
+    "seen_at": "2026-10-14T15:54:25.926984+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks|364f9ebb1364a1a9dbbe91fefd9520721e75b2770936e01c281bd84c6a3b101d": {
+    "seen_at": "2026-10-14T15:54:25.926987+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1|b35197488f012b070f23b40b484e57cc81cf69426fa38da7d819d1bc2cf44e06": {
+    "seen_at": "2026-10-14T15:54:25.927002+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/ve-unauthenticated-sql-injection-in-channel-software-weballiance-ecommerce|4896adc674730f69a1a892b17b590a01a05687aa7849b550f371c06c537afc3d": {
+    "seen_at": "2026-10-14T15:54:25.927006+00:00",
+    "source": "rapid7"
   }
 }
