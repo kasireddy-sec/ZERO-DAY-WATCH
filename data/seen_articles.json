@@ -1934,5 +1934,125 @@
   "https://www.rapid7.com/blog/post/ve-unauthenticated-sql-injection-in-channel-software-weballiance-ecommerce|4896adc674730f69a1a892b17b590a01a05687aa7849b550f371c06c537afc3d": {
     "seen_at": "2026-10-14T15:54:25.927006+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|3ab41e246ae50c9c1cff09c6cf9fc4a16c02911fd457079e8701a4393f68955e": {
+    "seen_at": "2026-10-14T19:58:19.850197+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|ddada98ee3c8878762bf75eb0b516f31f82968ff5708230090270e7d0658bbfc": {
+    "seen_at": "2026-10-14T19:58:19.850216+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|8158eab27e6f8e65afcab99ade8adc440831c9558cc82a86b1e2170eb31a2e97": {
+    "seen_at": "2026-10-14T19:58:19.850219+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|6d8e7ccfad058e1799d16d7f103c258c4322575ed1b5bb4c5d3c1fbd7dcd92c3": {
+    "seen_at": "2026-10-14T19:58:19.850221+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested|988ab62c44ae8aa092d1960fd05fd5620d33b39c34d7b7698a1bbe22fb1faffa": {
+    "seen_at": "2026-10-14T19:58:19.850253+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack|a400e03407c63b8b92e1482571464b4815c84a3ad5fddd062b10e8ccaad32359": {
+    "seen_at": "2026-10-14T19:58:19.850256+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day|084ed830a9df5e1ebe45461729ba14e221ed76b6ca8f688dde401dd280f789a3": {
+    "seen_at": "2026-10-14T19:58:19.850259+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html|89f281c55ae4e280ad1da5235c1aa146b864f25b62e7e0afe1e685d6f6e7f33a": {
+    "seen_at": "2026-10-14T19:58:19.850271+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html|ef6d24055a8377a737b41c704c916a839603352b2b68d124c6734f25c211b03f": {
+    "seen_at": "2026-10-14T19:58:19.850275+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html|838d5cb3a7eae49b4add256050eaec34493259d4790020f2a7cbd0ae73ac7a73": {
+    "seen_at": "2026-10-14T19:58:19.850277+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html|c82ebfcd65f5fda5cb394e0fabf673ae84cbfb6eef7aef26baafd20eef6f3614": {
+    "seen_at": "2026-10-14T19:58:19.850279+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html|d3e87b796167cffa1fb3e73752c7bca3044ca27eeff6ae0447895e6368ff302b": {
+    "seen_at": "2026-10-14T19:58:19.850283+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html|f69eafb2af3e8aeb741125b3211ffdfd40b235d2f290dfac127be5a7bf6b2cd4": {
+    "seen_at": "2026-10-14T19:58:19.850286+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html|3484768e8954a12160e81327c2e73ee33a08193bc6a3cc7b77babcfc8f9d6b9f": {
+    "seen_at": "2026-10-14T19:58:19.850289+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html|5834783cafbdd3b38b384518f956a8344e31875dba0fc5cb7ab8eae176060e78": {
+    "seen_at": "2026-10-14T19:58:19.850292+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html|cc8c5668448d9cf965579b1bfaa0118b674f080a9261b40a4d9dd1d178b21a29": {
+    "seen_at": "2026-10-14T19:58:19.850294+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html|5386f2a41bceaabb294aa50a12b6d691b5c5aae2e6fdf2e95d27742e657d3534": {
+    "seen_at": "2026-10-14T19:58:19.850297+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html|d07d86dc81952d3dc638cd993e3ef74f061f02d9329b75c2d934e20830a621d0": {
+    "seen_at": "2026-10-14T19:58:19.850309+00:00",
+    "source": "thehackernews"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0311|c1c539d9ef151e6bdf37611204aa3cebc6f97cf8b2515024709cc38202146594": {
+    "seen_at": "2026-10-14T19:58:19.850409+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0322|506c70ffb3b438873761520c63d5437303ea608b6c95ae222e28c8a4250c8687": {
+    "seen_at": "2026-10-14T19:58:19.850411+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0318|16c12a765ed24e4a3bf8d5c5c53a5d3c15b965b193c19c478a9265665a1e8f37": {
+    "seen_at": "2026-10-14T19:58:19.850413+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0313|b99e81f434c8c01b0f23fcd1b568fef9274dfc4384988be08a2e6eebada9a5f2": {
+    "seen_at": "2026-10-14T19:58:19.850416+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0315|0fd74bc56d01884e97100c7145fd0a9aa46095c47795627a09a7bdc7f338f1a7": {
+    "seen_at": "2026-10-14T19:58:19.850419+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0312|9ddef00e51b306e2f959657a452d9f22b03dd807767c78cd2bce1d5cd7e66f12": {
+    "seen_at": "2026-10-14T19:58:19.850422+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0320|588d09f23a7379d17c91abf91fa8115e1af0abd81911f4c51096ef1b9be9d93d": {
+    "seen_at": "2026-10-14T19:58:19.850423+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0321|e27cc658a134e2d2d9e5d32dce92c71a4ff09ebf0e698f9d06cdef4de19ddcd2": {
+    "seen_at": "2026-10-14T19:58:19.850426+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0316|9c07dd6b602fe139fa765a1cd20879237207f2191557bb9f91036335a5a1d458": {
+    "seen_at": "2026-10-14T19:58:19.850429+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0314|5941ba47a23593445ae038df5c81981a43230385958c8055f56922f6bd716e4f": {
+    "seen_at": "2026-10-14T19:58:19.850431+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0319|fe80ec9c069949797e1c6e27c19ce1a8fe451e6e5ed07fd46d31151837395dad": {
+    "seen_at": "2026-10-14T19:58:19.850434+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/PAN-SA-2026-0013|c9b33af24d3c311e3816e8c99d2c7469518a213f496781656c8b0cf3a82d2f61": {
+    "seen_at": "2026-10-14T19:58:19.850436+00:00",
+    "source": "palo_alto"
   }
 }
