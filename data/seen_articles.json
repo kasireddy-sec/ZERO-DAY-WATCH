@@ -1862,5 +1862,13 @@
   "https://www.thezdi.com/blog/2026/10/13/the-october-2026-security-update-review|b624bb8756bc95b78ab341107dc1552968778768e6477ae53fca374d2ce406ed": {
     "seen_at": "2026-10-13T21:43:52.573637+00:00",
     "source": "zdi"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office|0da51f8b85e1b62c5fb6f570f1707abdcf52f1fdc045e0aa9eeaba259d9bc3e4": {
+    "seen_at": "2026-10-14T00:51:27.917018+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.rapid7.com/blog/post/em-patch-tuesday-october-2026|f55f7d586ba82635e0fa93a3716a7abd791d69b3841ffdde318768c8b4ce090c": {
+    "seen_at": "2026-10-14T00:51:27.917112+00:00",
+    "source": "rapid7"
   }
 }
