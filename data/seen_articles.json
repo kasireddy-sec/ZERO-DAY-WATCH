@@ -2054,5 +2054,9 @@
   "https://security.paloaltonetworks.com/PAN-SA-2026-0013|c9b33af24d3c311e3816e8c99d2c7469518a213f496781656c8b0cf3a82d2f61": {
     "seen_at": "2026-10-14T19:58:19.850436+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks|407661b59eaace619ab68d486fbbfaf60f571a1afe836e18e943d097cf9c5df5": {
+    "seen_at": "2026-10-14T23:04:08.137687+00:00",
+    "source": "bleepingcomputer"
   }
 }
