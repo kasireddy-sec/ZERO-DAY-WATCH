@@ -2150,5 +2150,45 @@
   "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html|b0b8b1df676c69f04aaad7c78b31b536d36e2cef510d2f055a0f499eea6909f4": {
     "seen_at": "2026-10-15T17:17:20.438645+00:00",
     "source": "thehackernews"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|fb763a3be9915c1071e2013e0dd5abec484b40db42e5ed2eb278b20033dc660f": {
+    "seen_at": "2026-10-15T20:28:37.033770+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers|dfa349d96dd60d6f206250742e40e195176b08de1eb62ddd6158e4eabe5512f9": {
+    "seen_at": "2026-10-15T20:28:37.033825+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls|bcea584cbdf646857d294f06e7d42446073fd6d1d28b7ede6f497b8eade7deb4": {
+    "seen_at": "2026-10-15T20:28:37.033830+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth|fa4477311b5cfcd829188e581310e2dd9bce36f86356ff8a7aaa3fda5ce348a9": {
+    "seen_at": "2026-10-15T20:28:37.033833+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested|2c7bd616868d1f5a4a79673fe2e1b889e1a65aa19c240f0983ff19bee06a05ae": {
+    "seen_at": "2026-10-15T20:28:37.033845+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html|91dc68e7e9954957cc9ec8b69a48219f062d323601ff2751a37a9e0bf0a524a9": {
+    "seen_at": "2026-10-15T20:28:37.033851+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html|5179cd7bdb99c51043ccba0ea99b6bc02f90c2e316343e4a82935f433230c6d9": {
+    "seen_at": "2026-10-15T20:28:37.033857+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/it-multi-campus-universities-building-more-connected-security-programs|d8b774ea7d5338825b3c9db1b522f124a38b3ec2094fe2f8d83a14621cbd47bf": {
+    "seen_at": "2026-10-15T20:28:37.033921+00:00",
+    "source": "rapid7"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0322|ca2974af6e8e6f1a8ed987ef46d19d4c851dbe1ba1bfdf1b5bfe34598b54fae6": {
+    "seen_at": "2026-10-15T20:28:37.033969+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0317|eafa6163d77eaf1dcef00389810815ea28d09c7dad0a8850660c12b2dc347a53": {
+    "seen_at": "2026-10-15T20:28:37.033972+00:00",
+    "source": "palo_alto"
   }
 }
