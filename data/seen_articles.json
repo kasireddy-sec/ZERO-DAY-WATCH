@@ -2190,5 +2190,9 @@
   "https://security.paloaltonetworks.com/CVE-2026-0317|eafa6163d77eaf1dcef00389810815ea28d09c7dad0a8850660c12b2dc347a53": {
     "seen_at": "2026-10-15T20:28:37.033972+00:00",
     "source": "palo_alto"
+  },
+  "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html|0cef3dcd08b15ddd4f1266b0d7e2dcdb35782c4bdf46f782719c4d18f2d2dc84": {
+    "seen_at": "2026-10-15T23:13:11.574636+00:00",
+    "source": "thehackernews"
   }
 }
