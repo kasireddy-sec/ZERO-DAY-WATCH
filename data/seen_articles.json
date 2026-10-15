@@ -2070,5 +2070,49 @@
   "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html|54764a1346dd282620d505a0cdfe9b9e67980302322f7abd0a9c615f1fc7d441": {
     "seen_at": "2026-10-15T06:56:35.718445+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown|2931dff65f5de254a833c2a20a43c27d5fa7674d556286206dcf5880abb85f3b": {
+    "seen_at": "2026-10-15T12:28:03.540998+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes|ffaf774eeba724b7bd6d7726b315a5632bcb0b5d818bd90d7008c18905624517": {
+    "seen_at": "2026-10-15T12:28:03.541013+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978|c0ad414ddbf6b275553994071348c4d69db87753b8c8744df875b899f53f2654": {
+    "seen_at": "2026-10-15T12:28:03.541017+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html|26b41c3e8318d841d91c16ce4d8b44ebc0210743065f7bb4dffb200e5e5e6487": {
+    "seen_at": "2026-10-15T12:28:03.541022+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html|8ef4ef4a8559d7196bdc4c076d83c1cd8cfb6994558c362cae29158c26d9e1f2": {
+    "seen_at": "2026-10-15T12:28:03.541025+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html|4171943cd8d691fd3920a7202fab69313dbb0f99ac733c416d7b692193e95513": {
+    "seen_at": "2026-10-15T12:28:03.541030+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html|107d8f8211ecb032bd62ac522eac677048f573eed575a9e60150b9340dff8097": {
+    "seen_at": "2026-10-15T12:28:03.541033+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html|6308203f824cfdb8c90a6c7028d75c3a76d92db6dfc8b7e402d787530f29744f": {
+    "seen_at": "2026-10-15T12:28:03.541036+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html|f52c617cea7eff915c59fcf34c211e9c65e26b84fa5abbc983010b0fb36c1fb8": {
+    "seen_at": "2026-10-15T12:28:03.541039+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html|223d9fd2893e561277f9a5ff990b2965e20e054ccc4ba2142a6da10b97ed32c1": {
+    "seen_at": "2026-10-15T12:28:03.541042+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/credential-stealing-github-actions.html|2c5fcf8dbca0f839ac6793dd6258e63a0831627b81f957c52b5e624ad20ede83": {
+    "seen_at": "2026-10-15T12:28:03.541079+00:00",
+    "source": "thehackernews"
   }
 }
