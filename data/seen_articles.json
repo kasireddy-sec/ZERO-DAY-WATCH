@@ -2194,5 +2194,37 @@
   "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html|0cef3dcd08b15ddd4f1266b0d7e2dcdb35782c4bdf46f782719c4d18f2d2dc84": {
     "seen_at": "2026-10-15T23:13:11.574636+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august|70bdee5b0ad27771e89d70e0c152d422aadf018951d36bebe2b6af9c77c1a173": {
+    "seen_at": "2026-10-16T06:43:39.307863+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers|10fc1184d974e137434ecc9ce8abc257742065410af14a0f2a5fa5be411a83dd": {
+    "seen_at": "2026-10-16T06:43:39.307882+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls|7c2095d67c425e9f0d955472ab02eaf5533453466ab3169c93cbe9af38c2ecf8": {
+    "seen_at": "2026-10-16T06:43:39.307887+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth|806ad4d4bef1379142807ef79361c8336f0ed302886a83d2320b39459437bde4": {
+    "seen_at": "2026-10-16T06:43:39.307891+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges|45b548cc657435db5cb89481c8a4cfca5acc6e6faf1dd15b629b1690116e3252": {
+    "seen_at": "2026-10-16T06:43:39.307895+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html|176e7ae3924b6426fd9d1ba5f6027ddc250272806af69359a0f833f401b84cd8": {
+    "seen_at": "2026-10-16T06:43:39.307898+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html|cc1e37020ddedec04c45d703dc7a2245086f8c7821e2736ff6c4617cc571e51a": {
+    "seen_at": "2026-10-16T06:43:39.307916+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html|5e13fac469a2ddf101aa0e851f1141249aaba446edda8baf86e7cf01cf1c1646": {
+    "seen_at": "2026-10-16T06:43:39.307921+00:00",
+    "source": "thehackernews"
   }
 }
