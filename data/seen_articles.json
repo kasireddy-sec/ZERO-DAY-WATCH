@@ -2254,5 +2254,53 @@
   "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html|bb34e3478cb107012689594746b05649b9c03919b839676102da4a0b38410b93": {
     "seen_at": "2026-10-16T12:06:01.682487+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do|f695bd4252dc3a400b3d4cf6caa817f43553c66443ce60e131c475a45cd1a7f5": {
+    "seen_at": "2026-10-16T16:51:58.944316+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations|44daeaed4f5445b302cc5712b12eb466f4d1ee7f8c198964851782052f7b83cf": {
+    "seen_at": "2026-10-16T16:51:58.944336+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august|bc037c8631a321e167931446ec590a98361253320d621bba44786a858a4b8809": {
+    "seen_at": "2026-10-16T16:51:58.944342+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html|4affe21b28f77a8f6577bc48b209d524d9267f2112c3e409ac4bede4db9cdcdf": {
+    "seen_at": "2026-10-16T16:51:58.944346+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html|c0c4cf5d0ffefe34fa3971c92563f626e5a29004be42a793119f893dbdf941ac": {
+    "seen_at": "2026-10-16T16:51:58.944350+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html|cfb372f08172e2ef399aa94fe5b2d42eb2301556e173d05b9a0534175190a1d9": {
+    "seen_at": "2026-10-16T16:51:58.944353+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html|d104ea6d286b13756be75c82178dc9691e9bb1eee10d09a8b2b2efe76149a3c6": {
+    "seen_at": "2026-10-16T16:51:58.944363+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html|c1bf4f1c0d4f6b225dc28563155729d2dbc38c1ad7b8f2d764bafe2418cff723": {
+    "seen_at": "2026-10-16T16:51:58.944401+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229|575bd0d94dd8a6693f293814837785bcb1e44a1d718ef383623965edde72c9f7": {
+    "seen_at": "2026-10-16T16:51:58.944433+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/tr-rapid7-intelligence-wins-2026-peter-szor-award-outstanding-research|451e8635674db757415fda197950c73a245a430ca1e2e00ef8e97a5cac05addf": {
+    "seen_at": "2026-10-16T16:51:58.944437+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-97229-critical-unauthenticated-remote-code-execution-in-gitlab|b1bfd59cf852895a7c2122a584aaaab6a56b8c2617b60de7d09e5b5660b552ee": {
+    "seen_at": "2026-10-16T16:51:58.944446+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products|833d0c216f66697f558f7cb83ce05e032bd14c15562ca3f3d543dcf2f9d517ab": {
+    "seen_at": "2026-10-16T16:51:58.944453+00:00",
+    "source": "rapid7"
   }
 }
