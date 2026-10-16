@@ -2302,5 +2302,29 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products|833d0c216f66697f558f7cb83ce05e032bd14c15562ca3f3d543dcf2f9d517ab": {
     "seen_at": "2026-10-16T16:51:58.944453+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|d0f84789f2af2ea32c018eb9c8ce65a5a73bd0ef8163ecce37efaea3232b98a6": {
+    "seen_at": "2026-10-16T19:48:58.916277+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|3ac1c801d4a5d90a80070cbf70f9e5c8e25108e914a79e1314b84eb788345e42": {
+    "seen_at": "2026-10-16T19:48:58.916294+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware|4a8db47df8e6a2b4953182436083a38dd4d3766dc3e18ef3f444f86033ce30c7": {
+    "seen_at": "2026-10-16T19:48:58.916340+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html|970ea18690cae719a500d18b079327ec2ff37ae188cf574c590fb2db0a3e4612": {
+    "seen_at": "2026-10-16T19:48:58.916348+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html|a0ff1368ad51108a26c01bad823c15e13b52a858e58138b3d1771ea6b6d5bd61": {
+    "seen_at": "2026-10-16T19:48:58.916351+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html|626697b1dfa1d75905e567b9204d05118bd4d895ef25e872ca1c20225292318b": {
+    "seen_at": "2026-10-16T19:48:58.916357+00:00",
+    "source": "thehackernews"
   }
 }
