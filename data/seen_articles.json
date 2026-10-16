@@ -2326,5 +2326,9 @@
   "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html|626697b1dfa1d75905e567b9204d05118bd4d895ef25e872ca1c20225292318b": {
     "seen_at": "2026-10-16T19:48:58.916357+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers|8dd66ed2749a6288b541bf631c9b6c8679eecdee0007f8e559a7ec789366ac85": {
+    "seen_at": "2026-10-16T22:29:54.480138+00:00",
+    "source": "bleepingcomputer"
   }
 }
