@@ -2226,5 +2226,33 @@
   "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html|5e13fac469a2ddf101aa0e851f1141249aaba446edda8baf86e7cf01cf1c1646": {
     "seen_at": "2026-10-16T06:43:39.307921+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records|cb2345ea7170b9d2f597f70396ad7e3c555b7214a9f3fe8a96282925a6852047": {
+    "seen_at": "2026-10-16T12:06:01.682429+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control|1dd94239a7897a27d61b009003e9bdac462117331bbae0054fa0c9e349922778": {
+    "seen_at": "2026-10-16T12:06:01.682445+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations|dfc90c347bded47388dc4c1314a53c85f25f30c2047eba5a5033df2f5eeb2f70": {
+    "seen_at": "2026-10-16T12:06:01.682449+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august|731a01edee54a6297f66938bb236d71b707accc2b27595e85e9a9ece79d549dd": {
+    "seen_at": "2026-10-16T12:06:01.682453+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html|bd53d307e283941a51a195d6774e75d6cb8c531f15dec52519ff1d5bd649643d": {
+    "seen_at": "2026-10-16T12:06:01.682458+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html|1546876e345d9209a442086dbbd34cc807a088fd832f3cd8c6788f46b5b5e6ea": {
+    "seen_at": "2026-10-16T12:06:01.682462+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html|bb34e3478cb107012689594746b05649b9c03919b839676102da4a0b38410b93": {
+    "seen_at": "2026-10-16T12:06:01.682487+00:00",
+    "source": "thehackernews"
   }
 }
