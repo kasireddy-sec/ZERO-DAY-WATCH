@@ -2362,5 +2362,17 @@
   "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon|f1b2364194267133aa3a82fc1f2ced96ab92a67d2590813932e54ae501490ed6": {
     "seen_at": "2026-10-17T16:36:45.254226+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html|346c9cd7ba665f23211626507fce6aa744acd953c50cbf0cff993cb7d72f57cc": {
+    "seen_at": "2026-10-17T19:01:22.221412+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html|9a59e2320b51567d48de8cc86c8a251d344b9c9c6b63ade4bff947fb4d1dd3bb": {
+    "seen_at": "2026-10-17T19:01:22.221428+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html|de402414f2e6caa7f0cf028c6c03f51ea66294631f3545865624f33726d2317c": {
+    "seen_at": "2026-10-17T19:01:22.221432+00:00",
+    "source": "thehackernews"
   }
 }
