@@ -2354,5 +2354,13 @@
   "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html|24c49dd97b2de104d9e22c8b8cca65af5568970074c94e7f8a5e17ab9f6ddebb": {
     "seen_at": "2026-10-17T13:27:35.886378+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack|e96accf40cfc4f5b8af7047eaa7c3c2c845209395533eeabea23b8d8b8efa69b": {
+    "seen_at": "2026-10-17T16:36:45.254202+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon|f1b2364194267133aa3a82fc1f2ced96ab92a67d2590813932e54ae501490ed6": {
+    "seen_at": "2026-10-17T16:36:45.254226+00:00",
+    "source": "bleepingcomputer"
   }
 }
