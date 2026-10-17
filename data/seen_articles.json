@@ -2334,5 +2334,17 @@
   "https://security.paloaltonetworks.com/CVE-2026-0307|79a941bb122d47bbaaa6b853e516a870d0f1048af8ca67d0b4f9d3fb764492f5": {
     "seen_at": "2026-10-17T05:18:49.362798+00:00",
     "source": "palo_alto"
+  },
+  "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html|3b38b1411bc0f48d89ca106a3c2009e4a09cfb7176ea18cd91ada31d0610712a": {
+    "seen_at": "2026-10-17T09:35:48.103531+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html|53aa9eeb9c900a5d30602c6c56a5f3303ef0a7cd65ea27e59fd911881349c868": {
+    "seen_at": "2026-10-17T09:35:48.103556+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html|6913f992eb5e569bcbe866d21db818a050bd9f736ec50a909806007a622a5d1d": {
+    "seen_at": "2026-10-17T09:35:48.103562+00:00",
+    "source": "thehackernews"
   }
 }
