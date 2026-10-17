@@ -2330,5 +2330,9 @@
   "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers|8dd66ed2749a6288b541bf631c9b6c8679eecdee0007f8e559a7ec789366ac85": {
     "seen_at": "2026-10-16T22:29:54.480138+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0307|79a941bb122d47bbaaa6b853e516a870d0f1048af8ca67d0b4f9d3fb764492f5": {
+    "seen_at": "2026-10-17T05:18:49.362798+00:00",
+    "source": "palo_alto"
   }
 }
