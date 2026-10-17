@@ -2346,5 +2346,13 @@
   "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html|6913f992eb5e569bcbe866d21db818a050bd9f736ec50a909806007a622a5d1d": {
     "seen_at": "2026-10-17T09:35:48.103562+00:00",
     "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html|806f4902ec83ee67c5b1a063db7a4a296a87cb079d3c18cb0d013128ce824620": {
+    "seen_at": "2026-10-17T13:27:35.886361+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html|24c49dd97b2de104d9e22c8b8cca65af5568970074c94e7f8a5e17ab9f6ddebb": {
+    "seen_at": "2026-10-17T13:27:35.886378+00:00",
+    "source": "thehackernews"
   }
 }
