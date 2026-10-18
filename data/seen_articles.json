@@ -2386,5 +2386,9 @@
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root|85e5366dc458d9c61679d13acff81cea650a9f687bac2991e3374835722f06c3": {
     "seen_at": "2026-10-18T16:04:22.095542+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack|434c2d22d2f0efffb1b92c5df81f7617ae736d1496c3b9a78fea07f0cd6be4a5": {
+    "seen_at": "2026-10-18T21:15:07.495015+00:00",
+    "source": "bleepingcomputer"
   }
 }
