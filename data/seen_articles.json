@@ -2374,5 +2374,13 @@
   "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html|de402414f2e6caa7f0cf028c6c03f51ea66294631f3545865624f33726d2317c": {
     "seen_at": "2026-10-17T19:01:22.221432+00:00",
     "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html|3f46f90f61a8b10ad9589668555e8b55f1d27b44eead57028166f39d43a5ce42": {
+    "seen_at": "2026-10-18T12:27:09.251947+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html|088dd99c257345234bda2ebd15780e41a24914b2c94937533ce382a5c22c211d": {
+    "seen_at": "2026-10-18T12:27:09.251963+00:00",
+    "source": "thehackernews"
   }
 }
