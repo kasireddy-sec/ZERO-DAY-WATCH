@@ -2390,5 +2390,57 @@
   "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack|434c2d22d2f0efffb1b92c5df81f7617ae736d1496c3b9a78fea07f0cd6be4a5": {
     "seen_at": "2026-10-18T21:15:07.495015+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services|69f2199bd04e8fe7eef65ba7da3cb3b550f39e5fab7b9053a8f047aba62dc3ed": {
+    "seen_at": "2026-10-19T14:51:47.506566+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities|dbf81d18c0b194dcab0d51d61c7f0aa55dfab0d233c36e425277b07616708057": {
+    "seen_at": "2026-10-19T14:51:47.506581+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook|416bfb0f4a6c3662b14e2e5c0071d660b7f4287bcb150299891e1a53a79468e0": {
+    "seen_at": "2026-10-19T14:51:47.506585+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues|e059b0f94b8d6d5df0a0276d563235a5222105349ba64f15c23feef5ab62c25b": {
+    "seen_at": "2026-10-19T14:51:47.506588+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html|09ec0117e5065de601bf5b05cc92cec135ab330055df5f253e4ee40aaea43411": {
+    "seen_at": "2026-10-19T14:51:47.506594+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html|e89300f214dbd00a181ac4f3af689291016166dd7c1bb496f5a96848625f45f0": {
+    "seen_at": "2026-10-19T14:51:47.506597+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html|557243680c3b0cc68692cfde95f50e68bc049ab535c2e8c94b0a9a79070935a3": {
+    "seen_at": "2026-10-19T14:51:47.506599+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html|fd31f9e538f1e4722c2417a588e0777ff822dd6184886036e8017a48bc159f25": {
+    "seen_at": "2026-10-19T14:51:47.506602+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html|a864e286becbd65fed4ec29b1548e13d3c5b456e165b257fd28eed4c559b90fe": {
+    "seen_at": "2026-10-19T14:51:47.506605+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html|9556b8707b343aeb73aed54e97b8a94d27e948237898ed33d1cb9a3f201d5fc4": {
+    "seen_at": "2026-10-19T14:51:47.506608+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html|d174bd2477a3bb207a8a9288ce58aa610447835ed9511ff08a84fee8bf85380d": {
+    "seen_at": "2026-10-19T14:51:47.506611+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html|f708a0db85a779541591ec82e7e03244b13f2cd3c63885360026afeaa537040b": {
+    "seen_at": "2026-10-19T14:51:47.506615+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-102764-critical-beyondtrust-remote-support-authentication-bypass-exploited-in-the-wild|85f7c7b6878e295d8e52ed1838bbbfb4aac65c0d10198278cd063807f5ce4030": {
+    "seen_at": "2026-10-19T14:51:47.506679+00:00",
+    "source": "rapid7"
   }
 }
