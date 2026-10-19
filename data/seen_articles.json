@@ -2478,5 +2478,13 @@
   "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779|dab6c3a4970a2cb778e28bde76bfa72786e8095e6620b0d96807ba3db58ff191": {
     "seen_at": "2026-10-19T20:21:32.491208+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed|0897289fcaed657fce11120ae536488ec36fe6a40cc4a9e7e73c451d80d4c3b1": {
+    "seen_at": "2026-10-19T23:51:42.344538+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites|4e2170a86edfb4e5b849110cb5b12876c183156f688956f169140613eb094a14": {
+    "seen_at": "2026-10-19T23:51:42.344562+00:00",
+    "source": "bleepingcomputer"
   }
 }
