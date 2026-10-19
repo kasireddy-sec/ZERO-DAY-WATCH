@@ -2442,5 +2442,41 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-102764-critical-beyondtrust-remote-support-authentication-bypass-exploited-in-the-wild|85f7c7b6878e295d8e52ed1838bbbfb4aac65c0d10198278cd063807f5ce4030": {
     "seen_at": "2026-10-19T14:51:47.506679+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware|f326c86a508831df1fec624eef9856e52b42c8329a7a82b35f344fcb89ccf653": {
+    "seen_at": "2026-10-19T20:21:32.491086+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack|b477c3c0eb91c7f901ecdab637b0fc011648c8d182b7e7b233dd49deddb3dafb": {
+    "seen_at": "2026-10-19T20:21:32.491105+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks|d8a05c530a21dd2166368ada2393e335cbcdafefe8609f6182070eafaf14d3fc": {
+    "seen_at": "2026-10-19T20:21:32.491109+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update|89dac5b886f0ee175bc7a41e0db8bf0ce989f426bf904b582aaaab558a6cc83b": {
+    "seen_at": "2026-10-19T20:21:32.491112+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html|db2bd36c4ceb38e85c1e50a2b9fb46faa7d0b8bd1a8e029e53556577ab278bb4": {
+    "seen_at": "2026-10-19T20:21:32.491117+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html|d0826edc3cc252a4be3ffcc3fbf277a86b9fb354c756cba7a1db0acd1986f8bd": {
+    "seen_at": "2026-10-19T20:21:32.491121+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/ai-inhuman-insider-threats-securing-agents|f929587a8efc9a6f17e1b4297c6443d0fca78df68158f19335bda66afcefe0a2": {
+    "seen_at": "2026-10-19T20:21:32.491202+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/ve-authentication-bypass-remote-code-execution-and-database-read-in-eptura-archibus-fixed|2ea2e13503a165980e2891b60411d5a803a2b38ce8d7bf7f3a74fd2b17690967": {
+    "seen_at": "2026-10-19T20:21:32.491205+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779|dab6c3a4970a2cb778e28bde76bfa72786e8095e6620b0d96807ba3db58ff191": {
+    "seen_at": "2026-10-19T20:21:32.491208+00:00",
+    "source": "rapid7"
   }
 }
