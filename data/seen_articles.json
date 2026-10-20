@@ -2486,5 +2486,29 @@
   "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites|4e2170a86edfb4e5b849110cb5b12876c183156f688956f169140613eb094a14": {
     "seen_at": "2026-10-19T23:51:42.344562+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html|fc17e85d5558c370205cbc1d2c38f31519fdfbe41001f73409cdb7975c9124c1": {
+    "seen_at": "2026-10-20T08:47:48.691154+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html|59b69042584895b8b386716c56aaaddbe01847c90383d1ec22c4f488a01724f7": {
+    "seen_at": "2026-10-20T08:47:48.691172+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html|0b67603135d546c70177e80ce66fef6b0dd33606f56a6f4eab21b9fbd3a13506": {
+    "seen_at": "2026-10-20T08:47:48.691177+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html|d3d807cb8313d1fb9a582f59e64be6f97d11d6a0b9392570030cdd03ceb1353c": {
+    "seen_at": "2026-10-20T08:47:48.691181+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html|e2311134b908848eff0847da1f7b53eda216aa95f00b873e3889cf325e601b14": {
+    "seen_at": "2026-10-20T08:47:48.691188+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html|b7ac6d4bd4084bcf0f0dda54b99abd044e307593899ae553151f7407e27bb6ba": {
+    "seen_at": "2026-10-20T08:47:48.691193+00:00",
+    "source": "thehackernews"
   }
 }
