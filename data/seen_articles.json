@@ -2590,5 +2590,37 @@
   "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html|7aff17de474e188c64d2dfd11e899bff3c8e5e593625716b4a8b3df1d0a260cd": {
     "seen_at": "2026-10-20T18:36:19.849597+00:00",
     "source": "thehackernews"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|0f073e92676085ff73d7b578f4368c3368b3f6afaa5cffb292aecaec7cab97cd": {
+    "seen_at": "2026-10-20T22:05:17.302713+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|bd2ec250e869088ac126d30d3418c75bb50e8354c3d956a882ac58e54331f6a5": {
+    "seen_at": "2026-10-20T22:05:17.302732+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|1a6fa058736e9c5228445fc769d295dba6b7bfaed31d9dcaa3112c456c1f9b83": {
+    "seen_at": "2026-10-20T22:05:17.302738+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|bc4934fd3bad98831e5a2feee46314ea42ded65cd94ff2d4ac4f965d5e28b4e4": {
+    "seen_at": "2026-10-20T22:05:17.302742+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|fb0897cfae5d486f1deda86e2170312489f541be98f458cd544ecc3f72bc3214": {
+    "seen_at": "2026-10-20T22:05:17.302746+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|122f71f9f38c0e9c7950807c63d70607c84f26b12e89a1e5f6e8e04d31de5f0f": {
+    "seen_at": "2026-10-20T22:05:17.302750+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow|12274d9195487a9e6e977e4062a858562eea35d52ea64539502581d6f4746284": {
+    "seen_at": "2026-10-20T22:05:17.302805+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months|dc0d636aa304e93b1d8370b54c113479be35be6d2cb59a9262d98a4aabff034f": {
+    "seen_at": "2026-10-20T22:05:17.302809+00:00",
+    "source": "bleepingcomputer"
   }
 }
