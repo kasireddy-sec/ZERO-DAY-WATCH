@@ -2510,5 +2510,61 @@
   "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html|b7ac6d4bd4084bcf0f0dda54b99abd044e307593899ae553151f7407e27bb6ba": {
     "seen_at": "2026-10-20T08:47:48.691193+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies|d214c322538d3b0a641d2ae2993c5af632522424208725e8818a324cc2d06347": {
+    "seen_at": "2026-10-20T14:06:02.629661+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers|485927e052c0bae6031d3e64b559fad10b2fbcd663679436bddf5c79742826ae": {
+    "seen_at": "2026-10-20T14:06:02.629680+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery|bb081baa4710c3321b2b13cb0ce7bd00c1b8e980a5d46f4e844d7118aee613d1": {
+    "seen_at": "2026-10-20T14:06:02.629685+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets|4be175bb8fc763218fd4ecde4a3979892a2b66c59a47b7a71d4c87d8dad3d3b5": {
+    "seen_at": "2026-10-20T14:06:02.629689+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe|4dcd71f33385f3c7f0a146e5cffaedd27c7f0e3278462362cfe006a07070f3c8": {
+    "seen_at": "2026-10-20T14:06:02.629693+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide|3c287b810e5276f4248c29e37596340a2aed51aaaa78d1e12018bebe002f352f": {
+    "seen_at": "2026-10-20T14:06:02.629696+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html|9fafe74823659c0d7cd419987dbc3a3ccaef55862c8f17d26ccaea53c9cc3774": {
+    "seen_at": "2026-10-20T14:06:02.629705+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html|fbc686a41abba18854c3e70a887e56ccde853fac0fd10de7956049e93699e24a": {
+    "seen_at": "2026-10-20T14:06:02.629708+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html|b78ec8fdf98503d77a9cbbaa72fc39176ec10cf90cd2d6d00c7d34916a632b56": {
+    "seen_at": "2026-10-20T14:06:02.629712+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html|383f0a2ab8dd8630c6a4eaff6947fb9e583d2c85369478e41070ad00ebd62192": {
+    "seen_at": "2026-10-20T14:06:02.629716+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html|e51488086141960a2fad653db7ade977b8e74d4684c116ebc50cdf97bda1d56f": {
+    "seen_at": "2026-10-20T14:06:02.629719+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html|081e90af034150d0160804d47355830a4ed73c8cf96c134a73017c062f00157e": {
+    "seen_at": "2026-10-20T14:06:02.629722+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html|ca8340fc373d2cb9df7ba68f0bbd5b62e1117145332ef7f696eec7dffe545eb5": {
+    "seen_at": "2026-10-20T14:06:02.629725+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html|bdd52c86320bdd5edde2b399c1bae88b810e7ddbcdb6fcbed9d9a49b49e08d37": {
+    "seen_at": "2026-10-20T14:06:02.629737+00:00",
+    "source": "thehackernews"
   }
 }
