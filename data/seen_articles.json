@@ -2566,5 +2566,29 @@
   "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html|bdd52c86320bdd5edde2b399c1bae88b810e7ddbcdb6fcbed9d9a49b49e08d37": {
     "seen_at": "2026-10-20T14:06:02.629737+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code|8feab977781680f6a396715a1b4556e994456f4ab683eba1691d99f563aed3a5": {
+    "seen_at": "2026-10-20T18:36:19.849530+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies|5cc1db9ec976a7604cc1c1fce3cc8bd001e7bb573ccc970c08dc20d84a94ed6d": {
+    "seen_at": "2026-10-20T18:36:19.849549+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html|ee19db7add7b1535a7fde6ed52e060a5f6efe3471c636830d1f6680b0c6357a2": {
+    "seen_at": "2026-10-20T18:36:19.849584+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html|81b73290e79baee485c407c1f018458a37d037a938d3faa8b67bb03ba7711a66": {
+    "seen_at": "2026-10-20T18:36:19.849589+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html|49ae108a6f3de6096963c5b1a3b8af8ab95ce2c09945356b9b71a1a4171f029d": {
+    "seen_at": "2026-10-20T18:36:19.849593+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html|7aff17de474e188c64d2dfd11e899bff3c8e5e593625716b4a8b3df1d0a260cd": {
+    "seen_at": "2026-10-20T18:36:19.849597+00:00",
+    "source": "thehackernews"
   }
 }
