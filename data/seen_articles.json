@@ -2774,5 +2774,21 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|80505509bd37ea03fbe7b2d959c5c29a33c55ca3e82e6dc86b428fdbc218c879": {
     "seen_at": "2026-10-21T20:17:51.369941+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks|5fdb6a6a1d63cc7ceea6fb098496f039f33d518cc24dabbd2eecbd018e9bdb9e": {
+    "seen_at": "2026-10-21T23:31:32.091738+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected|9be0772d1b44e9d164194ef8ee29c741819081f9758895c4049f692d299b1d0b": {
+    "seen_at": "2026-10-21T23:31:32.091752+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery|21a6f22542e5216aab81652fcf05d47d185c808aaa74143064f1e180d01f234f": {
+    "seen_at": "2026-10-21T23:31:32.091756+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|efeb75187306e04251be7419fc29ea9b9126b9aa498cb8ebd7cce076a70deeb8": {
+    "seen_at": "2026-10-21T23:31:32.091856+00:00",
+    "source": "palo_alto"
   }
 }
