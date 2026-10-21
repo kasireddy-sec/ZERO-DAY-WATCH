@@ -2734,5 +2734,45 @@
   "https://www.rapid7.com/blog/post/tr-q3-2026-threat-update-attackers-exploiting-vulnerabilities-within-3-days|1aab08105c76482be4ccb261e00d9e2bdc57d771b762997772c6dce41167d0cc": {
     "seen_at": "2026-10-21T16:02:32.166047+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers|a4581cfb682ecb09080075e7f32e808b5175a991f58e2a6c23d7978a89d28167": {
+    "seen_at": "2026-10-21T20:17:51.369772+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it|41d3286014b87b73b36f034a301d88c88c8d6fe5caf39ef8fb14129ece4f3adc": {
+    "seen_at": "2026-10-21T20:17:51.369791+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html|1ca5fa88327f194ee8455bb82f53f83754efafd02ec79e62856007bce14ccf56": {
+    "seen_at": "2026-10-21T20:17:51.369799+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html|ce6b28bbb253daadb22b8007d86ead912fcc5657d8be7b8bd3d2aa779513b957": {
+    "seen_at": "2026-10-21T20:17:51.369802+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html|bd2474019e8248667ab3465a02cb7e7dcc23496e58651513099be8f6af4c41ee": {
+    "seen_at": "2026-10-21T20:17:51.369806+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html|5c839179e581c36497ff38630104ef6048e861ae32dc5f9a18a50a432fce1a69": {
+    "seen_at": "2026-10-21T20:17:51.369809+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html|6f24d6fdbfc19a9e296d8a9228392cb5842df6407dc9192b5cf01d2bd16e20a4": {
+    "seen_at": "2026-10-21T20:17:51.369812+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html|8d4dad87a32806cae0c37e2ee6a092d29dd7634bb14ff3fc29897b9e82b5df5b": {
+    "seen_at": "2026-10-21T20:17:51.369830+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php|f759018708295cac70639da09f8e0710d5014f1371a88e378430ea494a338f9b": {
+    "seen_at": "2026-10-21T20:17:51.369886+00:00",
+    "source": "rapid7"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|80505509bd37ea03fbe7b2d959c5c29a33c55ca3e82e6dc86b428fdbc218c879": {
+    "seen_at": "2026-10-21T20:17:51.369941+00:00",
+    "source": "palo_alto"
   }
 }
