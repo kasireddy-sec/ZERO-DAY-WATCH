@@ -2678,5 +2678,61 @@
   "https://www.rapid7.com/blog/post/ai-inhuman-insider-threats-securing-agents|7887eca5d97d6f4aedd1b75e800446e02729c4af8d259fc2363bdac617f0ecdb": {
     "seen_at": "2026-10-21T11:08:49.419904+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|d8c44e7db42c166bf3858b1634f2a2d10f3f6c07d9a2610a6fe97d8be71a6603": {
+    "seen_at": "2026-10-21T16:02:32.165903+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws|6885858012b4da8126a80e1fa088708d7c4de2a943f873a4e8b4a24ccb4f3740": {
+    "seen_at": "2026-10-21T16:02:32.165944+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet|02d9149ca2d703d1e2645f88e30ae24b8c476cadbf7795836266ed654ce89d50": {
+    "seen_at": "2026-10-21T16:02:32.165948+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools|f129d6375e52cf929d4451231c3bc497a1a4ee9ee9606cbbee3a09a79c58e85a": {
+    "seen_at": "2026-10-21T16:02:32.165951+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html|d1af99f513c1c4b96ea1fa6dc9f1e7e655b2866591b61575965e405fcb779a87": {
+    "seen_at": "2026-10-21T16:02:32.165957+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html|0a24572b3e93000d2c4a37947681fc2d1ebc00f130cf3aaec9451c4d5f6730c3": {
+    "seen_at": "2026-10-21T16:02:32.165960+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html|ca83974c4d7ce5f2807f8be62a24f8638df7ed716c1cfc18db8cd865c539a3a9": {
+    "seen_at": "2026-10-21T16:02:32.165963+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html|a6f174ffde476307845f56966ddd1574a442bd7bf1190e2a0c3c5a1ac626ad1a": {
+    "seen_at": "2026-10-21T16:02:32.165966+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html|ef4f96ad8b67e15f90af61cb12724135d67a4b52a0fbdc1680d623317a9497ca": {
+    "seen_at": "2026-10-21T16:02:32.165969+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html|7e95441f652a51bb878248ff35513808c5117c41be1ae0576311d4495d512635": {
+    "seen_at": "2026-10-21T16:02:32.165972+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html|ed77166e6c3eecf3ac8e0c77f391485d5248f5dcf5fa55fccf0ef1c56fa2d640": {
+    "seen_at": "2026-10-21T16:02:32.165975+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html|11c9c214a6ddfa6974375404770c6fd5d2e23cd2a07a3c083c6d8b9a2f424385": {
+    "seen_at": "2026-10-21T16:02:32.165978+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php|63d73474cda8ebddefbfbbb9e4e62a89cf7ce9961b84b663aeab4f8463ad877d": {
+    "seen_at": "2026-10-21T16:02:32.166035+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/tr-q3-2026-threat-update-attackers-exploiting-vulnerabilities-within-3-days|1aab08105c76482be4ccb261e00d9e2bdc57d771b762997772c6dce41167d0cc": {
+    "seen_at": "2026-10-21T16:02:32.166047+00:00",
+    "source": "rapid7"
   }
 }
