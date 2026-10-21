@@ -2634,5 +2634,49 @@
   "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html|3b085ec2a4aff1ffcf81435870a6381bb505c8d5707fd5f5fde477662e94ce60": {
     "seen_at": "2026-10-21T05:42:48.636319+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates|e29d7b403ab494c367b0b2e450c59e679242493e42b68c4b82ee04cc9db23fe5": {
+    "seen_at": "2026-10-21T11:08:49.419776+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations|e0623fd5748d4015ad1df4c23f6bc18a2fae767ee0011f3500132eee22275a27": {
+    "seen_at": "2026-10-21T11:08:49.419796+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html|3352be60c09c5e02ac984e45e5f65fe8d212b94166c2aedf2d5ecae2734fec2a": {
+    "seen_at": "2026-10-21T11:08:49.419807+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html|1709c889d522e285bc049b2fada4c61d14719c5914be91da83b9fca35541f2c2": {
+    "seen_at": "2026-10-21T11:08:49.419812+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html|73890bbe70ceeb8102ee177ef4ec8f4b457c6799a2021d3df0911186129346f7": {
+    "seen_at": "2026-10-21T11:08:49.419816+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html|f83b7033c548ea1a05c1a4f2b0b26706c42b5f8712eee9b451513ed6e3c2a785": {
+    "seen_at": "2026-10-21T11:08:49.419820+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html|9de6c22b5f648c3526bcd3033c28191432c1ada29cb0ed322705fd30c851c6b9": {
+    "seen_at": "2026-10-21T11:08:49.419824+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html|b13bf6fff0692e5bb6c80ae91a292121dcc650e79c6e513db6814facc9508670": {
+    "seen_at": "2026-10-21T11:08:49.419827+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html|1d92d0040ae619df4b9644d87380ce0ed35b8c2e79658d1d4e1b61ab0b297ef4": {
+    "seen_at": "2026-10-21T11:08:49.419830+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html|480ddb05fbdb3a7b027ef5f379a4acc1117fb823ae33d1bd0daa74c6a7b833e7": {
+    "seen_at": "2026-10-21T11:08:49.419845+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/ai-inhuman-insider-threats-securing-agents|7887eca5d97d6f4aedd1b75e800446e02729c4af8d259fc2363bdac617f0ecdb": {
+    "seen_at": "2026-10-21T11:08:49.419904+00:00",
+    "source": "rapid7"
   }
 }
