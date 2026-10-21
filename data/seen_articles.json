@@ -2622,5 +2622,17 @@
   "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months|dc0d636aa304e93b1d8370b54c113479be35be6d2cb59a9262d98a4aabff034f": {
     "seen_at": "2026-10-20T22:05:17.302809+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites|dbff9028e28d5bbdd7fc4550e5bfe7381756789c4c8eccf915c524390be57adf": {
+    "seen_at": "2026-10-21T05:42:48.636291+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates|f72d6cf2d1f3c6e6824443318a52f3c4ec31ac74653e1c7807274627bc0a7f13": {
+    "seen_at": "2026-10-21T05:42:48.636309+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html|3b085ec2a4aff1ffcf81435870a6381bb505c8d5707fd5f5fde477662e94ce60": {
+    "seen_at": "2026-10-21T05:42:48.636319+00:00",
+    "source": "thehackernews"
   }
 }
