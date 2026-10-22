@@ -2822,5 +2822,53 @@
   "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html|9bb4fed619977f8853e15d46f13a497cbe63bbbd7d6027138316e7b48f39fc24": {
     "seen_at": "2026-10-22T08:50:19.541739+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response|bf5ebcb0899c7f9026a5e22492c4c82949b19110ad6c05a903772ed321c6b420": {
+    "seen_at": "2026-10-22T14:20:46.528618+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches|abc4a4e3e5d61b95924a2657fa503a2555a57a57d24319cd3730d64ccdea3685": {
+    "seen_at": "2026-10-22T14:20:46.528635+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability|fbbad8fa836e5637e42e62210516e4e7b6229c36f9b91c4b91767514df7ebd6c": {
+    "seen_at": "2026-10-22T14:20:46.528639+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html|dcf0aec4e20cdba137d550fb026014432663d1d7cd278c5397ad2f643cd0c656": {
+    "seen_at": "2026-10-22T14:20:46.528646+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html|7fa548398a41e3968dc7567b9ba1cf9f8b967dac1117264c19463501969c76ed": {
+    "seen_at": "2026-10-22T14:20:46.528649+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html|a1fe0ca09da73f8e3c97a99cfadb46415a8fbff9eec0679dd103d530d07c0552": {
+    "seen_at": "2026-10-22T14:20:46.528653+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html|c220839e679f171e1deb4fbb7dc3724bc246a03d8dbf45bdfc491dc35871a720": {
+    "seen_at": "2026-10-22T14:20:46.528656+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html|b82810be8fd5f6c04a7a458af4c9ca5b691c70f3626ee9bdfcdf1e0b264be644": {
+    "seen_at": "2026-10-22T14:20:46.528660+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html|3496f9a332f21d69e84a08933b7d766a6462ee4addbfd7d99c499bfefd9e2a58": {
+    "seen_at": "2026-10-22T14:20:46.528663+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html|0669850b31c7a3073c8a0199f1e29d2570ce64ac6b5d9558df3db41d75a4c0f1": {
+    "seen_at": "2026-10-22T14:20:46.528667+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html|c82f6d97b55c89bdbf1cbcc487b426b6ba733fbf8946e3d6ee344a8be350703a": {
+    "seen_at": "2026-10-22T14:20:46.528670+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html|7ffa39c6f0188ee68253750feca9411a85dc1081722ddbbbadb0a025813ee7aa": {
+    "seen_at": "2026-10-22T14:20:46.528673+00:00",
+    "source": "thehackernews"
   }
 }
