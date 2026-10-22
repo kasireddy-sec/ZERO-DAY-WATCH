@@ -2914,5 +2914,21 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php|ffb6e8761a46d67a89b254048f343de53cf938e92a6390a5f5df3c156d57ea22": {
     "seen_at": "2026-10-22T18:42:36.478720+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach|699633ae56cdd5100d53215a5203871fd3c7c347b849b5591b67653a53fa61d9": {
+    "seen_at": "2026-10-22T22:04:40.468715+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts|4698b5fbad4f6d6b15558c1fcb4f870b39d93ec87968ba40e036d734f47c53c0": {
+    "seen_at": "2026-10-22T22:04:40.468731+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware|6242826ccf383d174d02a4634b28cfcb8f2a88c712ba4c18a1bf853d733d2da0": {
+    "seen_at": "2026-10-22T22:04:40.468734+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html|bbe9e8a0883e019a1611220b2cfce07f3aaef78d8c25dac0a4373c695d8a1237": {
+    "seen_at": "2026-10-22T22:04:40.468741+00:00",
+    "source": "thehackernews"
   }
 }
