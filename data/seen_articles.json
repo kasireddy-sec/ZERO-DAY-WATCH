@@ -2798,5 +2798,29 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|1c417878eb39fbdfa97fa9561a3fbf655a69cee9a44e46302302b7fd9dda8af2": {
     "seen_at": "2026-10-22T03:12:48.166713+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa|5ab3120a219411513a845346ace352a57411e34812957642053bafcb30be1373": {
+    "seen_at": "2026-10-22T08:50:19.541691+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html|6b05d0682db9fb772a1999c132b23070c4ed483e25aac625a651dd088edf5160": {
+    "seen_at": "2026-10-22T08:50:19.541713+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html|d1f6cb0dbe2568ba7f5bc3c7c77d9208599b75abaca56af4f4f36cd5d132a7cb": {
+    "seen_at": "2026-10-22T08:50:19.541721+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html|8874d268d69964d2f884c0d7b2f7932153dfebdaf1176a12a36958bdeccbfea2": {
+    "seen_at": "2026-10-22T08:50:19.541726+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html|788cdbd8906af402eb413d905e1712868182f09fd306841ba6aa9a3cfc866b49": {
+    "seen_at": "2026-10-22T08:50:19.541729+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html|9bb4fed619977f8853e15d46f13a497cbe63bbbd7d6027138316e7b48f39fc24": {
+    "seen_at": "2026-10-22T08:50:19.541739+00:00",
+    "source": "thehackernews"
   }
 }
