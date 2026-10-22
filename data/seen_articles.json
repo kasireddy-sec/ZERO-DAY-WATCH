@@ -2790,5 +2790,13 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|efeb75187306e04251be7419fc29ea9b9126b9aa498cb8ebd7cce076a70deeb8": {
     "seen_at": "2026-10-21T23:31:32.091856+00:00",
     "source": "palo_alto"
+  },
+  "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html|8b98b086521b6cc2102e040954d205d4a96c3ca8dbb33c7ac0a3a067899ad878": {
+    "seen_at": "2026-10-22T03:12:48.166611+00:00",
+    "source": "thehackernews"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|1c417878eb39fbdfa97fa9561a3fbf655a69cee9a44e46302302b7fd9dda8af2": {
+    "seen_at": "2026-10-22T03:12:48.166713+00:00",
+    "source": "palo_alto"
   }
 }
