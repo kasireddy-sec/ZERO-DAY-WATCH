@@ -2870,5 +2870,49 @@
   "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html|7ffa39c6f0188ee68253750feca9411a85dc1081722ddbbbadb0a025813ee7aa": {
     "seen_at": "2026-10-22T14:20:46.528673+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks|04f7149dd5c303c709977208a260e6e925e84460ef5e41370b47ace36a48fda3": {
+    "seen_at": "2026-10-22T18:42:36.478610+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps|873066aa417fde9984ee19bd091e42b3379141f48b793d63b0347ab3ca693b2e": {
+    "seen_at": "2026-10-22T18:42:36.478626+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response|9a1941c7d763999e4bb6aa3ba2d09166675e536f8ece9d8efe7494adf2f96421": {
+    "seen_at": "2026-10-22T18:42:36.478630+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches|8b8d17e930cf13f64d120592e6efc6cd19f5d9f380651e1c1ade02b61736ae3d": {
+    "seen_at": "2026-10-22T18:42:36.478633+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html|7ac1cd6848cdf32ee06f2ffe18fbbaf862d82c888ede4ce59dddeca6008f0f39": {
+    "seen_at": "2026-10-22T18:42:36.478638+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html|31bc3dd824a02c52d7753d25347cf77ad2aaae5b065f45b1bd013eb8e5b97832": {
+    "seen_at": "2026-10-22T18:42:36.478641+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html|3d2cefffbca31c573cf819f9fa278c2a4408e901992e5453dad1d1d0bcb2dbb5": {
+    "seen_at": "2026-10-22T18:42:36.478645+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html|c71f14879f491824a4ebca712f671b68bad90581d4850c2439169dc9839ee28c": {
+    "seen_at": "2026-10-22T18:42:36.478648+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html|6d4f1cbe8cbb5be7d2e44798653f041211361516d645325b4b780436142d4582": {
+    "seen_at": "2026-10-22T18:42:36.478654+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html|2962b1a7da9e4737e8fd90869253ff262a3153ce0c658b85b78d11c2530bc4e7": {
+    "seen_at": "2026-10-22T18:42:36.478661+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php|ffb6e8761a46d67a89b254048f343de53cf938e92a6390a5f5df3c156d57ea22": {
+    "seen_at": "2026-10-22T18:42:36.478720+00:00",
+    "source": "rapid7"
   }
 }
