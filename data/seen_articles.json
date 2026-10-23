@@ -2938,5 +2938,45 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|d47a5d82ef497001528aed7c34a530a3183822a21d608b2c15a271e3e4dc643e": {
     "seen_at": "2026-10-23T05:43:55.022010+00:00",
     "source": "palo_alto"
+  },
+  "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html|eb6eddf82d7b3e275ed68f9be2336e70fe8e80bcf0025957479bc4196d904fcf": {
+    "seen_at": "2026-10-23T10:59:35.021223+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html|0a4403c04291a4eebd37759b6e35f344572457129b7a5b02b5110a6b03b251c6": {
+    "seen_at": "2026-10-23T10:59:35.021240+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html|a19262c916d152464a3a6149dee24eca9623374124c218a9b0c143b0e36df4f4": {
+    "seen_at": "2026-10-23T10:59:35.021245+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html|4f7b5eeaf0290b2c354d3858fcd9b7813a2435642ba4ea260d7b5d2009944c1c": {
+    "seen_at": "2026-10-23T10:59:35.021250+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html|31182e7a12b89769ce761de080cd991eb01bcbc2a07ad2017cdca1ecd752bd8e": {
+    "seen_at": "2026-10-23T10:59:35.021260+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html|06ec6647b1708f144292455e570f5a03c274e862209da68aa9e38213c1daccc2": {
+    "seen_at": "2026-10-23T10:59:35.021265+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html|3d572d277e61207cc324acbee899f4291afdbfe9097bb00f74ec34a50c19fa40": {
+    "seen_at": "2026-10-23T10:59:35.021270+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html|c7b12ecb4c871c7b6cd514bc249ba7076e7c41a9fb63290d5d32695dfda9f7c1": {
+    "seen_at": "2026-10-23T10:59:35.021273+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html|9eb887ca8500edd21f10ea51deb99685070ceff37a8934a0d4caec8159849a8a": {
+    "seen_at": "2026-10-23T10:59:35.021278+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html|93a3ea395c0498a8fb40311a4417935f158108d187ff7a8359f04347692106b4": {
+    "seen_at": "2026-10-23T10:59:35.021280+00:00",
+    "source": "thehackernews"
   }
 }
