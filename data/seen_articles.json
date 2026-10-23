@@ -3006,5 +3006,57 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|0443809bf16c082f7e22e8a7145ceb9522c10770e80d411b60ce0c970a73f804": {
     "seen_at": "2026-10-23T15:42:07.931433+00:00",
     "source": "palo_alto"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|c9535109047f3a6b61e5b665e756bd77e36d21da1ba1894ddbc14ef5ac7fd112": {
+    "seen_at": "2026-10-23T19:46:37.838142+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection|028c97dd456f96e61d74bb8b67542702fd84c8ad6ff4f3fcb06d2323eb204887": {
+    "seen_at": "2026-10-23T19:46:37.838209+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january|285c1be8b63c01e938b04fb527191dc734f25471ee89d14d7aea561afd2daa3f": {
+    "seen_at": "2026-10-23T19:46:37.838215+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records|eb89a9b347ce156b5013a415860b085bd048a1cb46f9340eb23dbb4f542345ff": {
+    "seen_at": "2026-10-23T19:46:37.838218+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html|9febf8517b03f397595c5c67dd3709ce5584a19b837d2f55e7415ef6e3903f28": {
+    "seen_at": "2026-10-23T19:46:37.838225+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html|7196d2df1e5ea8830fd0af729f6e4b0fb1f7368815b8d34fe50f07bee5b67448": {
+    "seen_at": "2026-10-23T19:46:37.838228+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html|540c1feeaeea29081041b66c8374220fbc10d780ea2106d767d6acdbe66a5d39": {
+    "seen_at": "2026-10-23T19:46:37.838232+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html|78023c0b9cbc94369294558f3f5ae4d201af81135d18b0ff5876ed4b7a89a9b9": {
+    "seen_at": "2026-10-23T19:46:37.838235+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html|8caad8ebd0101d746a2c28f796ad2e937399d9b92ee7bd8cfe2104e2229df14d": {
+    "seen_at": "2026-10-23T19:46:37.838240+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html|3501757cc48cb315a984a9f7e68ebcd1b6ef047ab8102ffbe73b4a7a8d7af605": {
+    "seen_at": "2026-10-23T19:46:37.838258+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html|a85cfd12b286bbc9fde0ada5b1731ba3a19a01dc9b4c4e30b4a0990fb3a1a21d": {
+    "seen_at": "2026-10-23T19:46:37.838263+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-langflow-mongodb-and-more|f18b5aa411cd0ef3cc3f1ff3380e627311ebb84fa3d5a46392f484fb3f0e9172": {
+    "seen_at": "2026-10-23T19:46:37.838310+00:00",
+    "source": "rapid7"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|67451c16b51e175a1285fb45b02d2fd24e74720d1a50413b76b4bbdb80306415": {
+    "seen_at": "2026-10-23T19:46:37.838358+00:00",
+    "source": "palo_alto"
   }
 }
