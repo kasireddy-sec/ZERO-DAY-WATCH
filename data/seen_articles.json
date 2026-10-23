@@ -2978,5 +2978,33 @@
   "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html|93a3ea395c0498a8fb40311a4417935f158108d187ff7a8359f04347692106b4": {
     "seen_at": "2026-10-23T10:59:35.021280+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability|3c2ee37fd730596dc4cd3fee452deb4e88f62e9d3f433c947ef3f7a2e3a11237": {
+    "seen_at": "2026-10-23T15:42:07.931283+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders|36c17ebe8d594fca675950898d0309cc08696974bc80f74eed21b602194706aa": {
+    "seen_at": "2026-10-23T15:42:07.931300+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws|b34d03f3050a85b27bbea9036ad1479180d62fd24b216928f33d8c495eb74d6c": {
+    "seen_at": "2026-10-23T15:42:07.931305+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html|7b033a1854d34307969b443c3d093564d72d83da50822bdc15614bd8c7793dae": {
+    "seen_at": "2026-10-23T15:42:07.931311+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html|0b6f155bedfe8c27801b1ed7bc198d79ecda81ada5e0f523a99f93512c1d52db": {
+    "seen_at": "2026-10-23T15:42:07.931315+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html|4b1c001f94be804acd7054aad86a4a4b52f90d7b3cf5aefaab251460b92c58f3": {
+    "seen_at": "2026-10-23T15:42:07.931318+00:00",
+    "source": "thehackernews"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|0443809bf16c082f7e22e8a7145ceb9522c10770e80d411b60ce0c970a73f804": {
+    "seen_at": "2026-10-23T15:42:07.931433+00:00",
+    "source": "palo_alto"
   }
 }
