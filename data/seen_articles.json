@@ -2930,5 +2930,9 @@
   "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html|bbe9e8a0883e019a1611220b2cfce07f3aaef78d8c25dac0a4373c695d8a1237": {
     "seen_at": "2026-10-22T22:04:40.468741+00:00",
     "source": "thehackernews"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|9b574b29b2f32b82d5fa0256fc089053065edfd1c179d8d27668926ee0dedac3": {
+    "seen_at": "2026-10-23T00:48:48.583354+00:00",
+    "source": "palo_alto"
   }
 }
