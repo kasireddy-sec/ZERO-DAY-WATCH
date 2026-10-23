@@ -3058,5 +3058,21 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|67451c16b51e175a1285fb45b02d2fd24e74720d1a50413b76b4bbdb80306415": {
     "seen_at": "2026-10-23T19:46:37.838358+00:00",
     "source": "palo_alto"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|9196bb7f0d4fa2b570a2f5a14cd0ca9eec1701256457f3561416674193edccb4": {
+    "seen_at": "2026-10-23T22:53:28.742861+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks|6fecb455fc75c993ce70f5e834fcc2baf31e396fec4b76abf33c6b1de597d04f": {
+    "seen_at": "2026-10-23T22:53:28.742915+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php|df673cd7777df002c399a847d21a1947f779bc099acbc39612283ea8931afa8f": {
+    "seen_at": "2026-10-23T22:53:28.742997+00:00",
+    "source": "rapid7"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|ba1a0b1f75793353a8eff902edfacb0b5707c9e9128ea2ad580e39839f29e69f": {
+    "seen_at": "2026-10-23T22:53:28.743044+00:00",
+    "source": "palo_alto"
   }
 }
