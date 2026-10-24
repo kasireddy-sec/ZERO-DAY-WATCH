@@ -3074,5 +3074,9 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|ba1a0b1f75793353a8eff902edfacb0b5707c9e9128ea2ad580e39839f29e69f": {
     "seen_at": "2026-10-23T22:53:28.743044+00:00",
     "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|889b54983248167fec95a4d00ec0fa5444607819323e7f058cb3e812659ad85b": {
+    "seen_at": "2026-10-24T01:22:00.532755+00:00",
+    "source": "palo_alto"
   }
 }
