@@ -3078,5 +3078,29 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|889b54983248167fec95a4d00ec0fa5444607819323e7f058cb3e812659ad85b": {
     "seen_at": "2026-10-24T01:22:00.532755+00:00",
     "source": "palo_alto"
+  },
+  "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html|79d716da35ab2b2ca6a5dc4fd5d602b9212b012f3536ef9b8924f0b017662583": {
+    "seen_at": "2026-10-24T11:24:17.783327+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html|dfff72c3019ca5aba5a1be49c31d5659a67c024d4e6f6c489251b96878f6463c": {
+    "seen_at": "2026-10-24T11:24:17.783343+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html|5e88431b8a87ba9c5988e6b54cfa020566ca6993816c108fcb2d5d89eca2555b": {
+    "seen_at": "2026-10-24T11:24:17.783348+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html|60e0bbdd12701d90c9045552d685cb9b0dede48f4da6c7a5cca0b4aec456a6da": {
+    "seen_at": "2026-10-24T11:24:17.783351+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html|738e6684e6663473fb2fab84b6095c5787c0ec719574fba2129e03dcd4caee28": {
+    "seen_at": "2026-10-24T11:24:17.783360+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html|b09e495500a7f43a3ae9fefffae9d2a7b415af1887210a05da257b996a273ce1": {
+    "seen_at": "2026-10-24T11:24:17.783373+00:00",
+    "source": "thehackernews"
   }
 }
