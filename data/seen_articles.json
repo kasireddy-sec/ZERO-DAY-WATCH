@@ -3102,5 +3102,25 @@
   "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html|b09e495500a7f43a3ae9fefffae9d2a7b415af1887210a05da257b996a273ce1": {
     "seen_at": "2026-10-24T11:24:17.783373+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot|8fad895687545668b4179161541a8a513e30413ce434d92f2834cda03c9b7bed": {
+    "seen_at": "2026-10-24T14:44:56.611896+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html|3f3d2d12f3d1a1d6d24672dd3532ed37fbf22c16c453a10b9d1844bc323c2577": {
+    "seen_at": "2026-10-24T14:44:56.611919+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html|538f5b77747c32d7c958a325b109b7479b5f6af2dc99bd72260761fcfc7e1f19": {
+    "seen_at": "2026-10-24T14:44:56.611924+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html|8f5ca3584cb50b041c2bd08cd4d9c58da07d6ba9668cf5c71284c122e6245884": {
+    "seen_at": "2026-10-24T14:44:56.611958+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php|52a5868dfedfe9a57a41d618d35a1b13c3f78c1c0d5368822023a20ab07a4e85": {
+    "seen_at": "2026-10-24T14:44:56.612002+00:00",
+    "source": "rapid7"
   }
 }
