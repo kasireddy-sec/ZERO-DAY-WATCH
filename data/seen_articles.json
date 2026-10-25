@@ -3122,5 +3122,9 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php|52a5868dfedfe9a57a41d618d35a1b13c3f78c1c0d5368822023a20ab07a4e85": {
     "seen_at": "2026-10-24T14:44:56.612002+00:00",
     "source": "rapid7"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|e609584c1bcece05ed95fb67ac222ab0d83288b1a32b880dff065073b0445d77": {
+    "seen_at": "2026-10-25T05:39:40.118530+00:00",
+    "source": "palo_alto"
   }
 }
