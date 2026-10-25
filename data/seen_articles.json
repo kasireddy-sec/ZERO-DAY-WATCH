@@ -3142,5 +3142,25 @@
   "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html|2ff0fc463e77edb9379d814b783af3b885a0051fec2693d6103850f96298dd53": {
     "seen_at": "2026-10-25T10:41:14.288101+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder|c3fa0e0d4128c1773ea5876a7779ef57c8a39b1224e172189d3fa045aeb8dddd": {
+    "seen_at": "2026-10-25T18:06:24.723527+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html|bdf5b0ef5dbb86f251891deef38743049cbf3816975c6f348fe6f9e24a87fcd1": {
+    "seen_at": "2026-10-25T18:06:24.723551+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html|c02ce7ca35d969bd7a56bee791f9ac9d75e8901de11e2d7627c9fcfee750936f": {
+    "seen_at": "2026-10-25T18:06:24.723557+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html|d8d5256403179ae895e45b2446eaf58bc4e454a6d6061e9b402aefef9d3d3d14": {
+    "seen_at": "2026-10-25T18:06:24.723575+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html|1be244475ad56b944eac70b4d8ec119469daa100086b70e2b21bff7e7f858728": {
+    "seen_at": "2026-10-25T18:06:24.723617+00:00",
+    "source": "thehackernews"
   }
 }
