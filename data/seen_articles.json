@@ -3126,5 +3126,21 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|e609584c1bcece05ed95fb67ac222ab0d83288b1a32b880dff065073b0445d77": {
     "seen_at": "2026-10-25T05:39:40.118530+00:00",
     "source": "palo_alto"
+  },
+  "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html|094a7ec717db87b321ae30a3ceda5975af217729eb3d579017658fc8c2158b58": {
+    "seen_at": "2026-10-25T10:41:14.288066+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html|095f2b4322dbd3c5095b7901dda036737aca8de9ea9fa0624c19a5288171f633": {
+    "seen_at": "2026-10-25T10:41:14.288083+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html|1aac09dc4b0f507f88e4d326e354d34203ede9d7082ab7b33b5e78a21ae227bd": {
+    "seen_at": "2026-10-25T10:41:14.288092+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html|2ff0fc463e77edb9379d814b783af3b885a0051fec2693d6103850f96298dd53": {
+    "seen_at": "2026-10-25T10:41:14.288101+00:00",
+    "source": "thehackernews"
   }
 }
