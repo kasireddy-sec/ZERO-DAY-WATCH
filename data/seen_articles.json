@@ -3162,5 +3162,13 @@
   "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html|1be244475ad56b944eac70b4d8ec119469daa100086b70e2b21bff7e7f858728": {
     "seen_at": "2026-10-25T18:06:24.723617+00:00",
     "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html|92174dc90db23936d89bd82f6cc2715cc912087eb0292e1dc958858ab9505912": {
+    "seen_at": "2026-10-25T21:04:25.244850+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html|d869118c9b92b3bb7ffd3fed0773345f4497daaded5811599dee8f42c4484677": {
+    "seen_at": "2026-10-25T21:04:25.244867+00:00",
+    "source": "thehackernews"
   }
 }
