@@ -3278,5 +3278,25 @@
   "https://security.paloaltonetworks.com/CVE-2026-111497|0233e563287808d1ef37e0a24c62b0c64061d280707bce7229ccf12f8f683339": {
     "seen_at": "2026-10-26T19:44:17.640833+00:00",
     "source": "palo_alto"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|2720b4e791d376545e11ac241001c94cb524d156c619636ad66552513bc71490": {
+    "seen_at": "2026-10-26T23:34:00.716536+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|a6ccbf20f2d166e89abd4395449ab2e64033afc68a0a4d6c2ec14745a4b343a5": {
+    "seen_at": "2026-10-26T23:34:00.716551+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people|0f10a0184a64b850a2a886faa8b2de0038bd9968e0ee1d7252315f1a272d2bb1": {
+    "seen_at": "2026-10-26T23:34:00.716593+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records|bc3333750f98c95b1be94407a330b7dcf0b595f842fc0c4b02862ed00056b209": {
+    "seen_at": "2026-10-26T23:34:00.716597+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing|b61310f6ba92d379d5272ecb21757ae80574986dd505522a04f1296efc3dc24d": {
+    "seen_at": "2026-10-26T23:34:00.716600+00:00",
+    "source": "bleepingcomputer"
   }
 }
