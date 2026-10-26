@@ -3178,5 +3178,49 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|722e29a64cec31f369d4d02d13e9f10de4694ecf24bbbf97d77ff6de9abc052c": {
     "seen_at": "2026-10-26T06:51:14.975782+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates|634423bf288287d293d561792a0a48d74fd08780553d4f9884c46d9fd016a68d": {
+    "seen_at": "2026-10-26T13:52:15.509832+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild|0ddec9a275ca1386a1806928c50e71d376dca97ee5264cf6e2993983132743cd": {
+    "seen_at": "2026-10-26T13:52:15.509849+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html|984f7b9e4512ce23f405709e3d5afbc2a13ba4f78d1a2c586eb48d61bfab47d8": {
+    "seen_at": "2026-10-26T13:52:15.509865+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html|f5528da56d30c0e129d457c58d5db2815bab48b809ddbef27e045fe0b5e2513f": {
+    "seen_at": "2026-10-26T13:52:15.509868+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html|95bc13e0db094337216a98ac0b3426df38cb111290a82b5b87d1d602ebc75448": {
+    "seen_at": "2026-10-26T13:52:15.509872+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html|85cc67aba4a9352c641c3b01cb516551dcdea55fadb3c1418de72cc59dc6ead9": {
+    "seen_at": "2026-10-26T13:52:15.509875+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html|ff41e82e0a97000d8abb1e05bc789e3316405f92f08b7d730bd1eb1a2cb97240": {
+    "seen_at": "2026-10-26T13:52:15.509878+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html|c6abbe84198915e2385a411d5efba8106c9044ccf3d8fc95c6418f6e0c0ad234": {
+    "seen_at": "2026-10-26T13:52:15.509881+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html|1b7ca52788fa1f5310b6bfa9838c8bc24ce1b29c98258b1d513011d3d8a2cc47": {
+    "seen_at": "2026-10-26T13:52:15.509890+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html|2a1b99741190c3084510d8e9a934ce750d43fac8052bb8621c7eb7e5126fba4b": {
+    "seen_at": "2026-10-26T13:52:15.509895+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html|5276fa97fa108a2a3014b3a348847d9d40f6d5c044505885c3b0ec192c524461": {
+    "seen_at": "2026-10-26T13:52:15.509916+00:00",
+    "source": "thehackernews"
   }
 }
