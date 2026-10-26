@@ -3222,5 +3222,61 @@
   "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html|5276fa97fa108a2a3014b3a348847d9d40f6d5c044505885c3b0ec192c524461": {
     "seen_at": "2026-10-26T13:52:15.509916+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident|b2bc7e1adbfa7a1a206a796ab42da7f4ddd4f582c39edee224f6eed28f4d571e": {
+    "seen_at": "2026-10-26T19:44:17.640612+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches|3efa64629feec036db41b3fff7d81d04deb3d439b1e3bcb8d956b189c26c79e4": {
+    "seen_at": "2026-10-26T19:44:17.640630+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw|2b6797bda6b4b75fdaeaf0e93dec32c1282d88d15d4153ce970b9b243d817a62": {
+    "seen_at": "2026-10-26T19:44:17.640635+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence|71cbd951a74a1b85769c63905e784ae477abde321e7a910cf97c282c17572dc5": {
+    "seen_at": "2026-10-26T19:44:17.640640+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam|cd9bf4bd3ab45ecb17a0898b9cfa80981d290e355708a916c37d1a9d8a5f3ffb": {
+    "seen_at": "2026-10-26T19:44:17.640643+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html|08145871d133085ee8d47cf073771dea6160869b884a957fe1df8ba939ee0b47": {
+    "seen_at": "2026-10-26T19:44:17.640647+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/php-issues-second-windows-security.html|4795f3e818d293ea55c1c8aabd1fe865187293869e855733846a22d384fa243b": {
+    "seen_at": "2026-10-26T19:44:17.640651+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html|2a6e24deb5c8107be9ca1839f33001268073a6b1df66d2d97332775417af48ac": {
+    "seen_at": "2026-10-26T19:44:17.640654+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html|c951bfb71ef55713da1678ff02052cf5fd28e0909a3d43fa22ae96e428488968": {
+    "seen_at": "2026-10-26T19:44:17.640657+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html|b269fbe66cbf328696e91da855eb78ea4b03e74dcf54cb64fe488384c42d5cc9": {
+    "seen_at": "2026-10-26T19:44:17.640664+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html|3a83e4de604f744480859d23c76fffccd50ec1fc706f9b6cbcb44ad15619c551": {
+    "seen_at": "2026-10-26T19:44:17.640671+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html|fe1ef1bb18133eb80018967d762f1a4b7d2f17c89bbfcd1a8a836c0f3c9b7b6d": {
+    "seen_at": "2026-10-26T19:44:17.640674+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-111497-critical-out-of-bounds-write-in-the-node-js-brotli-decoder|da06f0befa1ade8f9c1776c0146d7479880ccbb741c5f1c74488ea9cd34b3d94": {
+    "seen_at": "2026-10-26T19:44:17.640778+00:00",
+    "source": "rapid7"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-111497|0233e563287808d1ef37e0a24c62b0c64061d280707bce7229ccf12f8f683339": {
+    "seen_at": "2026-10-26T19:44:17.640833+00:00",
+    "source": "palo_alto"
   }
 }
