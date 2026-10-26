@@ -3170,5 +3170,13 @@
   "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html|d869118c9b92b3bb7ffd3fed0773345f4497daaded5811599dee8f42c4484677": {
     "seen_at": "2026-10-25T21:04:25.244867+00:00",
     "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html|7a60ae43b45717dd2540d905a5c1c55f7d940a497dedf609c5bfac1064b406ad": {
+    "seen_at": "2026-10-26T06:51:14.975635+00:00",
+    "source": "thehackernews"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|722e29a64cec31f369d4d02d13e9f10de4694ecf24bbbf97d77ff6de9abc052c": {
+    "seen_at": "2026-10-26T06:51:14.975782+00:00",
+    "source": "palo_alto"
   }
 }
