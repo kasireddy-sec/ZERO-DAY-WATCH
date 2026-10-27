@@ -3298,5 +3298,17 @@
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing|b61310f6ba92d379d5272ecb21757ae80574986dd505522a04f1296efc3dc24d": {
     "seen_at": "2026-10-26T23:34:00.716600+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-111497-critical-out-of-bounds-write-in-the-node-js-brotli-decoder|96a23a62252a9aa7e293960942f20def3e5709fab8e542e4443c781767aa5bf5": {
+    "seen_at": "2026-10-27T03:38:21.207939+00:00",
+    "source": "rapid7"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|4cf37b88fb2bf472b496941d1de8fca62ddba4baa40dc29dbb056b129626a2ab": {
+    "seen_at": "2026-10-27T03:38:21.208004+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-111497|c91ea5b20e71e0e8a097329a8a6f1cd1e6aff99ab22593d89e1a36b5495cef30": {
+    "seen_at": "2026-10-27T03:38:21.208008+00:00",
+    "source": "palo_alto"
   }
 }
