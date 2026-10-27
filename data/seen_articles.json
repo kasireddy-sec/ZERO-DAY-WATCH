@@ -3310,5 +3310,41 @@
   "https://security.paloaltonetworks.com/CVE-2026-111497|c91ea5b20e71e0e8a097329a8a6f1cd1e6aff99ab22593d89e1a36b5495cef30": {
     "seen_at": "2026-10-27T03:38:21.208008+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers|a566f465b390170d6b60983ac386767586cfdb81d38e577499392cde32cc14c3": {
+    "seen_at": "2026-10-27T09:35:25.905200+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks|2778e180e402e9830b85d2cc41dc743b71fcbe30a41b881e297050a21bc7d6a3": {
+    "seen_at": "2026-10-27T09:35:25.905218+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html|291e07eb5ce413f20328c0563e0c245f89738d36a0a008a4c542414a496e21eb": {
+    "seen_at": "2026-10-27T09:35:25.905228+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html|7953f277756e2838a4ebb7dea514ed8ea77d414a4551a95a4e7c0523317c7ac9": {
+    "seen_at": "2026-10-27T09:35:25.905232+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html|86aa24d4a4974bfbf5610c55cf2f204dad79d4cd96408e28855bef41b5454820": {
+    "seen_at": "2026-10-27T09:35:25.905250+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html|e8a87858a66fe6de5ea396a2a5fdf8fbb0c57fa53bfef1d9e466d829d3063de1": {
+    "seen_at": "2026-10-27T09:35:25.905253+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html|8be51c9e8d68a64f750ef3777b2a78fbcd4fd216d8658453bc992369cc2bc02b": {
+    "seen_at": "2026-10-27T09:35:25.905266+00:00",
+    "source": "thehackernews"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-111497|c783fd35c8b19dd753df7b1a5998ee531b5eb995b846939ec0f901db42fd30e2": {
+    "seen_at": "2026-10-27T09:35:25.905392+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|62f1066683655c12730360a56fdd316f04efef1690ffc370c8434315981fbc45": {
+    "seen_at": "2026-10-27T09:35:25.905396+00:00",
+    "source": "palo_alto"
   }
 }
