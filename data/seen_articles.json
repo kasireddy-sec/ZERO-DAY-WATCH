@@ -3346,5 +3346,57 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|62f1066683655c12730360a56fdd316f04efef1690ffc370c8434315981fbc45": {
     "seen_at": "2026-10-27T09:35:25.905396+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation|0e3bf8b14c5ae1657970e3517900ddeec7053ddd832b87b8f0a40ed08fdfd8b1": {
+    "seen_at": "2026-10-27T15:43:10.523266+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest|97939c0297e48880df176e9ecdf5319b36dd6d6a2cff7b4260334ad6f4afe0a8": {
+    "seen_at": "2026-10-27T15:43:10.523283+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones|9bae3e73c5f5c532d5b53c9ad7ac21089463de50a2c8af1e9d653fd2e0e5fdb5": {
+    "seen_at": "2026-10-27T15:43:10.523286+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html|335f68d2fca2f15bfa33ceaefde1e2635d755f9a2ba0011a2e949231168b6a53": {
+    "seen_at": "2026-10-27T15:43:10.523294+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html|f357e1331875a1850747cbf0412683bb5d9e813e65e12627a0ff7a5c65371b44": {
+    "seen_at": "2026-10-27T15:43:10.523297+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html|f41081f47338d7ddc1771d5c7a8888a25382082657fa4f8fbaa74f0a0bf1c80c": {
+    "seen_at": "2026-10-27T15:43:10.523300+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html|57f8005c7efddbebad118f372f193d627e8c5677f93b5783bdf9258aa8b0dae9": {
+    "seen_at": "2026-10-27T15:43:10.523303+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html|6e45fe6858efbc3e42aa05ff4264ad5a2f358151f3a64c3ad246e50eba7cf5bc": {
+    "seen_at": "2026-10-27T15:43:10.523307+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html|2952040f7cea8891f8febbe68477fa70510b3dcf160849a0ac7ec66c5afe1817": {
+    "seen_at": "2026-10-27T15:43:10.523310+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html|13a7a9b5f5197413241d05fca994bea51e22e076230344c8b9e3b7d6565c1fdb": {
+    "seen_at": "2026-10-27T15:43:10.523315+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/pt-scim-simplifies-user-access-management-uam-command-platform|4a5018e85062d000dce9a35577e5bc0d868b87b382c1332c5ff7f4cc4790eb92": {
+    "seen_at": "2026-10-27T15:43:10.523378+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-111497-critical-out-of-bounds-write-in-the-node-js-brotli-decoder|0b87c1ee8db0fb20ebf2390670bfd4693bfeaa002bb2480153b61773181a021b": {
+    "seen_at": "2026-10-27T15:43:10.523380+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php|b881b55b98d02ece1804b9298aaa1417e185f4cd9ae0809c291c50d798d2708f": {
+    "seen_at": "2026-10-27T15:43:10.523385+00:00",
+    "source": "rapid7"
   }
 }
