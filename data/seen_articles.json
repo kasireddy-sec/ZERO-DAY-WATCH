@@ -3398,5 +3398,45 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php|b881b55b98d02ece1804b9298aaa1417e185f4cd9ae0809c291c50d798d2708f": {
     "seen_at": "2026-10-27T15:43:10.523385+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|d7a9750b6763bec317ab54ce37272bc7bad5c167e1947126385498b8309fa8fb": {
+    "seen_at": "2026-10-27T20:25:22.781552+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|69e74371a8c78c340e4f8bafe9d29e2bb5bb696157dddac613127146f19cb308": {
+    "seen_at": "2026-10-27T20:25:22.781571+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates|3b5a0bf3489b298ce82eb68bd91ac871b3719293de179b30ebfd6cadfe6dfad3": {
+    "seen_at": "2026-10-27T20:25:22.781608+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data|5d8fd17dfbc05eadb847f087bdd5425662f7d2ae33aa99f57e8a9696bf255138": {
+    "seen_at": "2026-10-27T20:25:22.781611+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html|e8b7a0de9f0acd6cd499b9198b6a3ce06cf77d0722dd57c90b014086227df1b8": {
+    "seen_at": "2026-10-27T20:25:22.781618+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html|2e6363e308544ed9294a7a33bdc462aa922a9be9eab40f44086a1f13cd0b25bb": {
+    "seen_at": "2026-10-27T20:25:22.781620+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html|6799ca868440659370bfe7a7be1e9640dca0c81e0d63309fdace594de732c6f4": {
+    "seen_at": "2026-10-27T20:25:22.781623+00:00",
+    "source": "thehackernews"
+  },
+  "https://projectzero.google/2026/10/fuzzing-v-AI.html|1b5b7b1b5a9a66639efe00ad3e4b7f70fca694a7f1e1639378718125ed96b586": {
+    "seen_at": "2026-10-27T20:25:22.781687+00:00",
+    "source": "google_project_zero"
+  },
+  "https://www.thezdi.com/blog/2026/10/20/cve-2026-35273-ssrf-to-rce-in-oracle-peoplesoft|40555af5b934e2f8a67373476f431c1e1b27d94703c75b10fdb1fbd494ca6b00": {
+    "seen_at": "2026-10-27T20:25:22.781725+00:00",
+    "source": "zdi"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|1a234695ee2e1ba8f55198f6dc9b5c024db5ea4c9528b1968f94a2e7ae6674bb": {
+    "seen_at": "2026-10-27T20:25:22.781752+00:00",
+    "source": "palo_alto"
   }
 }
