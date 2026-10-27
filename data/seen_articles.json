@@ -3438,5 +3438,25 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|1a234695ee2e1ba8f55198f6dc9b5c024db5ea4c9528b1968f94a2e7ae6674bb": {
     "seen_at": "2026-10-27T20:25:22.781752+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat|58348747cf65145102b0c591a0b90979711b41fed9eee61dfb04ac689f49afb4": {
+    "seen_at": "2026-10-27T23:55:12.005206+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests|ae83c636d657a89ea8ae5f868d68937c9d72bc088f5fd152beb1702d921cb855": {
+    "seen_at": "2026-10-27T23:55:12.005223+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries|ffc0488f6500595362f7b4aeb8fbce19c4b3d41cc9fe9e9ffa9e4b371ac4834d": {
+    "seen_at": "2026-10-27T23:55:12.005228+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data|0c08ff435e4be4fdd5bb1498ef2962f7d0fc6456aee6f2e4f4b9955373383c41": {
+    "seen_at": "2026-10-27T23:55:12.005231+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|21d8a056c1bc870fab35ce2f3d445f71536e238efea1d91be3d59ba318473772": {
+    "seen_at": "2026-10-27T23:55:12.005361+00:00",
+    "source": "palo_alto"
   }
 }
