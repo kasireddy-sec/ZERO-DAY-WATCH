@@ -3506,5 +3506,61 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|34fd97e804a531ffb68ea8b82ecda198336d46f6af01cca25994ab02e1ad8464": {
     "seen_at": "2026-10-28T10:21:01.954969+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework|c31236b411c3713d670f062e2367e9273bb85a3901e34ad54ef12ef9b408fa70": {
+    "seen_at": "2026-10-28T16:46:12.024755+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys|812a7437fe623007cc1716a7438b0766a8f4b49670b8833ac36e27f80ec7300f": {
+    "seen_at": "2026-10-28T16:46:12.024772+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure|a7ab009a971a2722f43e73d8cc62a9e849cc48444ef2bc69db20bf13641e9639": {
+    "seen_at": "2026-10-28T16:46:12.024777+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score|a9b8738418629b0c1426862e96890fee3c9ef3dc34d16c9e1b5c3d9794b0cae9": {
+    "seen_at": "2026-10-28T16:46:12.024781+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw|a7114759738dfe91891c5dd1fa9b5bbd46a5e2c78d48f53295def650ab3df1db": {
+    "seen_at": "2026-10-28T16:46:12.024785+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw|4416799b0f084e9d384fb26a3ccce4b6bcb430dbdf247ae187d579b55560edf3": {
+    "seen_at": "2026-10-28T16:46:12.024789+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html|eac36e348fdd897476cc9a87a5cde2402522c1b5bc891f2648ad6d3c92ae0477": {
+    "seen_at": "2026-10-28T16:46:12.024799+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html|039d0f7a3ee918a3f8adf1914212ea724f4829cdc1f8a1199ca543dd74713274": {
+    "seen_at": "2026-10-28T16:46:12.024802+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html|b07cfcfecfb2d36fd87d3c7472bea021ee8243e039f6a3949f50083ca5fc7e09": {
+    "seen_at": "2026-10-28T16:46:12.024806+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html|668f522c07138aced13b8da7082dfb3a9fe6e0ccf8654b111070d53c45d00f86": {
+    "seen_at": "2026-10-28T16:46:12.024809+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html|cf3eeaa42250b32789f2e26cebb62943674a6a8ee3c615382917d534f234f962": {
+    "seen_at": "2026-10-28T16:46:12.024813+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/american-organizations-under-attack.html|b88f8f2004ea7e25d2feda2fb93aa3225876b373912b9409b3cf9b374de09c16": {
+    "seen_at": "2026-10-28T16:46:12.024816+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html|63c9ce8dcc6deb3beed9de1e4315274d0cb8c14be8d0a24a29bfc401d13f8935": {
+    "seen_at": "2026-10-28T16:46:12.024826+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/pt-insightgovcloud-supports-bod-22-01-compliance|d2586f235209992d3b0d31f7785643b881cb46fa6bdf1ec4360005937ec75cdb": {
+    "seen_at": "2026-10-28T16:46:12.024887+00:00",
+    "source": "rapid7"
   }
 }
