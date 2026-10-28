@@ -3462,5 +3462,49 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|be64c23574f63db7b8b42aea4abf23b4d85aa67dd3fa4223f3a34a0cfa623a06": {
     "seen_at": "2026-10-28T03:54:39.180499+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison|2b7e571e5247b496553836a705ea42b1986e601db3c999e1289e54fb0742d953": {
+    "seen_at": "2026-10-28T10:21:01.954788+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html|3301e31ac21e83931534c7b081b76fe30cb19b26a6a5b2a6f610f56f674f2d30": {
+    "seen_at": "2026-10-28T10:21:01.954813+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html|8f18fa3f5f1a2ccae149abcd5a6bb99d1805f9c06750d15ab9d5eeba83818f93": {
+    "seen_at": "2026-10-28T10:21:01.954818+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html|202ffb4ee34eef5a1795d8a8faf64f0a8f6b87edb80d142875e85e904ddf6b0d": {
+    "seen_at": "2026-10-28T10:21:01.954821+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html|1e8124bff7fab2958e273af90124f935e87b6f6996922d92877a125846ef5777": {
+    "seen_at": "2026-10-28T10:21:01.954826+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html|1586b1726cfdfc248ff2e4d21085ee42c615783dfbcc0f8ac184ff05e067097e": {
+    "seen_at": "2026-10-28T10:21:01.954829+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html|fc085eeb77a4ce67893871debabccfcc65f652eac6a33ac4ebd7ca33304ba722": {
+    "seen_at": "2026-10-28T10:21:01.954833+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html|c7c3a752206d3845d17ea835238aa80a111ab70492bfc07317416d385daf2146": {
+    "seen_at": "2026-10-28T10:21:01.954884+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-111497-critical-out-of-bounds-write-in-the-node-js-brotli-decoder|da286bf52bb5379f68a29dd5fae83ea0e27b29c0aad788096cf326dd4a2af899": {
+    "seen_at": "2026-10-28T10:21:01.954912+00:00",
+    "source": "rapid7"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-111497|f85fefad085661d2988f0465a2b2ceb9ff52c01990fa8ad990642438f329129e": {
+    "seen_at": "2026-10-28T10:21:01.954966+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|34fd97e804a531ffb68ea8b82ecda198336d46f6af01cca25994ab02e1ad8464": {
+    "seen_at": "2026-10-28T10:21:01.954969+00:00",
+    "source": "palo_alto"
   }
 }
