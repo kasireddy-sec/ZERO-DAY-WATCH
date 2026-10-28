@@ -3562,5 +3562,45 @@
   "https://www.rapid7.com/blog/post/pt-insightgovcloud-supports-bod-22-01-compliance|d2586f235209992d3b0d31f7785643b881cb46fa6bdf1ec4360005937ec75cdb": {
     "seen_at": "2026-10-28T16:46:12.024887+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|83968ee0bf2eb3114f4c90a176cbb967eae4b694141c9c060bb8323d730f5d00": {
+    "seen_at": "2026-10-28T21:31:12.756519+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|736943a338e8fa61d034a5be1dade40ad49e89525184be6d1d353f193ba87dc5": {
+    "seen_at": "2026-10-28T21:31:12.756536+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime|cb203adbc640c88e09ab1b22f69523a6b7ee46e8b55bdc2726db81af7ccd2d02": {
+    "seen_at": "2026-10-28T21:31:12.756584+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages|9ab79df12f28595112bf81a71ac6f3f74c86eb9e2a1cfb99f4a6b451e58d3303": {
+    "seen_at": "2026-10-28T21:31:12.756588+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records|edcd228244a3f6e48cf525f55036e5aae7ab93f4e4766dca63bc1b4d53252db7": {
+    "seen_at": "2026-10-28T21:31:12.756592+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html|a0966815e6435f37792e967b509b10d871e05a2478abd71547a068b658152eaf": {
+    "seen_at": "2026-10-28T21:31:12.756606+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html|348078f1a4c72e55433526994363d314d77e0dbb6778879bc1ed5399fa380392": {
+    "seen_at": "2026-10-28T21:31:12.756609+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html|1d5494b44906fffa90c34a3115d152da962fae9b581b1ea738750a80d3c23268": {
+    "seen_at": "2026-10-28T21:31:12.756612+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html|e5638eb8c3d019c7d92b8f4fc5dc55ba4e14ba847f6a46c58c937558861c94b2": {
+    "seen_at": "2026-10-28T21:31:12.756617+00:00",
+    "source": "thehackernews"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-111497|9ec8de75487b285163d2279f1fc5eeac21b39987e0ff6ddfe32471ae9052a03b": {
+    "seen_at": "2026-10-28T21:31:12.756731+00:00",
+    "source": "palo_alto"
   }
 }
