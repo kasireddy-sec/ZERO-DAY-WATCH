@@ -3622,5 +3622,65 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|a0974ccc0cdf550dc7b77457085d00b9f165d5d8022d1cc712f5b9fd765c54eb": {
     "seen_at": "2026-10-29T07:27:56.280150+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser|1c8fd727ee68df0577bba41297ee053292781da94b1b2903433fd2d13665758f": {
+    "seen_at": "2026-10-29T14:36:32.353043+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks|6af531a502c79ce3fe306348b52d67639a9cde3f721d8fec9996a467cdd131ed": {
+    "seen_at": "2026-10-29T14:36:32.353080+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes|6e8732e5beee43394526704bed6724fc51e58a35ebd6d6c7f3f2ec9e289cba23": {
+    "seen_at": "2026-10-29T14:36:32.353086+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices|6c07a3d2e512de5a421fa96517a9e877d9f750501af014be4fd8e2e17082fe03": {
+    "seen_at": "2026-10-29T14:36:32.353091+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html|8619df94209598a2ecfdf57d5eb47ad01ce3a4bcc450dea8c0573198c7a3540f": {
+    "seen_at": "2026-10-29T14:36:32.353097+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html|057e3333cd0cb1b0c7c4b12fdd43eaa93315c8206dd2beb5bd84182ef1071486": {
+    "seen_at": "2026-10-29T14:36:32.353102+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html|3eceb210411f3cb6685b736074ec69c7dab8386b974c7890bf7c0f08b5eb676d": {
+    "seen_at": "2026-10-29T14:36:32.353106+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html|36f828da410e8546251faed0f30e50faab9c155f82a1085638468d0a15a5cbed": {
+    "seen_at": "2026-10-29T14:36:32.353108+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html|9420503c66c278dcd9a5c150ecece342706095005350f035291a967a9c76c390": {
+    "seen_at": "2026-10-29T14:36:32.353111+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html|3b47741226107fc01f1d6421d0bf6622008d137addf2fd326943afa78868bff3": {
+    "seen_at": "2026-10-29T14:36:32.353114+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html|28e1632c8a4a59682c0a47aec10dab98fb3c0c12509c20b1bf327054c21bbfa1": {
+    "seen_at": "2026-10-29T14:36:32.353117+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html|9a5baa40eb678e5f261bc24e6837c3b095a6d5327b24b78d26cfd81246f2faad": {
+    "seen_at": "2026-10-29T14:36:32.353120+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html|a9ec430ddba2c5fd3c64923ec9c8c327eeface3dacf7fd7de44894e4e908d4cb": {
+    "seen_at": "2026-10-29T14:36:32.353123+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html|5cd9201a02748675bcee2d24f54e3d92ed9066af017ce2d9011e72dd6d4d0ad3": {
+    "seen_at": "2026-10-29T14:36:32.353126+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html|acddab21199d951445b9acd54d86f6e7b8f2e3a949f5bb87abd9182eb4be628d": {
+    "seen_at": "2026-10-29T14:36:32.353145+00:00",
+    "source": "thehackernews"
   }
 }
