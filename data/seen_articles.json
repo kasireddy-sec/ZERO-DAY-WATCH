@@ -3682,5 +3682,49 @@
   "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html|acddab21199d951445b9acd54d86f6e7b8f2e3a949f5bb87abd9182eb4be628d": {
     "seen_at": "2026-10-29T14:36:32.353145+00:00",
     "source": "thehackernews"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|def1344e8b529269c7246384eb403ae49c219f8d37e61580a5af67aa4f05dd0d": {
+    "seen_at": "2026-10-29T20:03:50.620028+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|00e5a5dd2342fc6f3780844dccba3bcffa894a86b3fa75ca842c1f790b848b15": {
+    "seen_at": "2026-10-29T20:03:50.620043+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft|5e8edab06fffdb280b38dac23024e5d1b1469d7ee76aa9f93e3008b69d02d9ee": {
+    "seen_at": "2026-10-29T20:03:50.620083+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware|75ae85c8d0bbf9b3975bf2525f8a34f45b4803563c43e58fd6b75d02252c7f12": {
+    "seen_at": "2026-10-29T20:03:50.620085+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches|2406d1856847f8f7f68cb1cafd5275ad8060097243485eb42b38d03d74c5f5b1": {
+    "seen_at": "2026-10-29T20:03:50.620088+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates|3adbeede69bc4ed4ae2ab1253e5d1e7c200da82f9073c829ff9c6fe5cb0c11a0": {
+    "seen_at": "2026-10-29T20:03:50.620091+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html|17968c6990faa8f42ccbd0673987ad394dff725d0e43621ad5f65bc754f6efef": {
+    "seen_at": "2026-10-29T20:03:50.620093+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html|75fd3604d604714b00a8c19743a0b4b62bd6a52ba24f536f272e60f92ea63a0d": {
+    "seen_at": "2026-10-29T20:03:50.620096+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html|2807fa810bbfa74c8450ee46a15996f356c73c5046b56385451192d1a0f13997": {
+    "seen_at": "2026-10-29T20:03:50.620099+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html|925632b83a31e023e7d1956ae6b8363a2219d79853c811902341d3a7363d395a": {
+    "seen_at": "2026-10-29T20:03:50.620104+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html|660307bad3358f00749ed4aa41eab9a43fb67cdd8f190470414aab27c98d89a3": {
+    "seen_at": "2026-10-29T20:03:50.620113+00:00",
+    "source": "thehackernews"
   }
 }
