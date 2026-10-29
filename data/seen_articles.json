@@ -3602,5 +3602,25 @@
   "https://security.paloaltonetworks.com/CVE-2026-111497|9ec8de75487b285163d2279f1fc5eeac21b39987e0ff6ddfe32471ae9052a03b": {
     "seen_at": "2026-10-28T21:31:12.756731+00:00",
     "source": "palo_alto"
+  },
+  "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html|de178133b4098158357b13f715acf13e70cdd84fdf75f6300d1c46c9f02c84b2": {
+    "seen_at": "2026-10-29T07:27:56.279994+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html|a38ca597aa858c94c5c1dce26085462b5703f836e723c8bb5ea281b8d843fbb2": {
+    "seen_at": "2026-10-29T07:27:56.280013+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html|de36404afed0d6d963b5127e2752f61bef5566c035d6db08da6623de568920c9": {
+    "seen_at": "2026-10-29T07:27:56.280017+00:00",
+    "source": "thehackernews"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-111497|18d1084caa37c26f092a250fdf113934b96ab3a170e165a305f3f56c88ab1226": {
+    "seen_at": "2026-10-29T07:27:56.280148+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|a0974ccc0cdf550dc7b77457085d00b9f165d5d8022d1cc712f5b9fd765c54eb": {
+    "seen_at": "2026-10-29T07:27:56.280150+00:00",
+    "source": "palo_alto"
   }
 }
