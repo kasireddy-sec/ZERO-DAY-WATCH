@@ -3750,5 +3750,9 @@
   "https://security.paloaltonetworks.com/CVE-2026-109618|49a992fbf6e83926ac77b0214841e2690a9068cb9a013718f00346b77fc2d059": {
     "seen_at": "2026-10-30T00:05:07.487686+00:00",
     "source": "palo_alto"
+  },
+  "https://thehackernews.com/2026/10/binance-suffers-security-breach.html|d49e5dcb5b5f8983b92dfdd69867c07f69174d7b1891356cc590198248a0063e": {
+    "seen_at": "2026-10-30T06:11:58.781113+00:00",
+    "source": "thehackernews"
   }
 }
