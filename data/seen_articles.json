@@ -3726,5 +3726,29 @@
   "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html|660307bad3358f00749ed4aa41eab9a43fb67cdd8f190470414aab27c98d89a3": {
     "seen_at": "2026-10-29T20:03:50.620113+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut|c5e94c39c9b8adbb119d2b8b0df11f3c7bfcd843b3aeaa0ad7bff92c29e194eb": {
+    "seen_at": "2026-10-30T00:05:07.487511+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack|c1450d2cd1c378adc98a51050701945f4e051d5521a673b4421e61b34523cba8": {
+    "seen_at": "2026-10-30T00:05:07.487529+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining|80121108607b0be7869f7ca0ec59b2ece10364cbc1f4a9411453adf2494d736a": {
+    "seen_at": "2026-10-30T00:05:07.487533+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info|e5fb6e73f98ea01d017759e05cf81a181531fbe07a07bd85786d182bd9e6aa15": {
+    "seen_at": "2026-10-30T00:05:07.487537+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced|f7e7b331f4b383f53fb7a436591a70da014d955682b472d473d4c3203f7e7c83": {
+    "seen_at": "2026-10-30T00:05:07.487540+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-109618|49a992fbf6e83926ac77b0214841e2690a9068cb9a013718f00346b77fc2d059": {
+    "seen_at": "2026-10-30T00:05:07.487686+00:00",
+    "source": "palo_alto"
   }
 }
