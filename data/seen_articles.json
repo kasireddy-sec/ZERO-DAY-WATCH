@@ -3842,5 +3842,21 @@
   "https://security.paloaltonetworks.com/CVE-2026-0316|19745203a0f307e20325532489adcf128eb7bccb51d87c2016217df461789fed": {
     "seen_at": "2026-10-30T18:44:07.407960+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers|66f375e7fd82ad653804262bc91c3f7d2f38fc905fb8e2f91110294abe6a8b16": {
+    "seen_at": "2026-10-30T22:47:17.949666+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet|4c67ebffde03e8e92ad70e32b0e61785a8e5566d0c332ae23decf2620d2d818f": {
+    "seen_at": "2026-10-30T22:47:17.949683+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors|156a36e3cc1b2ba289d2a62fb0a122178d92a9cd3fd7a265797b8714cfa6b143": {
+    "seen_at": "2026-10-30T22:47:17.949688+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone|82b11d85c87dd94b1928e5d6c6e2a441f21dc5760450318c60e0457c6e0b0de8": {
+    "seen_at": "2026-10-30T22:47:17.949692+00:00",
+    "source": "bleepingcomputer"
   }
 }
