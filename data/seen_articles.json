@@ -3754,5 +3754,61 @@
   "https://thehackernews.com/2026/10/binance-suffers-security-breach.html|d49e5dcb5b5f8983b92dfdd69867c07f69174d7b1891356cc590198248a0063e": {
     "seen_at": "2026-10-30T06:11:58.781113+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks|88ad137c648dc915a7c0b7a726371a2c2619292430b56c980d58da25effdc541": {
+    "seen_at": "2026-10-30T13:18:56.945706+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates|32faa8e440817725282c0782cdcf4a6d0df37e8070c4b08985cd7f01a4e2188f": {
+    "seen_at": "2026-10-30T13:18:56.945726+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks|a6e6d8e31455b852b2bc14cf208676feaa559e71374bc4f0b0c05c2b20c27ee6": {
+    "seen_at": "2026-10-30T13:18:56.945732+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop|8573b23655caada497880653b00a20582b5c731909f61b786ad6d031c6b66c36": {
+    "seen_at": "2026-10-30T13:18:56.945736+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html|7ca72b1321615fd45876b88779ca2c12f5edc46ec54d5d4d47fd768ea783f258": {
+    "seen_at": "2026-10-30T13:18:56.945741+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html|b198d136a503959ba9bca52359db5172b1a60d41855a36f1f387518ed36abbaf": {
+    "seen_at": "2026-10-30T13:18:56.945745+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html|982b52e12adf31f50d743a7876e3460038b7b7ec4113f706aaeac286a2f479b8": {
+    "seen_at": "2026-10-30T13:18:56.945749+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html|3cab9e5fba799450fb0bf1d0f67b54bd08a55bfeadaeca4e1249ee02464963eb": {
+    "seen_at": "2026-10-30T13:18:56.945753+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html|ecd8a1270d5d7fcdf7745eb9da99a77d30742e958cbea486ffeaf1c6541ff614": {
+    "seen_at": "2026-10-30T13:18:56.945756+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html|09bf7665dcd50b90aca3f7595bcd30855267130377e1c78f0e2278c8a07e9c5e": {
+    "seen_at": "2026-10-30T13:18:56.945760+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/binance-suffers-security-breach.html|b89471c76459ca17b6e8277fa91358048875a4afdf05f8c83af8fcb275a58544": {
+    "seen_at": "2026-10-30T13:18:56.945763+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html|74c9a054eb13f96ad9d288621f28bb71d4032ed2f59f3305d963e817be470458": {
+    "seen_at": "2026-10-30T13:18:56.945769+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html|48fd5fda4a46a227c555931c7679df131f373222f775dc5d99fbccb04146d1ac": {
+    "seen_at": "2026-10-30T13:18:56.945789+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-97229-critical-unauthenticated-remote-code-execution-in-gitlab|248a9aad7dbe382b7fad9f0408c5fbfb5254aeec158a523aac0fd4fe5759b59e": {
+    "seen_at": "2026-10-30T13:18:56.945868+00:00",
+    "source": "rapid7"
   }
 }
