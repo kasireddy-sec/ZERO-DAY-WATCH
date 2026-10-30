@@ -3810,5 +3810,37 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-97229-critical-unauthenticated-remote-code-execution-in-gitlab|248a9aad7dbe382b7fad9f0408c5fbfb5254aeec158a523aac0fd4fe5759b59e": {
     "seen_at": "2026-10-30T13:18:56.945868+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|c543eb270cd15b049e89de5436a0b678e1f91080af528bf4e127f5b53d526286": {
+    "seen_at": "2026-10-30T18:44:07.407760+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|2b386b0c04eeb85b27f158dcdf24aca675d91805fd45ad7592ed2942c9f4dc6e": {
+    "seen_at": "2026-10-30T18:44:07.407778+00:00",
+    "source": "cisa_kev"
+  },
+  "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html|41fbd9aade086ea0cdc9a0e2d07d49be735ca95f82c94905fe32f73967911075": {
+    "seen_at": "2026-10-30T18:44:07.407819+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html|5d41afc8fe19fc9f75dc7f249125cb366404376a8949207a13f8056055a1ac59": {
+    "seen_at": "2026-10-30T18:44:07.407822+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html|4dc4b5c4a5a70ffa2fcd9954367f354e8ccc35046fd87056f52f79208000062a": {
+    "seen_at": "2026-10-30T18:44:07.407825+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/binance-suffers-security-breach.html|4a93924048b3948a84cf69612166613f8354d5a63953cf44096d2afd1b3ad783": {
+    "seen_at": "2026-10-30T18:44:07.407836+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/ra-rapid7-analysis-unauthenticated-file-upload-to-rce-in-beyondtrust-remote-support-cve-2026-102764|2782371fa35ee536f1691553961bdd21a0ad6e772d74de28acaef15a00027c90": {
+    "seen_at": "2026-10-30T18:44:07.407900+00:00",
+    "source": "rapid7"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0316|19745203a0f307e20325532489adcf128eb7bccb51d87c2016217df461789fed": {
+    "seen_at": "2026-10-30T18:44:07.407960+00:00",
+    "source": "palo_alto"
   }
 }
