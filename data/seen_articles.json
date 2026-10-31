@@ -3878,5 +3878,33 @@
   "https://security.paloaltonetworks.com/CVE-2026-111497|c1aa3d7061b81a34dd73fa6290c7b4171043761d184adaafb8c1996851558a88": {
     "seen_at": "2026-10-31T08:18:55.203131+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers|61b3ab69c7e167403cea25108b9297582e2f5b2c9313895aeac532f8343ebc3d": {
+    "seen_at": "2026-10-31T14:40:01.166591+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era|8760d5137694bfe3078c713353a28d8e965e9bb1882738a3ea92ff005a4cf6fa": {
+    "seen_at": "2026-10-31T14:40:01.166611+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques|cb7a60d0875ab6522c10d1faa1cf73b01e65afb8e58c2ffca61c1d573b141715": {
+    "seen_at": "2026-10-31T14:40:01.166615+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html|021c6aed8eff85b5d161fd1b4b114911616566762d564592413ac98b91214939": {
+    "seen_at": "2026-10-31T14:40:01.166623+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html|5167c93985a8b2184df2e9c51592ae4043c090c75706b270566a0c033c0a40a4": {
+    "seen_at": "2026-10-31T14:40:01.166626+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html|0a753291f57a78c6dc0ed524a07c8cf9cc31cbf01aeacaa56294a4ccbd7beb3a": {
+    "seen_at": "2026-10-31T14:40:01.166641+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/binance-suffers-security-breach.html|87615283e6553549536efa9eaad6a431ee51cf45f3224ccda74d45f45e8e277b": {
+    "seen_at": "2026-10-31T14:40:01.166646+00:00",
+    "source": "thehackernews"
   }
 }
