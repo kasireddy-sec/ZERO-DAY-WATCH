@@ -3858,5 +3858,25 @@
   "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone|82b11d85c87dd94b1928e5d6c6e2a441f21dc5760450318c60e0457c6e0b0de8": {
     "seen_at": "2026-10-30T22:47:17.949692+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html|e1bf464241066b083a187261a3003d8574711f997860f2a32ee285c64be493bd": {
+    "seen_at": "2026-10-31T08:18:55.202988+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html|e368d8d79616f90d54b8d44d4a05d6588d7c0ded05724a19fa683d5bee75e61e": {
+    "seen_at": "2026-10-31T08:18:55.203006+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html|4f5252f830c0cb5e7d18498d83d8409136784d5aeac4684ccdbbe600521400f4": {
+    "seen_at": "2026-10-31T08:18:55.203010+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/binance-suffers-security-breach.html|92a89c99f1c07794623d66a102ea4468b886d7e550847c7ca4662e7655080e6b": {
+    "seen_at": "2026-10-31T08:18:55.203025+00:00",
+    "source": "thehackernews"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-111497|c1aa3d7061b81a34dd73fa6290c7b4171043761d184adaafb8c1996851558a88": {
+    "seen_at": "2026-10-31T08:18:55.203131+00:00",
+    "source": "palo_alto"
   }
 }
