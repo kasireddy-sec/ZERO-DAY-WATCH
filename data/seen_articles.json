@@ -3906,5 +3906,17 @@
   "https://thehackernews.com/2026/10/binance-suffers-security-breach.html|87615283e6553549536efa9eaad6a431ee51cf45f3224ccda74d45f45e8e277b": {
     "seen_at": "2026-10-31T14:40:01.166646+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys|4211396c794a8dc2c25c30b5c73ca116d1694b689c05aaf9c519a681a4d05fcf": {
+    "seen_at": "2026-10-31T19:05:26.388208+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones|928d1499c7b5e37e789a1a6e33c4b69c9fab791d64a0cc467f9a654ee2cb2ecb": {
+    "seen_at": "2026-10-31T19:05:26.388225+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html|68f5e47e23f12b596bcf3f5f2f0e80b1b424add774f9b8f52c0fd06d507f488f": {
+    "seen_at": "2026-10-31T19:05:26.388249+00:00",
+    "source": "thehackernews"
   }
 }
