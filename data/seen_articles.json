@@ -3962,5 +3962,17 @@
   "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html|2f1d8fb8bd80d7601bc76455015a8e1eae10bdebfe18cb0b44437f9fd6448549": {
     "seen_at": "2026-11-01T08:40:47.068938+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack|5fea02bbc351c99546d68a81c3b9dd3c7d6fd9ecf18be4a18836c19b6018abcf": {
+    "seen_at": "2026-11-01T15:44:44.924114+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat|6b6480f56ca4027353db0999796d7546dd3865458f30b38a3a4e6b6df8668ce6": {
+    "seen_at": "2026-11-01T15:44:44.924132+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html|ec51d70a2e8e1ad86b3d6efa681f9d681594a5839298b7f1fd81df33153c7bb9": {
+    "seen_at": "2026-11-01T15:44:44.924141+00:00",
+    "source": "thehackernews"
   }
 }
