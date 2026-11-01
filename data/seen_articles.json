@@ -3974,5 +3974,9 @@
   "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html|ec51d70a2e8e1ad86b3d6efa681f9d681594a5839298b7f1fd81df33153c7bb9": {
     "seen_at": "2026-11-01T15:44:44.924141+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers|918e66c219a9c55c5ce293adbd63dd9b3955689c6286ebd0f8b1915e50c6136b": {
+    "seen_at": "2026-11-01T20:09:05.253282+00:00",
+    "source": "bleepingcomputer"
   }
 }
