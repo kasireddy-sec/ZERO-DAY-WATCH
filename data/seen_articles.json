@@ -3918,5 +3918,49 @@
   "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html|68f5e47e23f12b596bcf3f5f2f0e80b1b424add774f9b8f52c0fd06d507f488f": {
     "seen_at": "2026-10-31T19:05:26.388249+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys|e282254b0ad8ed2c41572985e2e59fc13ae94047d01b1dcbaea8e66e129822b1": {
+    "seen_at": "2026-11-01T08:40:47.068850+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones|1c89136e3a21796257a4c8f92e86bcfa620dfbad081731fb74bc9bdc1bd43d06": {
+    "seen_at": "2026-11-01T08:40:47.068867+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers|c512c7a7fd6264624e485e14c75292ea0edeb2a933aa51e2ed02ff2c20c48bbc": {
+    "seen_at": "2026-11-01T08:40:47.068871+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques|94fd390291e17d1387aa53c0b3ef2ad8c81d09c1f4d86119744b3e552efc6129": {
+    "seen_at": "2026-11-01T08:40:47.068876+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html|8027135f2a0853e99e136c4441c2fd5ef10abdbc70182f7faf96072a78ad0f3c": {
+    "seen_at": "2026-11-01T08:40:47.068878+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html|c1efc8e24bdf584ea1a4f63ad2dbd01f886d7ac8d0440a23cf947e4c564b7d7a": {
+    "seen_at": "2026-11-01T08:40:47.068881+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html|f1f3f52ebe1bdd657d46e1bf9f64b474d67e66eedfc9d08088bfd98a8a67fe85": {
+    "seen_at": "2026-11-01T08:40:47.068883+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html|bbe0085216b4e3d3bf72d3b7cb592ac6f67e7b2e73ce6b2e25813943c937600c": {
+    "seen_at": "2026-11-01T08:40:47.068900+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/binance-suffers-security-breach.html|cd34b6e37ce87113863fd060ed4c176b6701d3cac426ef9ac58b346d98be321b": {
+    "seen_at": "2026-11-01T08:40:47.068904+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html|c510ea09c3fdf3e64aeba3b62b51ae1a47ce2a01a929c84c1f5fa27e115fbc7b": {
+    "seen_at": "2026-11-01T08:40:47.068918+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html|2f1d8fb8bd80d7601bc76455015a8e1eae10bdebfe18cb0b44437f9fd6448549": {
+    "seen_at": "2026-11-01T08:40:47.068938+00:00",
+    "source": "thehackernews"
   }
 }
