@@ -4014,5 +4014,53 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-102764-critical-beyondtrust-remote-support-authentication-bypass-exploited-in-the-wild|2808955d7dd38f53c651ef29c81f9c9b02d5581cbb4931ec8b6a1d47ab60cdcd": {
     "seen_at": "2026-11-02T12:46:13.039433+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs|da63ec8ce29da59a0f463e7596b24b27bb1653062974174385a1baa313165673": {
+    "seen_at": "2026-11-02T22:08:15.450420+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack|7e51af6e58ebfba7d15218bc175b2a1ca2aadfb0b6c0f88b5b351d6340a55a75": {
+    "seen_at": "2026-11-02T22:08:15.450439+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker|e87fc976e3dfae461e9cf7730e2ac015e426db7f9d813c743c146cfe436b2c43": {
+    "seen_at": "2026-11-02T22:08:15.450445+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances|3c8b9d473eabf2b04fb32f57343d21428929ea221192d37090719ad5f4aff4a4": {
+    "seen_at": "2026-11-02T22:08:15.450476+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years|8c9ddc66b69de8a4b0d5862d58a4818d825c8b73c5603c084a4a46ac394c4aad": {
+    "seen_at": "2026-11-02T22:08:15.450482+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets|c1cc437b347c3be00435964325152abd18d7330b12459b8be0be87c71a6f9fa9": {
+    "seen_at": "2026-11-02T22:08:15.450486+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update|42df7d15fc5fdf33398ebc82e4b0ecc46419b3841ce405fa3afd45efdd4aabd8": {
+    "seen_at": "2026-11-02T22:08:15.450489+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html|da42e4f443349e15206fb955ee7d045525c8a4584f74cd71e9ee7d3d66cfe53a": {
+    "seen_at": "2026-11-02T22:08:15.450505+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html|c3f67262cc02694ab2c8bb5a235b61bf17c0f91e3e63f2a2059c65dcee47c7be": {
+    "seen_at": "2026-11-02T22:08:15.450508+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html|769457639acddcacfb3c8119c9131300e376ded6a59a642b5c6ef8b37782f86b": {
+    "seen_at": "2026-11-02T22:08:15.450512+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html|209f001837c61a4d0ba11bed06f011114a7b8094cd59d77f5e745c036287c3c5": {
+    "seen_at": "2026-11-02T22:08:15.450515+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html|4fe822da4f20f6d560d1e659162f956644937053cbd2f3212f2da3e08ea36498": {
+    "seen_at": "2026-11-02T22:08:15.450519+00:00",
+    "source": "thehackernews"
   }
 }
