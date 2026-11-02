@@ -3978,5 +3978,41 @@
   "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers|918e66c219a9c55c5ce293adbd63dd9b3955689c6286ebd0f8b1915e50c6136b": {
     "seen_at": "2026-11-01T20:09:05.253282+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks|4ad4d4f35a8e957f39bef086a4f97137fdb9ab9d7643e1d5b7390228562a6ce3": {
+    "seen_at": "2026-11-02T12:46:13.039303+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks|ff6304729a15ade896b98b6ea53870c6b2ed5cc88c07d8ae86de50936839fd44": {
+    "seen_at": "2026-11-02T12:46:13.039321+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html|5a14a97fbe0c9759eaa8c87a64fbc5f479c5db859b8f722cfe7c147ff8e57ab9": {
+    "seen_at": "2026-11-02T12:46:13.039330+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html|9179b1ba7835f1f532817c1d930fbcb2b72a9994fb43919773d0d134f2815171": {
+    "seen_at": "2026-11-02T12:46:13.039334+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html|734c3bab8936877b6134a2cd762be707a13114cf9734402f6ee80c426f87cd22": {
+    "seen_at": "2026-11-02T12:46:13.039340+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html|ed1b4407c9ea47e6f5cf9e75869d6e04c565b58a938c9af5416b545abc889631": {
+    "seen_at": "2026-11-02T12:46:13.039348+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html|4a56882b717de6720f5aba8ceb85d30ad5d5ad8bdaa8e062603b598365170b8f": {
+    "seen_at": "2026-11-02T12:46:13.039351+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-additional-ivanti-connect-secure-zero-days-exploited-in-the-wild-cve-2026-111357-cve-2026-118527|f708de124db735b2c0efced629ccd6d6939e8dd1dea168657c93b615b3a546c9": {
+    "seen_at": "2026-11-02T12:46:13.039418+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-102764-critical-beyondtrust-remote-support-authentication-bypass-exploited-in-the-wild|2808955d7dd38f53c651ef29c81f9c9b02d5581cbb4931ec8b6a1d47ab60cdcd": {
+    "seen_at": "2026-11-02T12:46:13.039433+00:00",
+    "source": "rapid7"
   }
 }
