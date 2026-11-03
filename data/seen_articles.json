@@ -4114,5 +4114,65 @@
   "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown|5c62cd786babdf3bfe81f4f45363ecdef2537320a24afe0c69de530bd0b19975": {
     "seen_at": "2026-11-03T19:01:02.659142+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|845b29672154191b231414dbcc6fc4d4169897c3aee8e5c00502367cec14d2f8": {
+    "seen_at": "2026-11-03T23:57:20.157952+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data|9ee219ee3d51b03b85a5967cf32de73c2570720899501dab5d68a56f42a13be6": {
+    "seen_at": "2026-11-03T23:57:20.158017+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app|ed33d1dde163e04c0b90c40ddb3a60564310ead3da135dbb207c4c40adadfe2e": {
+    "seen_at": "2026-11-03T23:57:20.158022+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist|bbc51779c9c7d5b53c46d0470714d7d9670d1afb5c4108da44166fb7c1611e68": {
+    "seen_at": "2026-11-03T23:57:20.158026+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html|8f5507dc9c81776e364bed327adb227373d82bb253d876c214564813b8743724": {
+    "seen_at": "2026-11-03T23:57:20.158032+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html|b10975a155fe2de01216cd9fef956acb38361f28c2acf919703975fb23da56e0": {
+    "seen_at": "2026-11-03T23:57:20.158036+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html|c451a2b9cc281de155d6d6ee70062c44df8c99a478ec61afc095579aa7499ce7": {
+    "seen_at": "2026-11-03T23:57:20.158039+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html|e023b7667a0ece6a161e699d3749441bcd8988ab526f34e46696258be01f962e": {
+    "seen_at": "2026-11-03T23:57:20.158042+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html|b43bac01d06b6eab16434e96b6e85fa3e9625e3b2dd13e55696fe084d445fa11": {
+    "seen_at": "2026-11-03T23:57:20.158045+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html|d25141885cccc3f5d00271dfc60ad3b6b0682d467497dd041db71fdd38a47f25": {
+    "seen_at": "2026-11-03T23:57:20.158049+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html|8b1abb8e6eef4504cd2831a6e341a24963373bd895d45d075ae9b30523d740eb": {
+    "seen_at": "2026-11-03T23:57:20.158052+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html|e0bc001d336c2595235e0c08310055558443c011e1f97b17af41ecae2324dd2d": {
+    "seen_at": "2026-11-03T23:57:20.158055+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html|eb3a736899632ffa38433bd2a251f9e8ffe95ea60a46ad6345af0ce2968d22eb": {
+    "seen_at": "2026-11-03T23:57:20.158059+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html|a12ffaa01b350d7c959af435ac2d92ada035bb8b7f2f2e2077872ff11e49fc3d": {
+    "seen_at": "2026-11-03T23:57:20.158062+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html|988522c54ba5218212c0697a7d8b9f13884cfa4d4bd61cdedfcc0f825780e841": {
+    "seen_at": "2026-11-03T23:57:20.158065+00:00",
+    "source": "thehackernews"
   }
 }
