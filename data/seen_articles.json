@@ -4062,5 +4062,37 @@
   "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html|4fe822da4f20f6d560d1e659162f956644937053cbd2f3212f2da3e08ea36498": {
     "seen_at": "2026-11-02T22:08:15.450519+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts|7afce9904f956ae288fcc0372c7da057606ce26ab7607dfd0bf4b7e08d733d0c": {
+    "seen_at": "2026-11-03T11:36:43.845971+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html|8a7f3697e082c0615be7d243b6247a9a65f5cc031b0587e98ce7b00dfd0c313b": {
+    "seen_at": "2026-11-03T11:36:43.845995+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html|0d1a3d4c2c46adfc49c1a42220a30ba33c71cb65a74fb13f7558b262afc14393": {
+    "seen_at": "2026-11-03T11:36:43.846000+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html|b7cfb41c58d5c0be2ae93df76b493ce844fa6c785701abe0ce84fd0e6520fd57": {
+    "seen_at": "2026-11-03T11:36:43.846003+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html|12328ab3bd5c47d9a17a402060d2dd86ecf6826e27628bc9784ff47858b65c31": {
+    "seen_at": "2026-11-03T11:36:43.846006+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/attackers-target-unpatched.html|c6f55096db148a096a70f307e9a4fdcc11e4ba766c659f6585047b8596191331": {
+    "seen_at": "2026-11-03T11:36:43.846009+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html|afbcbdf219fa04833d1a888b1db885ad52fa3bc8de21b07b6c99e7e37f0f3e85": {
+    "seen_at": "2026-11-03T11:36:43.846021+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html|6cf9dc14df9e2b0db7ca526d03bf3be6cbce4787f4ab4cc31a1392dcd8983abe": {
+    "seen_at": "2026-11-03T11:36:43.846063+00:00",
+    "source": "thehackernews"
   }
 }
