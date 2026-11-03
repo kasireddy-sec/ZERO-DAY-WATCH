@@ -4094,5 +4094,25 @@
   "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html|6cf9dc14df9e2b0db7ca526d03bf3be6cbce4787f4ab4cc31a1392dcd8983abe": {
     "seen_at": "2026-11-03T11:36:43.846063+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges|9766061b184a52b1ee4766d67445868c4dcb8c5d62a00e891f029ec685f55e30": {
+    "seen_at": "2026-11-03T19:01:02.659116+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices|ec58abf9d5618fda14b821a1c14f478a83b6315d8e45642dc017c85321bcba6f": {
+    "seen_at": "2026-11-03T19:01:02.659133+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028|3067cd2c734f473ffd490f102046e37927959e0f2af93d44643ede421dbc764c": {
+    "seen_at": "2026-11-03T19:01:02.659136+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack|e84dc3e748010783391477c8771af90a92ae5c29967ac462bd305d5f6e510f47": {
+    "seen_at": "2026-11-03T19:01:02.659139+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown|5c62cd786babdf3bfe81f4f45363ecdef2537320a24afe0c69de530bd0b19975": {
+    "seen_at": "2026-11-03T19:01:02.659142+00:00",
+    "source": "bleepingcomputer"
   }
 }
