@@ -4174,5 +4174,53 @@
   "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html|988522c54ba5218212c0697a7d8b9f13884cfa4d4bd61cdedfcc0f825780e841": {
     "seen_at": "2026-11-03T23:57:20.158065+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks|8c6414c5040e1bef9d86c7e4ed0ae154dd9c563ef335fc6e9c953e184e1b3846": {
+    "seen_at": "2026-11-04T13:11:15.289519+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices|0ee55f3a40a64309a423a8c3ce07ce8b53ca2857a34efea5fc81d06e03197f81": {
+    "seen_at": "2026-11-04T13:11:15.289535+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html|bd37b6f73451454b0f832a91fa7499ae6fce4d104c762df4bb885645405691dc": {
+    "seen_at": "2026-11-04T13:11:15.289544+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html|569f652cac5a0808ad9a91cfae0656d4c3c6f0cad3caf6d7c065b094adde82c2": {
+    "seen_at": "2026-11-04T13:11:15.289547+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html|21613cc2ac2e38ec76a9f4692dd8e0d7a0153446643625ab918951ce9ed52fc8": {
+    "seen_at": "2026-11-04T13:11:15.289551+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html|8ecc026114ed6cdda98b505782d1d0d1a923b8883ffa6f025d12807379af6b58": {
+    "seen_at": "2026-11-04T13:11:15.289554+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html|15b8e50be2edf2a7cab1be49fbc4e32ad3c4cd4f821873e40bced109cee4a94a": {
+    "seen_at": "2026-11-04T13:11:15.289557+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html|489c0869f9db8e4b22937db11348c21e0e0bdd74521cf4f2550736a3e064d712": {
+    "seen_at": "2026-11-04T13:11:15.289560+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html|ca322475433a8de4ae9cebb4302a0d17fd513215259d30bdd372b9d23bd1e772": {
+    "seen_at": "2026-11-04T13:11:15.289562+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html|e5fd926b0feec23e493002c170c89c1737b2996bbb45d76eb2d774061d3b05b7": {
+    "seen_at": "2026-11-04T13:11:15.289569+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html|77b339c0f60ea7341f104878ab593e277fde0414f37d882cc0eac56ecd3dcdb6": {
+    "seen_at": "2026-11-04T13:11:15.289579+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html|5a8c87317f141f0737589ec55fce8750bab9833ea686b4bbc7da1d81a26daefb": {
+    "seen_at": "2026-11-04T13:11:15.289594+00:00",
+    "source": "thehackernews"
   }
 }
