@@ -4222,5 +4222,65 @@
   "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html|5a8c87317f141f0737589ec55fce8750bab9833ea686b4bbc7da1d81a26daefb": {
     "seen_at": "2026-11-04T13:11:15.289594+00:00",
     "source": "thehackernews"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|bdfb87bc153596a6f7846457c490ef5c19522355a836279b324f5bc3a1693ed6": {
+    "seen_at": "2026-11-04T20:30:25.878245+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions|a78c6a157fe9a907a1066f829f8c4323f3d65f41796fb56774f1e76f129f8341": {
+    "seen_at": "2026-11-04T20:30:25.878306+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france|9cd6fc26927367b7a341b4c6b3975f4fdfb9163418a500f2bf9e3b4c5879ec9c": {
+    "seen_at": "2026-11-04T20:30:25.878311+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware|55ad3dfe51b84e49f796ec26706cebdd28da3a0da09ff48b2f490a075345fc7b": {
+    "seen_at": "2026-11-04T20:30:25.878315+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings|bc07ec011638a8bc20e03253a582587368ae399994a4f78c6945026bab751af6": {
+    "seen_at": "2026-11-04T20:30:25.878318+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa|2898d95fbc273e274b305f54bee11eec9655e1b6ff3cbb148920a4fa788049b3": {
+    "seen_at": "2026-11-04T20:30:25.878321+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html|f8d8b668a3f4792238d7a539c96fd2b3a9b52c4adbab86d24c9731ef619a1000": {
+    "seen_at": "2026-11-04T20:30:25.878324+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html|4b496dc1c2835777431953617783153b48274bbb38b426d255a593b5693c20b8": {
+    "seen_at": "2026-11-04T20:30:25.878328+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html|910a627696cd1a1b586a0cfcef9aac9c91b42fa32fd59095dabba5f773d15426": {
+    "seen_at": "2026-11-04T20:30:25.878330+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html|dfaac872f99ef495187a7801c4d216c69d453e9be2e8593a5b55daf7b0992f4a": {
+    "seen_at": "2026-11-04T20:30:25.878333+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html|2782d6e6639c105bec038dbf4b9dbac047e78279991118de50181eaafc50e502": {
+    "seen_at": "2026-11-04T20:30:25.878341+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html|84fd8f99ce4dbef22efb39510200da766b304b0ea19d7f6fa4bda072dcd289ac": {
+    "seen_at": "2026-11-04T20:30:25.878355+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html|12f4158c5c712e7bfbf167593c0a0ae9cf74cb7e1801904a3d154d89b1976b79": {
+    "seen_at": "2026-11-04T20:30:25.878360+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/ai-iso-iec-42001-certification-achieved|5fd6fd7f70f95cf2dd39c180a132d60ef92d2c041993e5faaed7a04ac89a782f": {
+    "seen_at": "2026-11-04T20:30:25.878413+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/it-racing-the-three-day-clock-cisa-bod-26-04|d2abed3175b43acdbc8aa112ae6d69dad3406133ea73dd8f91467465557b1628": {
+    "seen_at": "2026-11-04T20:30:25.878415+00:00",
+    "source": "rapid7"
   }
 }
