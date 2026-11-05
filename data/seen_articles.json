@@ -4358,5 +4358,29 @@
   "https://www.rapid7.com/blog/post/ai-gartner-report-attack-paths-closing-faster-than-patchable|22cbd4df552134bd2c5f34ad650323750016360d16ed96d73f130dc7e64dedd7": {
     "seen_at": "2026-11-05T16:39:54.846029+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts|faa4795a7b80561a40aa809d42576921cab779bf90115a2d5b67f35c9a47b4cc": {
+    "seen_at": "2026-11-05T22:31:23.293054+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets|7017e1c8cf3f12e49224f2ab9f8309017bc4133cdee2ef5404e1117e84918871": {
+    "seen_at": "2026-11-05T22:31:23.293073+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks|bb03985c4c87569d7e8bc6e6ce46acc0528c9b0ba2538e99d266fc920ffaf2ea": {
+    "seen_at": "2026-11-05T22:31:23.293077+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts|b5505131cc02f33b0191f44e8d850d2367ea94893830fa831224faccd82486f9": {
+    "seen_at": "2026-11-05T22:31:23.293081+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html|2b3be0d848010196ec3c87141d47d88062856d34f1e39d0bca8db87ac3cbe440": {
+    "seen_at": "2026-11-05T22:31:23.293086+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html|ec7125464b6a919aa27d31f9ad0fe9e33260e8fa785daad0a9161543d9b342df": {
+    "seen_at": "2026-11-05T22:31:23.293088+00:00",
+    "source": "thehackernews"
   }
 }
