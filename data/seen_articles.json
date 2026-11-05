@@ -4282,5 +4282,13 @@
   "https://www.rapid7.com/blog/post/it-racing-the-three-day-clock-cisa-bod-26-04|d2abed3175b43acdbc8aa112ae6d69dad3406133ea73dd8f91467465557b1628": {
     "seen_at": "2026-11-04T20:30:25.878415+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks|e4879e022cb15ebf168be07ff0f4b266f04ff0b0c79edb0de39bb56ebc05c843": {
+    "seen_at": "2026-11-05T01:01:07.252695+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches|71d2e7ab378db4f95a8a2bbb2c4e6e2d3cbcedff6bf73213ea80c57cd2b2bd81": {
+    "seen_at": "2026-11-05T01:01:07.252711+00:00",
+    "source": "bleepingcomputer"
   }
 }
