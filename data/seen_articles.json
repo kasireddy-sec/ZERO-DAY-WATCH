@@ -4310,5 +4310,53 @@
   "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html|b221d303e809aa1a8a2af17e11e42c4f3c738c4b5c556d2829f29526410b9394": {
     "seen_at": "2026-11-05T08:12:20.165161+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server|6727ddbd402e15cc191b713b427ec7650ea5ba0a7440384c99cc8b213766a3a2": {
+    "seen_at": "2026-11-05T16:39:54.845916+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents|b9f17538c2a28f9d2452dd840fd1542e3cd516db085c9fc5c0021ddfa5c28b8b": {
+    "seen_at": "2026-11-05T16:39:54.845933+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk|6c2d4670281d2c8ebdb7d72a5b2ba39c5f368780bf2184e4d6639fe45fbb932a": {
+    "seen_at": "2026-11-05T16:39:54.845938+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop|689945b2b7a9d0d577712d3d348eb89f7c73bdb41913a33b1f3eda883423355a": {
+    "seen_at": "2026-11-05T16:39:54.845941+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html|302852fa02709532d35afbb9199c604ba974a2769ce797501ed4f08d5c288dc7": {
+    "seen_at": "2026-11-05T16:39:54.845945+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html|c971ada04f0632b23a7a5960149ffa08b54eddc26e44a81b99919d5834c39af4": {
+    "seen_at": "2026-11-05T16:39:54.845948+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html|3238285a6a17a23f00e705b490ef45d0fcc6ca8054a6fdc433e9324db0ab0e2b": {
+    "seen_at": "2026-11-05T16:39:54.845952+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html|9ab67d068537456f04f877bece596c2f992951dc8b7938ef99ab229527af5655": {
+    "seen_at": "2026-11-05T16:39:54.845954+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html|23a77c328b2316175d28f6fe726459c35e631661d188eca00b762b17201ef57c": {
+    "seen_at": "2026-11-05T16:39:54.845957+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html|c4b4bf442a68ba2a8839827f6f19b32dbe340f206b5ab962c495a59d9775721e": {
+    "seen_at": "2026-11-05T16:39:54.845959+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html|1c595d84f684d8b2a936e951611ae811a2d0c49617821ab09266049f6f97868f": {
+    "seen_at": "2026-11-05T16:39:54.846003+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/ai-gartner-report-attack-paths-closing-faster-than-patchable|22cbd4df552134bd2c5f34ad650323750016360d16ed96d73f130dc7e64dedd7": {
+    "seen_at": "2026-11-05T16:39:54.846029+00:00",
+    "source": "rapid7"
   }
 }
