@@ -4290,5 +4290,25 @@
   "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches|71d2e7ab378db4f95a8a2bbb2c4e6e2d3cbcedff6bf73213ea80c57cd2b2bd81": {
     "seen_at": "2026-11-05T01:01:07.252711+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware|72688e6940b6df398b707214b2bac0d353627dcb11910038bccf29fd4b85cfd1": {
+    "seen_at": "2026-11-05T08:12:20.165130+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html|115593361b4bcd5496cc8a673527ca606564abdd26c573bf470f39ee9a890cae": {
+    "seen_at": "2026-11-05T08:12:20.165147+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html|6353d9f92db96a815c28b45690be1e87efd3e2780fc4110af83b919087b13059": {
+    "seen_at": "2026-11-05T08:12:20.165152+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html|f3df9d63a5665e7898561ea06123eaf8005129a26cdec42c0c616ac4ebc28c83": {
+    "seen_at": "2026-11-05T08:12:20.165158+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html|b221d303e809aa1a8a2af17e11e42c4f3c738c4b5c556d2829f29526410b9394": {
+    "seen_at": "2026-11-05T08:12:20.165161+00:00",
+    "source": "thehackernews"
   }
 }
