@@ -4406,5 +4406,57 @@
   "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html|9a06dbad5f64a6908bb831ea52876101565918e74303023d2fbb04361eb03e8f": {
     "seen_at": "2026-11-06T11:18:47.839398+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks|b8a1684fe7220d38f2cbccb439ce2411e1948ab5b70179f7d726c51f366a8940": {
+    "seen_at": "2026-11-06T18:13:04.842615+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts|e9a91f97176b9ce1b273f71f58f6bbe7f795295085a6d0f873b656e1d6e0cb95": {
+    "seen_at": "2026-11-06T18:13:04.842630+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it|788d8bf5720e491d2690fd850ffb4e0770da772d7e8a753380a6c156b4ecc228": {
+    "seen_at": "2026-11-06T18:13:04.842634+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers|6cbbdb5fa6f8b1559b8d70c0f4b530b0353be81dbe6d9348a8148370e7e877f8": {
+    "seen_at": "2026-11-06T18:13:04.842635+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches|58b2571e5b9cf8d03b7509b08d6bceb1794e12c5d5d470df858d201b40de9332": {
+    "seen_at": "2026-11-06T18:13:04.842638+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html|d6ec4dfbd54fd0ddd37df037c8707b20a1590b630f376b859fb5fb132a7c4915": {
+    "seen_at": "2026-11-06T18:13:04.842641+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html|f50182803d1feee1aab5b2e608cc08ed65fce5ce7d260ee76db75dfcde666d25": {
+    "seen_at": "2026-11-06T18:13:04.842642+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html|8e4e86f2fb9d7a64124ca1bf300a49abb45f3623f8d9ecb87bb2390d0eb8d2f4": {
+    "seen_at": "2026-11-06T18:13:04.842644+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html|1b8fee525503afe9a714323ec19655e4fbc26b24c1430694321239bb0e0fa68d": {
+    "seen_at": "2026-11-06T18:13:04.842646+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html|e88f06a4b23dd7fbbcb9be4c00c02429325a8cd46bdd93e8627f4307bb1c4a87": {
+    "seen_at": "2026-11-06T18:13:04.842649+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html|6fbd7f0a12b816586f644361e2d40fe030eecc190a8fa4879074e0b78ae4feab": {
+    "seen_at": "2026-11-06T18:13:04.842652+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html|0623c335f7bb3b31aa214e812006766806f9d1dd23fdc510f5cbd0a6731c64ce": {
+    "seen_at": "2026-11-06T18:13:04.842676+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/pt-metasploit-wrapup-unauth-rce-modules-in-network-perimeter-devices-and-much-more|8cfcb9f5b9724a717a8ae9b6a81e06b04c8a5aec568d3806ad23a2ad57376297": {
+    "seen_at": "2026-11-06T18:13:04.842717+00:00",
+    "source": "rapid7"
   }
 }
