@@ -4386,5 +4386,25 @@
   "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems|ab167cb6b72af74ce6e697f9ec94038e4bd662b6b01deef2824f5bba6a9c1bdb": {
     "seen_at": "2026-11-06T03:08:01.746187+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure|52d43e8b96c67b306587558f933cda20306cd0f2777827ae0f78959fd30c8d3c": {
+    "seen_at": "2026-11-06T11:18:47.839361+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html|8da1d1a1f496dc84de24785e45304b7a30a9fe6eb595eaa9841d7782637b7873": {
+    "seen_at": "2026-11-06T11:18:47.839385+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html|0bb81d8661f7f0c2202552bdb6f883d8eefe84dd8c7560bef680bf6c0c75e111": {
+    "seen_at": "2026-11-06T11:18:47.839389+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html|1dc6a68875fd620703337d3f57e363bdf8932ee0a17262ed004f87d67390957e": {
+    "seen_at": "2026-11-06T11:18:47.839393+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html|9a06dbad5f64a6908bb831ea52876101565918e74303023d2fbb04361eb03e8f": {
+    "seen_at": "2026-11-06T11:18:47.839398+00:00",
+    "source": "thehackernews"
   }
 }
