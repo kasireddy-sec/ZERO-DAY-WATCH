@@ -4458,5 +4458,21 @@
   "https://www.rapid7.com/blog/post/pt-metasploit-wrapup-unauth-rce-modules-in-network-perimeter-devices-and-much-more|8cfcb9f5b9724a717a8ae9b6a81e06b04c8a5aec568d3806ad23a2ad57376297": {
     "seen_at": "2026-11-06T18:13:04.842717+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|29d5ab587fdd090663422af015d629d20fe882894c3585a9aca1c403f3c9ffd0": {
+    "seen_at": "2026-11-06T23:23:25.828161+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox|addea89062f630cef2668794867f9b7a8b7e4405c76be3670004ac1fc97e4bbb": {
+    "seen_at": "2026-11-06T23:23:25.828220+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs|4dff8cde2f239d117d5fc0aa16694a2e872db54a9eb84f24dd878de17c4eba14": {
+    "seen_at": "2026-11-06T23:23:25.828225+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers|a5b6723384594808d978da09488d024011bc5289240ac955cb4bc080c4ba1ccf": {
+    "seen_at": "2026-11-06T23:23:25.828228+00:00",
+    "source": "bleepingcomputer"
   }
 }
