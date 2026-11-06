@@ -4382,5 +4382,9 @@
   "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html|ec7125464b6a919aa27d31f9ad0fe9e33260e8fa785daad0a9161543d9b342df": {
     "seen_at": "2026-11-05T22:31:23.293088+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems|ab167cb6b72af74ce6e697f9ec94038e4bd662b6b01deef2824f5bba6a9c1bdb": {
+    "seen_at": "2026-11-06T03:08:01.746187+00:00",
+    "source": "bleepingcomputer"
   }
 }
