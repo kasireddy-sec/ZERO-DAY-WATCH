@@ -4478,5 +4478,9 @@
   "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks|8a6bebbfc196bdc8d88fa272bef50a33c4a8fa5edd6747985397f5a5040de1e2": {
     "seen_at": "2026-11-07T03:00:45.263684+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html|a4d4ba58bbe777320c2fca96a302894bdd646c8b15dfc1019acee74cf40908d8": {
+    "seen_at": "2026-11-07T09:55:13.663670+00:00",
+    "source": "thehackernews"
   }
 }
