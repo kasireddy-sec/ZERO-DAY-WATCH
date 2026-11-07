@@ -4474,5 +4474,9 @@
   "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers|a5b6723384594808d978da09488d024011bc5289240ac955cb4bc080c4ba1ccf": {
     "seen_at": "2026-11-06T23:23:25.828228+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks|8a6bebbfc196bdc8d88fa272bef50a33c4a8fa5edd6747985397f5a5040de1e2": {
+    "seen_at": "2026-11-07T03:00:45.263684+00:00",
+    "source": "bleepingcomputer"
   }
 }
