@@ -4490,5 +4490,9 @@
   "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands|5e2bd1b9cf2fdf79be4cb2aa10fa23042f1c01552dbb91c40ec07aa5bffac00e": {
     "seen_at": "2026-11-07T16:05:27.408268+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers|704d1dbde3afd99922e6f2ef871558bd09f124d01d1e8cb0b2d9e49c7c30019b": {
+    "seen_at": "2026-11-08T17:11:57.032698+00:00",
+    "source": "bleepingcomputer"
   }
 }
