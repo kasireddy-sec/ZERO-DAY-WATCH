@@ -4518,5 +4518,69 @@
   "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html|866a5494fc26aaba173257621cbd82b321bcab0c15092510c37537780f0a50be": {
     "seen_at": "2026-11-09T08:24:23.026965+00:00",
     "source": "thehackernews"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|78aac084b8ad1bfcbaafe8cc685850b70f99851d6624dd297f1959164210b638": {
+    "seen_at": "2026-11-09T19:00:36.303206+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|408a0ebf775102b7193ebe29453e630110a5c1d21621662f76b16f7c3165be20": {
+    "seen_at": "2026-11-09T19:00:36.303224+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|a3118f627c2eaad1c6d9d4a250cd2ea6e2fb36f64e924246cacdb610996ca744": {
+    "seen_at": "2026-11-09T19:00:36.303228+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires|c3d34f9042e7d7f4a7961571af1e741e16c172e05a5fd5c0adbb8e72e4030ca9": {
+    "seen_at": "2026-11-09T19:00:36.303267+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack|4bf90750259b1def9d3a35fb878a9648dff279f4f4c95dff50ad8ee3259e47fc": {
+    "seen_at": "2026-11-09T19:00:36.303270+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims|94b731e9a62da15cd8612580be63444377947ad1905c75388f54af91471d8b25": {
+    "seen_at": "2026-11-09T19:00:36.303273+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems|57bdf3653c174996fd062798e7a7c63b086babc29b65ce96d51d3ea388114989": {
+    "seen_at": "2026-11-09T19:00:36.303275+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai|2866ab78cb1fc8afb75f05eb8805b30bd59191f2f309a46c94764088a96e1baa": {
+    "seen_at": "2026-11-09T19:00:36.303277+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html|e2f3dd19942e1ec4b1d2593b8a2ea1fab929c3e9574e741c29e9d51aab1c9778": {
+    "seen_at": "2026-11-09T19:00:36.303281+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html|870d49ae8220b001f400bc2a5bbd07868779f413a7af8adcdc7397c1b06dd4a4": {
+    "seen_at": "2026-11-09T19:00:36.303284+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html|bc0da8d8cdc3c5815a2e06c803b3a2dc6d9a661ac7b511f38f5dbe35919b3e82": {
+    "seen_at": "2026-11-09T19:00:36.303287+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html|5c94c9ca68c27d996f457b21dd6dc09e4d7520ef4a1fb1d3e638f38d9f9d09d9": {
+    "seen_at": "2026-11-09T19:00:36.303290+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/default-adminadmin-server-password.html|4beda55fc8e1c2eedf5418523209621f3d66c2ccccefa7a3bc885b7e880974b0": {
+    "seen_at": "2026-11-09T19:00:36.303293+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html|5364118c32e85b875ab46de4def0ddd958f19caba34a8999664c2ed8db1ad859": {
+    "seen_at": "2026-11-09T19:00:36.303296+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html|18dce575b18a252715f9372e15b0ce22d024a587e9a4bf40427d7bb28fbe2390": {
+    "seen_at": "2026-11-09T19:00:36.303299+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html|ce61734c3d38185b160832394bb493372f41ff6712174269ff586f658932bdb1": {
+    "seen_at": "2026-11-09T19:00:36.303301+00:00",
+    "source": "thehackernews"
   }
 }
