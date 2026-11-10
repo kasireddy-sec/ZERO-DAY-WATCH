@@ -4650,5 +4650,73 @@
   "https://security.paloaltonetworks.com/CVE-2026-0250|7ec7624c8b5b9eb304d944cb697f52ff2b61b36a039edb86286f4df47561417a": {
     "seen_at": "2026-11-10T09:31:08.296351+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers|017aef5f7d2683279f0920d72980316370e753a2e687795461dd0d3eb12c5b83": {
+    "seen_at": "2026-11-10T17:15:37.226845+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets|c443b13d9150104a76e5b9ad5de78045f5dccd2a1d1f3ef71d2f008996b0764f": {
+    "seen_at": "2026-11-10T17:15:37.226883+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric|72d6afc96eb159429691e16c18cfea6ff584e818172d04486ecf51b0636c80b8": {
+    "seen_at": "2026-11-10T17:15:37.226889+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities|a3338c3822e269e1b080e548aa22af77f5d7c2467d5fb9e868a0d519163f05f9": {
+    "seen_at": "2026-11-10T17:15:37.226894+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access|0999f96a5cc34dd194fe74ce8c71a8f610d1d20f81193c0646d2a361424948df": {
+    "seen_at": "2026-11-10T17:15:37.226900+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html|e7b2e6235a798586dac2b228a6e3002ad892d4f910a8e25097a4dbc5b4111806": {
+    "seen_at": "2026-11-10T17:15:37.226904+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html|a9d2da203302239e836d764876d4a6ebeb65ecdff3abea5af7066210da7587af": {
+    "seen_at": "2026-11-10T17:15:37.226908+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html|1ce477a27980074d36bf595905fc14fe982dcb8a8e0b5a4af58b1d12612cb7d5": {
+    "seen_at": "2026-11-10T17:15:37.226910+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html|470ea9b3507af84444dfb87bcab6be44584942117d7844b28257b7726a103da2": {
+    "seen_at": "2026-11-10T17:15:37.226913+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html|98444c7eb461074710b12d5ff7d0d76b32609de94c42a14b32d08049885b2c09": {
+    "seen_at": "2026-11-10T17:15:37.226916+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html|3f9dc7dba96c6ad6964d915624257fe9b48aa17804e76023b2ed08163087a6fd": {
+    "seen_at": "2026-11-10T17:15:37.226920+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html|7e38ee069d54e7e411cd7b893e245a7a9064db2d687aa34ce48b60a2dcd83bec": {
+    "seen_at": "2026-11-10T17:15:37.226923+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html|9a6583982166393309e7539ea4acdc31fedd00144ae1bbfb95d7cba8c1e511be": {
+    "seen_at": "2026-11-10T17:15:37.226925+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html|41959a08d596aab155809257b3f4a6322156397f75a79443b42e18e179820867": {
+    "seen_at": "2026-11-10T17:15:37.226933+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html|af42a8098c72a519d4c68bf116505a06ea7081f6396993ac78f3c4a7a9eaf999": {
+    "seen_at": "2026-11-10T17:15:37.226936+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-critical-vulnerabilities-in-n-able-n-central-prompt-hosted-shutdown|3426826080c59b5eae1126c0f77cc0f7e25829e2f5ebc768e847eed818e4f720": {
+    "seen_at": "2026-11-10T17:15:37.226997+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/five-signs-your-mdr-is-all-alert-no-action|dec7c0e05fae5e83cae879efbccf8993135976f6a1d597bfbb7b2a2b0d1d1c96": {
+    "seen_at": "2026-11-10T17:15:37.227000+00:00",
+    "source": "rapid7"
   }
 }
