@@ -4582,5 +4582,29 @@
   "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html|ce61734c3d38185b160832394bb493372f41ff6712174269ff586f658932bdb1": {
     "seen_at": "2026-11-09T19:00:36.303301+00:00",
     "source": "thehackernews"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|a9a865647e8ce6ae1bb9f68c77b9b21b36223483a5e295c4bb74a1198001af51": {
+    "seen_at": "2026-11-10T01:59:00.622389+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed|d87f70bea4ec6106f796c2f1b5b1cdb10141807c99e8ce93c80dae3d624e5904": {
+    "seen_at": "2026-11-10T01:59:00.622461+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses|855326bf17723d744356600e529f953a2f15b2c16a0e2e41755acfaade3305cf": {
+    "seen_at": "2026-11-10T01:59:00.622467+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published|6dc8610c40aec679b8793e8796d18dbf58961ff7c9f3b85a3ef729540d467859": {
+    "seen_at": "2026-11-10T01:59:00.622471+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007|49875e1bfd762cf8366cf0feabc1a8c1f46db0fda8acd1702a80635ff9bbad7e": {
+    "seen_at": "2026-11-10T01:59:00.622475+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-111497|aa5cabc402ec8fa47bcd8d0b2b3bd6f32713eb410c5f1fdee2cd03eafa2cedf6": {
+    "seen_at": "2026-11-10T01:59:00.622634+00:00",
+    "source": "palo_alto"
   }
 }
