@@ -4718,5 +4718,85 @@
   "https://www.rapid7.com/blog/post/five-signs-your-mdr-is-all-alert-no-action|dec7c0e05fae5e83cae879efbccf8993135976f6a1d597bfbb7b2a2b0d1d1c96": {
     "seen_at": "2026-11-10T17:15:37.227000+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|6260a3c3621900fcb2811741cfe46d2051493eedaedb153b250c23e1e1afbbe9": {
+    "seen_at": "2026-11-10T22:28:48.359460+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|d1cd3d07c73bf02c66aaf7dc22d8bbefc3c239b3bb808b7f23de0ce1036d24e1": {
+    "seen_at": "2026-11-10T22:28:48.359476+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|d29eb55da0a468ff50a94bc80486037dea2565c0f7644a2fda001a3b6a5697d6": {
+    "seen_at": "2026-11-10T22:28:48.359480+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|6caf1c4350e8d77349af0795d88fe37ee7be068453ce053f6177d2a3e687134f": {
+    "seen_at": "2026-11-10T22:28:48.359483+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|e2fb2ecc685be79d5447d02f870b4611485ccf5f88c6e3c9d298993da5770a06": {
+    "seen_at": "2026-11-10T22:28:48.359487+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|3afceed796911c8ab1153c8c00b02a93b7e88bb4542e1cf093139173d53f0ed9": {
+    "seen_at": "2026-11-10T22:28:48.359489+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges|c64bbcc1fd3122cd543afaa19456c181a90ad582e3d7048424410731c703e66a": {
+    "seen_at": "2026-11-10T22:28:48.359530+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records|034387083f041b9f6bac4b6602e99241288cccdfc8f5e6772645b202927948f0": {
+    "seen_at": "2026-11-10T22:28:48.359533+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update|36136aefb25c619ce2736d5f76c38451265b9d4a019c1ef8470fdb55b7abb344": {
+    "seen_at": "2026-11-10T22:28:48.359536+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments|af9e3beee67825f2a8c85cde7315511265a6d869dbae091e90f952cb1b3d643a": {
+    "seen_at": "2026-11-10T22:28:48.359539+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day|f1919b881df3ef6330ca6dbb367b76d484071bea606b85d311db7dde32712afe": {
+    "seen_at": "2026-11-10T22:28:48.359542+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html|307d39c7e8c81eabc0dea16e996cab4a6d181428d387c6b5975ce386d3bbdbbf": {
+    "seen_at": "2026-11-10T22:28:48.359547+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html|a0dbef82fe65a93564438d21da56a665dc7eb9cf39a9e8a6c2e12c9a2ebfe86c": {
+    "seen_at": "2026-11-10T22:28:48.359549+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html|a45dda34c14e6e81da5e9befef467da21baa72d8d8ad68cb2d98d055213f2206": {
+    "seen_at": "2026-11-10T22:28:48.359552+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html|fa98c1f13af4c6fc566ff99aaeea0f14adcc3b801bb2cf3dc3d365b143d3a660": {
+    "seen_at": "2026-11-10T22:28:48.359555+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html|1fcc01f94a4d58ce17a9e689f476edff9442e20c3fa1369811b4e30283a2a2d9": {
+    "seen_at": "2026-11-10T22:28:48.359557+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html|5b33372d0119d093d464dff9e54d84576e0fd48aa701095df9640731c68ff617": {
+    "seen_at": "2026-11-10T22:28:48.359561+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html|ea2d09353e8f21b68761e04bcfa3c3c2ad08023af3da511b3ea00226641940c0": {
+    "seen_at": "2026-11-10T22:28:48.359564+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html|4498bcf50d489274ff54d3c61b98a21c490f412ae20d759d21686472177b21bb": {
+    "seen_at": "2026-11-10T22:28:48.359577+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.thezdi.com/blog/2026/11/10/the-november-2026-security-update-review|6dbf92b2d10c107a7ec5d57011089d80d665622ed08e5af7d008f7b3ab0753ab": {
+    "seen_at": "2026-11-10T22:28:48.359658+00:00",
+    "source": "zdi"
   }
 }
