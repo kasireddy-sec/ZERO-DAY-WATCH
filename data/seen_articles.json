@@ -4606,5 +4606,49 @@
   "https://security.paloaltonetworks.com/CVE-2026-111497|aa5cabc402ec8fa47bcd8d0b2b3bd6f32713eb410c5f1fdee2cd03eafa2cedf6": {
     "seen_at": "2026-11-10T01:59:00.622634+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year|78cb1a4fd33bf57e17d382cc71516840afbbbdd18903b528daa75b84bb8a1fa7": {
+    "seen_at": "2026-11-10T09:31:08.296183+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack|45176b35aa7bbf940a3d5681b1d1318796558eb116402fe14f62a1847eb2e6dc": {
+    "seen_at": "2026-11-10T09:31:08.296201+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims|1c87f61f8bd013052ae9f747a2cc745cc83eef18cf9238d4b584862eae4f2bde": {
+    "seen_at": "2026-11-10T09:31:08.296215+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html|84d4ead64f55976e32e3f4cc8cc9d22ccacb73bdc0d8d9fa1b14c9bfc477ac96": {
+    "seen_at": "2026-11-10T09:31:08.296219+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html|74541d2b178c3922498a6770beb7ed668f03e0079fa6a4e24c5ffd97e1ac8b11": {
+    "seen_at": "2026-11-10T09:31:08.296222+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html|ae6f944bccf8142937bedfa81e007ea2d22c077c0cbd05dabab81b2b5c44e3f1": {
+    "seen_at": "2026-11-10T09:31:08.296226+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html|d27c221d98b36f99f457d7b45f717d2a2aae5f49af70b1abbd4675a7990476bc": {
+    "seen_at": "2026-11-10T09:31:08.296229+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html|7a056d99396b11bb5b4b9990c4c1818b584e6aaa7b1087413f681bc7ee148371": {
+    "seen_at": "2026-11-10T09:31:08.296232+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html|93a89978c8172592a5c2cb5d4da504364017b021f421b17f10eb27a7c9a4815d": {
+    "seen_at": "2026-11-10T09:31:08.296239+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html|b0841add0fe6e879fb256e5bcaf1a41b6d6f3920ac7eb1e2817fb814bfa8356e": {
+    "seen_at": "2026-11-10T09:31:08.296271+00:00",
+    "source": "thehackernews"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0250|7ec7624c8b5b9eb304d944cb697f52ff2b61b36a039edb86286f4df47561417a": {
+    "seen_at": "2026-11-10T09:31:08.296351+00:00",
+    "source": "palo_alto"
   }
 }
