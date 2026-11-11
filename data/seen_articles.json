@@ -4798,5 +4798,9 @@
   "https://www.thezdi.com/blog/2026/11/10/the-november-2026-security-update-review|6dbf92b2d10c107a7ec5d57011089d80d665622ed08e5af7d008f7b3ab0753ab": {
     "seen_at": "2026-11-10T22:28:48.359658+00:00",
     "source": "zdi"
+  },
+  "https://www.rapid7.com/blog/post/em-patch-tuesday-november-2026|5118853488be854ce10b7d7cb23368f67d5eafee644aee2f39379bf97cd82562": {
+    "seen_at": "2026-11-11T02:07:44.100037+00:00",
+    "source": "rapid7"
   }
 }
