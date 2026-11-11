@@ -4842,5 +4842,69 @@
   "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html|cab287223a7f5b3002af903f101b3f7444b58762477f94d2ee93ac47a1859e8c": {
     "seen_at": "2026-11-11T09:43:41.540271+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million|089026c2fe01dfc3ef941fbd883c883028327855fffbbe62b1ad4cfa6481398f": {
+    "seen_at": "2026-11-11T17:41:56.037445+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks|bcadd704c8ccc14f767c27e8c3b8bb951f5ab0e736aec28b4751c379ff7b5c6d": {
+    "seen_at": "2026-11-11T17:41:56.037461+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice|c1d9d61f4484bff5b6aff9aec8a907aa8dddb4f1014513755e66ae0e5d962ce6": {
+    "seen_at": "2026-11-11T17:41:56.037465+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities|8418d151ee054c392628c3d3c128c85586f7cf6d2dd0b897debad700d08d2001": {
+    "seen_at": "2026-11-11T17:41:56.037468+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates|d52951b5dd290cef2920d3cd6c1fd761dc876e2a0ace42d095761388b82a6450": {
+    "seen_at": "2026-11-11T17:41:56.037471+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html|4918831a56245aab2db207edf6cde71ac11fc8c04fb1ca8c1ad67a20008fdae7": {
+    "seen_at": "2026-11-11T17:41:56.037475+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html|ea8df2690816f0ae36c4f4fcac5215e41263ecd7cd9df7bcd5621b1ee54c9564": {
+    "seen_at": "2026-11-11T17:41:56.037478+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html|ca3314724bc79cae8515428cdd7e2d5195742e853f0849a2d718884b8033a617": {
+    "seen_at": "2026-11-11T17:41:56.037482+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html|185b498baf2940ae164abacf86319c15780b325c0b0c0f45f497859545b04c5a": {
+    "seen_at": "2026-11-11T17:41:56.037485+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html|b004c20a733c6305aa9f58c2a47a6bc4ca48477ee800542f15eb08210d9b05cb": {
+    "seen_at": "2026-11-11T17:41:56.037488+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html|77c76ac49f844b8f5e066305e3eab781ffc7dddad7c4bc6dca6ca9caaf3334af": {
+    "seen_at": "2026-11-11T17:41:56.037492+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html|8954fa7a5419ee72254c24689cdc1516e4c9dff31d3d9b7280cb82210d693cc4": {
+    "seen_at": "2026-11-11T17:41:56.037499+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html|4ffb269e154025e969d73480a7d684bad9c02d3821e8f5bd4d6100762f404885": {
+    "seen_at": "2026-11-11T17:41:56.037507+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html|b32998c5970e67e74806b66a19215b45fc319e67f94ac8e762a9064073c9688f": {
+    "seen_at": "2026-11-11T17:41:56.037522+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/em-patch-tuesday-november-2026|37d787614517e7d17ae7efef9d077e3e229527a1a45f30040d2557ee26a467b7": {
+    "seen_at": "2026-11-11T17:41:56.037560+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-critical-vulnerabilities-in-n-able-n-central-prompt-hosted-shutdown|1dfaf8fe9ca8d30199e7cbd5670dc6ef4d053a96bc484197214df8edcb0ff0b7": {
+    "seen_at": "2026-11-11T17:41:56.037563+00:00",
+    "source": "rapid7"
   }
 }
