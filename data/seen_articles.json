@@ -4802,5 +4802,45 @@
   "https://www.rapid7.com/blog/post/em-patch-tuesday-november-2026|5118853488be854ce10b7d7cb23368f67d5eafee644aee2f39379bf97cd82562": {
     "seen_at": "2026-11-11T02:07:44.100037+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates|f6d80bccf8d78bf483572be4fa59806ce1ca3ce704e245497c9cf6d03ceb59d6": {
+    "seen_at": "2026-11-11T09:43:41.540202+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records|204fa004f5c1ead576ac9b89f81dd3a3a0cf3f1705607100293fea97de0b27a9": {
+    "seen_at": "2026-11-11T09:43:41.540222+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments|a6a11f9df0a40c971eb272cf2d4f4a4d62dccf6d9c9d1b9d95d16090a9e95dad": {
+    "seen_at": "2026-11-11T09:43:41.540228+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html|00f8c5131dcefdae92958ae4146b95655f236e9177339abf86bd378c4fc0a92a": {
+    "seen_at": "2026-11-11T09:43:41.540232+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html|e053741a3d2c4d6c41e412072c4d9d0e4716437fddcb2bae91b72a917ac4f7b9": {
+    "seen_at": "2026-11-11T09:43:41.540236+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html|12f7a68d3ebb3dd77a53aca71cce737a2df8e4a5d5558e00ec7823d94fe9f937": {
+    "seen_at": "2026-11-11T09:43:41.540239+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html|2d2b981e0f04ee92c4a0867737dccf090be0308a5f887fec76067cdab53204f6": {
+    "seen_at": "2026-11-11T09:43:41.540242+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html|34a731b39aab27d1a7ba98b28c5a121ca845fe6bbac29521c279b17e4a639bb3": {
+    "seen_at": "2026-11-11T09:43:41.540251+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html|348030a42e13bdf9a1f64236260108fb0858424b1711e12c923cff99cbbf1b3a": {
+    "seen_at": "2026-11-11T09:43:41.540267+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html|cab287223a7f5b3002af903f101b3f7444b58762477f94d2ee93ac47a1859e8c": {
+    "seen_at": "2026-11-11T09:43:41.540271+00:00",
+    "source": "thehackernews"
   }
 }
