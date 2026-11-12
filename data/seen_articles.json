@@ -4966,5 +4966,29 @@
   "https://security.paloaltonetworks.com/CVE-2026-0326|cbb6d2900a67d52d90b9f2f9447fcea4b6ca2f0ab413ad4e2a4c20708d130420": {
     "seen_at": "2026-11-12T00:01:22.274749+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations|84b6cf0eadd789320c2657852ad2d5fdfb2c6fad3497ba2076a51a0cddf93097": {
+    "seen_at": "2026-11-12T07:31:20.802227+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html|5119188d3671eaefd53e21368ad0f4212758ecbe66d5a03c0e0c673a8bb44303": {
+    "seen_at": "2026-11-12T07:31:20.802249+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html|afc86cbc4f653f00b087fafa9231e5496c93e6ec37afd6a975ec21a48050f278": {
+    "seen_at": "2026-11-12T07:31:20.802253+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html|17df12bb52680d4da699aaeaa5ef3541fda2204d84357e7ce9499070accfd50c": {
+    "seen_at": "2026-11-12T07:31:20.802256+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html|0519fbda5978e92a7e40abb14b8fe05baa1d7016adfa77e5dbd3b79c5eecb5f1": {
+    "seen_at": "2026-11-12T07:31:20.802261+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html|9f8cab1e04d09b0145a850a8e9ab33e20f5130c1bdb36b0b835accb6bc8a6d7c": {
+    "seen_at": "2026-11-12T07:31:20.802277+00:00",
+    "source": "thehackernews"
   }
 }
