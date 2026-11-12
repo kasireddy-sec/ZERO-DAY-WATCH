@@ -5050,5 +5050,45 @@
   "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html|96351fb8f35ecc7af0d02f29173a7d5ecf2ed0a81cdf9d8ce011cca837bc5446": {
     "seen_at": "2026-11-12T16:33:50.210650+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials|cb886275a2fd45d6d74c946ba14ef165c20901aac4d7137a53d6fa35c4839c6b": {
+    "seen_at": "2026-11-12T22:34:36.660435+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide|a95c566fd52f4cebf62e5d696ed5f0bf36833a47f9191544a94c6dac1de3eac5": {
+    "seen_at": "2026-11-12T22:34:36.660451+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released|839052b22f1b593bc9d3be91a1247e2938b1e4c032589d35a8fb47e72c0440b5": {
+    "seen_at": "2026-11-12T22:34:36.660457+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw|860d7fa0609b82f58b045ad96ec4822721499119b9b4167c3befd7a7b24e4046": {
+    "seen_at": "2026-11-12T22:34:36.660461+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html|1e780f90879818208e6557ee361eb0fc7301714733c8e1abd901144e5f90b4a0": {
+    "seen_at": "2026-11-12T22:34:36.660467+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html|83384553f83d61550d5e10b181394f50c0ed367e2ad64870d30e6d988d9795ef": {
+    "seen_at": "2026-11-12T22:34:36.660471+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html|88e3319cdfc7483022dab6dbf8b5049001396ed0a2675ecc96f62127157b1132": {
+    "seen_at": "2026-11-12T22:34:36.660474+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html|c52408d41ef0d8bf59c8b10b49ee938562bf338bb3934e2f751c4bc7de6a981c": {
+    "seen_at": "2026-11-12T22:34:36.660478+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html|e904b3779c99f7cae4fa52fdfd223508b8980d5b3aa767e05842b8f3c0176c15": {
+    "seen_at": "2026-11-12T22:34:36.660481+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html|973af79a5c4a742ce7c1417cec39f68e84fedbd1d3c120e717cfbfc97f1fde3e": {
+    "seen_at": "2026-11-12T22:34:36.660486+00:00",
+    "source": "thehackernews"
   }
 }
