@@ -4990,5 +4990,65 @@
   "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html|9f8cab1e04d09b0145a850a8e9ab33e20f5130c1bdb36b0b835accb6bc8a6d7c": {
     "seen_at": "2026-11-12T07:31:20.802277+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges|c7da2eada188733eedb58b097708fb6dc5eeb1b1e45dcd7bae974dd9907e4eea": {
+    "seen_at": "2026-11-12T16:33:50.210577+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure|6ecb9a77fecaf47a4228868e7701c277a08fab9d8b2ebbdc339fa88d587d19f4": {
+    "seen_at": "2026-11-12T16:33:50.210594+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk|0f1d1c975596b059067702f62684d67553a1b10ba2ba978e9b304837ea6f9520": {
+    "seen_at": "2026-11-12T16:33:50.210600+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach|ba60ec70e935da21936789b84dfbc9a704d36e2e642151d8b5a437658d6c569c": {
+    "seen_at": "2026-11-12T16:33:50.210604+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues|00abc0035ca0025ba7f8720763445de0b8311bba42f378d8143006d9639c8d0e": {
+    "seen_at": "2026-11-12T16:33:50.210608+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html|a78cc9c8e0b5e547ce9660e30684d2294d96c57b0e9733b1db7efd64dbf94a75": {
+    "seen_at": "2026-11-12T16:33:50.210613+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html|e2df2beb8dc10fa05e7a7443ae07dd1589fd2b4318ee624e778bd6b942395e7b": {
+    "seen_at": "2026-11-12T16:33:50.210617+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html|0776dbb544e829365009aa1d0cd3f7988aaeab1ce904e8ce6692497159af964e": {
+    "seen_at": "2026-11-12T16:33:50.210621+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html|e639e548caa6464169d79ba5440aa044e1493b0e68a0a81e696998bf6da8ec70": {
+    "seen_at": "2026-11-12T16:33:50.210625+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html|09cadd30c4bd121e88445ed4db2ff5a35f22991d98536c370e04bd532f73add4": {
+    "seen_at": "2026-11-12T16:33:50.210629+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html|a07a6aa3d39c0e318a17cea7a29b53a4fc854c1171fb5b05175b38b298cc600c": {
+    "seen_at": "2026-11-12T16:33:50.210634+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html|1c6b8fac7eda1304fd66010be940d667230d291e2749cbde740038d057bdb35c": {
+    "seen_at": "2026-11-12T16:33:50.210638+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html|1e08190c4a144cb508fcbed796b9c0dca9653ef84832e6ddfbd057ce442c6c2f": {
+    "seen_at": "2026-11-12T16:33:50.210642+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html|871a1d2802ac10ef107a2e82bc448f7ebfa4bbbd2b0a566442b239fc46b1e637": {
+    "seen_at": "2026-11-12T16:33:50.210646+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html|96351fb8f35ecc7af0d02f29173a7d5ecf2ed0a81cdf9d8ce011cca837bc5446": {
+    "seen_at": "2026-11-12T16:33:50.210650+00:00",
+    "source": "thehackernews"
   }
 }
