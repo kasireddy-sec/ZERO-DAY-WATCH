@@ -4906,5 +4906,65 @@
   "https://www.rapid7.com/blog/post/etr-critical-vulnerabilities-in-n-able-n-central-prompt-hosted-shutdown|1dfaf8fe9ca8d30199e7cbd5670dc6ef4d053a96bc484197214df8edcb0ff0b7": {
     "seen_at": "2026-11-11T17:41:56.037563+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider|4745cae0824ba58ca336db7efdf40646cf1b2c7439a4063a692ed755b458667f": {
+    "seen_at": "2026-11-12T00:01:22.274568+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations|84169ff5e740cea60fa08c5b465a6434e0a630c46fed6f7bb8caa3f4b060602f": {
+    "seen_at": "2026-11-12T00:01:22.274588+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap|bd4475f914e63c5682189f1c587817fa936e32f5aa92645ce86e2441edcf5607": {
+    "seen_at": "2026-11-12T00:01:22.274615+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts|9d978460e675023eb3760b340b90be0d6c60cf7e3ce72a133e650db33a9ef013": {
+    "seen_at": "2026-11-12T00:01:22.274618+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.rapid7.com/blog/post/etr-critical-vulnerabilities-in-n-able-n-central-prompt-hosted-shutdown|134d05b36ad9d156a4bd9b1bad15cb9f3f5f819428931cdedd96ffaa38278340": {
+    "seen_at": "2026-11-12T00:01:22.274699+00:00",
+    "source": "rapid7"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0325|c06c485d66e746b76c16fa06daf933a1d08f4189b7f0a677b263388eb2110c97": {
+    "seen_at": "2026-11-12T00:01:22.274725+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0327|34c9e71decd235678d87450a2f887ecfe9e503343ef192e3f61d88f63206b498": {
+    "seen_at": "2026-11-12T00:01:22.274728+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0331|014d7273c027157121537fad1c59da82af6559cb08e4a2d7d877742f6b0f680b": {
+    "seen_at": "2026-11-12T00:01:22.274730+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/PAN-SA-2026-0014|8aadba4db93767d250c99aad24f93796435ee6770d4b8febd4879a08b7596132": {
+    "seen_at": "2026-11-12T00:01:22.274733+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0328|d4db0511d2e70e5c732648c37d3e80134bbabcd5a657bc25b3322409ac700d52": {
+    "seen_at": "2026-11-12T00:01:22.274736+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0323|b4ba669b63cd93ce52f68005206902999d4d9b35eebe12414e84d522ba95f005": {
+    "seen_at": "2026-11-12T00:01:22.274738+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0330|bf98de0043c8d58b6c60a8e4488fb6838fd5dfa5e373a1bc6008ea58f92a5331": {
+    "seen_at": "2026-11-12T00:01:22.274741+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0329|50f66efa12c73f1af3ec760d1838dc708a11c56a9cb6c0b4f2067565faa0e50d": {
+    "seen_at": "2026-11-12T00:01:22.274744+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0324|271676a2066fe951398b900ffd0eba6fef990fa1a0df268016663b66778e7a4b": {
+    "seen_at": "2026-11-12T00:01:22.274747+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-0326|cbb6d2900a67d52d90b9f2f9447fcea4b6ca2f0ab413ad4e2a4c20708d130420": {
+    "seen_at": "2026-11-12T00:01:22.274749+00:00",
+    "source": "palo_alto"
   }
 }
