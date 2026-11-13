@@ -5130,5 +5130,61 @@
   "https://www.rapid7.com/blog/post/em-patch-tuesday-november-2026|f8a7d81091fdf8af52ace985dc4e170917af6c63950779a297996bf8139f3410": {
     "seen_at": "2026-11-13T11:22:51.322845+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack|bfa6176f90034be25b2fd8eb5852bf8842daa2f77a31d2baded0be8b97c027b2": {
+    "seen_at": "2026-11-13T18:39:54.560911+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper|fbbeb9b3889c5e79dd72fd017c97d1988f9e14f4934ae77c1f4069d127992cba": {
+    "seen_at": "2026-11-13T18:39:54.560928+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps|12f7981ba4089b0d3845166ffcd6c9a2536ab3b86ee5b4c509eae8897b6cb626": {
+    "seen_at": "2026-11-13T18:39:54.560932+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues|b1e9e0aa3a7139f88b4a7184ea3e8d1a8982baca043b6f654c668b447ee9b325": {
+    "seen_at": "2026-11-13T18:39:54.560936+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access|e6f089ad29e58a4e2a92c5f4a6748b77bcc4c981e4efb9e9dbd11fb53620ae31": {
+    "seen_at": "2026-11-13T18:39:54.560939+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html|886ccf127c32dce55839deb272165d6c62e7f1dfbf8c48560b8184e8539b8d81": {
+    "seen_at": "2026-11-13T18:39:54.560943+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html|9b417be9209c901219e5f83b0719b3390f4d7d2d988821beba280a753764a938": {
+    "seen_at": "2026-11-13T18:39:54.560945+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html|65b7913bccabd10ab5553e482feea16b1c3ec57cc893cab3f9e7b54bf3952df5": {
+    "seen_at": "2026-11-13T18:39:54.560949+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html|5bbdb62405f80331946bf8a424cb76c44f85b14643a009da1b0e6beb16a27fe4": {
+    "seen_at": "2026-11-13T18:39:54.560952+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html|d93235f1ffa42d0c7820549ab297a10c5cbe8f543499daed25ec9d5e6b09962f": {
+    "seen_at": "2026-11-13T18:39:54.560955+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html|de9eeee90dc900b00958400eb827e77ea45031d959ac297a7ff999c44b139721": {
+    "seen_at": "2026-11-13T18:39:54.560958+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html|461681bdbadf5ac195531ecf802ca78ee3c23b36c4a8cd84f54397a3eab8d6a6": {
+    "seen_at": "2026-11-13T18:39:54.560961+00:00",
+    "source": "thehackernews"
+  },
+  "https://projectzero.google/2026/11/disclosure-policy.html|005c369630d5f8b163c0780bddff9395e5081227d0efb75fea12761581f2d522": {
+    "seen_at": "2026-11-13T18:39:54.561023+00:00",
+    "source": "google_project_zero"
+  },
+  "https://www.rapid7.com/blog/post/dr-mdr-pricing-comparing-asset-ingestion-based-ingestion-costs|9f048b2003751f520b57aeac1e010085be2be32166c706e961571f9b0bb635da": {
+    "seen_at": "2026-11-13T18:39:54.561036+00:00",
+    "source": "rapid7"
   }
 }
