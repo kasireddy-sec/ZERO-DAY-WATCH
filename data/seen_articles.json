@@ -5090,5 +5090,13 @@
   "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html|973af79a5c4a742ce7c1417cec39f68e84fedbd1d3c120e717cfbfc97f1fde3e": {
     "seen_at": "2026-11-12T22:34:36.660486+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks|bfa7d0de39512bdc7753137e012c0c218664acdd405a5a9ba631d13cac47d58b": {
+    "seen_at": "2026-11-13T03:08:21.964724+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide|4cb933018d38c4400593cd76b0e88f5fe5749c3c17475c2c1c222e6d5c12a14f": {
+    "seen_at": "2026-11-13T03:08:21.964740+00:00",
+    "source": "bleepingcomputer"
   }
 }
