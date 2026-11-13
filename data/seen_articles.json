@@ -5098,5 +5098,37 @@
   "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide|4cb933018d38c4400593cd76b0e88f5fe5749c3c17475c2c1c222e6d5c12a14f": {
     "seen_at": "2026-11-13T03:08:21.964740+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access|4618c93662c9136e9d02628348c3f31dff66ff627d91abc845a83d2d78e07dd9": {
+    "seen_at": "2026-11-13T11:22:51.322732+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates|693aaa18d5528c600bd37b3c52dcd5a06b120ac59e597a9c61f143be84e1bdb1": {
+    "seen_at": "2026-11-13T11:22:51.322750+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown|06af20e96e1b1fa5d310a5023c712b46c577e8e1fc7c344aaa534ca73262cb91": {
+    "seen_at": "2026-11-13T11:22:51.322754+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html|1ef6ae03f1cf42a0780f3dbce5eeddec6fba4c09a388c8c33fa23b0f5b85d47c": {
+    "seen_at": "2026-11-13T11:22:51.322760+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html|a6e38f309bfd0f98cfa97960f8d4b8c68bd4b6c3ebd8ad449698a234b5915f24": {
+    "seen_at": "2026-11-13T11:22:51.322762+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html|61b54ad61edf2687dc38131c33643ab92c010118b7ae7c61517df76090eaf81a": {
+    "seen_at": "2026-11-13T11:22:51.322767+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html|f7657b85ef4eef350cecd8da24d15c5c04b2dbab945b2f8ac86c2424f8ac0cdc": {
+    "seen_at": "2026-11-13T11:22:51.322792+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/em-patch-tuesday-november-2026|f8a7d81091fdf8af52ace985dc4e170917af6c63950779a297996bf8139f3410": {
+    "seen_at": "2026-11-13T11:22:51.322845+00:00",
+    "source": "rapid7"
   }
 }
