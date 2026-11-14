@@ -5242,5 +5242,13 @@
   "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html|c3d0340f7a9c72d183c4b703b19cb5badbdc2d52e951475ff5fedc2a4d4b9de0": {
     "seen_at": "2026-11-14T13:57:00.474182+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension|2889719c4824ec1a024288566de69c953916c2a87b98e8d41f2094879e5165e1": {
+    "seen_at": "2026-11-14T18:58:00.222959+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft|4c8c310ddf49871f302aafe7df8a3ad932a25ee67088580294c4eb4c4fdeed5f": {
+    "seen_at": "2026-11-14T18:58:00.222977+00:00",
+    "source": "bleepingcomputer"
   }
 }
