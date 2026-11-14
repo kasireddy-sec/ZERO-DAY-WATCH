@@ -5186,5 +5186,49 @@
   "https://www.rapid7.com/blog/post/dr-mdr-pricing-comparing-asset-ingestion-based-ingestion-costs|9f048b2003751f520b57aeac1e010085be2be32166c706e961571f9b0bb635da": {
     "seen_at": "2026-11-13T18:39:54.561036+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|12e0bbae3ac8a284bac8f3236948ab4cb2e8965cf3ae1887a1d6efafc9d11273": {
+    "seen_at": "2026-11-14T00:09:34.096465+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|28237c13dfaa08a2c299a0a4086f509cbfc190257682465e9bf7d64f622ce4bd": {
+    "seen_at": "2026-11-14T00:09:34.096482+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|be74dee7b743f8097093610c360b9452d7e35c9bc9ad642807b3bd3cde704129": {
+    "seen_at": "2026-11-14T00:09:34.096506+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|9c3e6c1689102684fed6fb0a5538558d0881bdb78c65fcaa22a75d50c5401b62": {
+    "seen_at": "2026-11-14T00:09:34.096514+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|c9de7cac3c313f90608218696f57a0c37064a560a74116ef326c16ee5f89be8e": {
+    "seen_at": "2026-11-14T00:09:34.096518+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|2ebca53153f0789760929933bb1bc2e3ae54fb17c1dee92aa15a06405ca46c0c": {
+    "seen_at": "2026-11-14T00:09:34.096526+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|e2e3834a2158855584a69ffcb112018d303a2abbe0338757113c66a81d9e7029": {
+    "seen_at": "2026-11-14T00:09:34.096528+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|13604b89f23f35a1bcaaf8bb950642a603c54e8ef46676121099e043295f0752": {
+    "seen_at": "2026-11-14T00:09:34.096568+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|4ffe6a84250d10fd64370883751dcbb5e781d2ffe5a629580744668c02dd04f0": {
+    "seen_at": "2026-11-14T00:09:34.096576+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|0d6efe3e0e8ef029f50538973b50fcf599c2187a3cabbad2aaf001c686749162": {
+    "seen_at": "2026-11-14T00:09:34.096580+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix|70ab83533074cf902891774c9ec2f06a58a84b315cc15b755b69af9c56cde981": {
+    "seen_at": "2026-11-14T00:09:34.096586+00:00",
+    "source": "bleepingcomputer"
   }
 }
