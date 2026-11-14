@@ -5230,5 +5230,17 @@
   "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix|70ab83533074cf902891774c9ec2f06a58a84b315cc15b755b69af9c56cde981": {
     "seen_at": "2026-11-14T00:09:34.096586+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html|551239bf242758530f1a4145a090ac081e67f8a00599ec2996fe03f6416799eb": {
+    "seen_at": "2026-11-14T13:57:00.474152+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html|225528d795ec80bbaa67c20ffce4a8b5344cb4c3dc7d878b8ff6ec0ad19e004b": {
+    "seen_at": "2026-11-14T13:57:00.474178+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html|c3d0340f7a9c72d183c4b703b19cb5badbdc2d52e951475ff5fedc2a4d4b9de0": {
+    "seen_at": "2026-11-14T13:57:00.474182+00:00",
+    "source": "thehackernews"
   }
 }
