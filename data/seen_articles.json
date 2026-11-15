@@ -5254,5 +5254,13 @@
   "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html|56544372aa750c48f7aa5d59ae8f81ebfdccab907f77a4d0b24aa5900cff3b0f": {
     "seen_at": "2026-11-15T09:44:25.873627+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider|05d00c42fb762319b77f42b867dc3360e5b0ae01fb0447afd4b4f251e08fbfb1": {
+    "seen_at": "2026-11-15T16:47:53.505123+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html|6caac17648450a7869629f6d2f24d9e4008ca0220a14aac5e5583d837881bba1": {
+    "seen_at": "2026-11-15T16:47:53.505147+00:00",
+    "source": "thehackernews"
   }
 }
