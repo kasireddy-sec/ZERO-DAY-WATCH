@@ -5250,5 +5250,9 @@
   "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft|4c8c310ddf49871f302aafe7df8a3ad932a25ee67088580294c4eb4c4fdeed5f": {
     "seen_at": "2026-11-14T18:58:00.222977+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html|56544372aa750c48f7aa5d59ae8f81ebfdccab907f77a4d0b24aa5900cff3b0f": {
+    "seen_at": "2026-11-15T09:44:25.873627+00:00",
+    "source": "thehackernews"
   }
 }
