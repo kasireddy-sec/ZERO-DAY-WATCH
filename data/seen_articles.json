@@ -5266,5 +5266,25 @@
   "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks|56ab2cdb065c342ea956361356086658e4795c432a4dff97249dd448b7fa09c3": {
     "seen_at": "2026-11-15T21:28:21.536374+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html|189abc10643bf722e0f3d25996c56468552e902f421a33f9bd88bc34191cfca2": {
+    "seen_at": "2026-11-16T08:17:45.632440+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html|09692e4bfc4cf22827efd46b03df3ff33140c3f90822e9e8c45a0726eb3b0d31": {
+    "seen_at": "2026-11-16T08:17:45.632458+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html|13679af52d655daf69caa74b1d2a0c44df73ba658ab543b3eeb1bb0fa760e676": {
+    "seen_at": "2026-11-16T08:17:45.632464+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html|65abc069289bbd5898769517068554305e4a951c05c787665c9e0d5feae3165f": {
+    "seen_at": "2026-11-16T08:17:45.632470+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html|99f398089137fee6db6c9d72caec8cdaf09de9a126567d030eff46eab697b784": {
+    "seen_at": "2026-11-16T08:17:45.632479+00:00",
+    "source": "thehackernews"
   }
 }
