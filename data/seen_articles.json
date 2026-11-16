@@ -5286,5 +5286,49 @@
   "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html|99f398089137fee6db6c9d72caec8cdaf09de9a126567d030eff46eab697b784": {
     "seen_at": "2026-11-16T08:17:45.632479+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage|4ab52ba92424edd7b5779886223dad4d46cdc01caef6ce78cea88ae78445c2e1": {
+    "seen_at": "2026-11-16T18:47:01.072436+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages|721c53928508f28740b75c12e5203b8ebbc4ad5cbaabf79b285ee3edef409e1e": {
+    "seen_at": "2026-11-16T18:47:01.072454+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements|fee5074de5f91de27afc83d5bfee01870137af6983001eb2dc3e3b5ba5904714": {
+    "seen_at": "2026-11-16T18:47:01.072459+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon|b2284b6b0efb1147b3f259b3f038d479ba8a558ae5dd4423732390fd8f36b4fc": {
+    "seen_at": "2026-11-16T18:47:01.072462+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days|c5a6a8c830c0a29220aa639211e32a89651bc9048314e72f67bc66d9072e03cf": {
+    "seen_at": "2026-11-16T18:47:01.072465+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html|44e5f1200296cbd45549badc0395d8946ef837179ea2e4aa8e82933f31f78504": {
+    "seen_at": "2026-11-16T18:47:01.072468+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html|1390b9166e3755a56dbc44fb2733b16b86a0a5d2e8f3f3711793b05743760666": {
+    "seen_at": "2026-11-16T18:47:01.072472+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html|d24b3d47daece9c4700cbfeff9b902c2a07be09600bf4df229dc05ecae3ad87f": {
+    "seen_at": "2026-11-16T18:47:01.072475+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html|01abde0afc0fbadedfbc283c1bb29e5384cb79b3fadebfb9ce16c7eb5aa98069": {
+    "seen_at": "2026-11-16T18:47:01.072478+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html|5fca0432bb2e2e68482efdd0c9332266729e9ff23f65a871d2f13e8b6c69b303": {
+    "seen_at": "2026-11-16T18:47:01.072481+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed|1812848dcbddf91745990a2cabf9067856374b620e98e76d188ffa13b303091f": {
+    "seen_at": "2026-11-16T18:47:01.072556+00:00",
+    "source": "rapid7"
   }
 }
