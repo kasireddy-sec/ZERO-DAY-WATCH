@@ -5354,5 +5354,41 @@
   "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited|552ba8048670177c41512b0ba6bb24ce13a9e4889281f1fcfba16d10b822bd91": {
     "seen_at": "2026-11-17T02:18:11.808925+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges|91e0cac0502a78a987efc7237aa4d24971643faca855a0f7634841cfb2540718": {
+    "seen_at": "2026-11-17T10:58:22.265779+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people|55567c4818b737c0f6d6e88870c6de3430a328c630a78e1adb89a04f25cbc481": {
+    "seen_at": "2026-11-17T10:58:22.265795+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison|014eca2e8b8d8ad96c439d26a59d56b40973960441a7ee18292dca56842d5180": {
+    "seen_at": "2026-11-17T10:58:22.265799+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites|f614e687a841faba84523fbd910ef90f42289e1ebe1a7092db508d8df1b7e88d": {
+    "seen_at": "2026-11-17T10:58:22.265802+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html|3b7765053e68568dba8e4303f010d9b73466894069e8197c5858068a7e04583f": {
+    "seen_at": "2026-11-17T10:58:22.265834+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html|fe95367acb09334fec8f4818d538ae1a00f8adaf74d2a5348f3618b6887ec625": {
+    "seen_at": "2026-11-17T10:58:22.265838+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html|9b4146361adddf0a53b8a2135ed14ef7826609dc25c5da9655e90135f9f2ad67": {
+    "seen_at": "2026-11-17T10:58:22.265841+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html|568cf6e4c3dce7cc115de19b9e081fd8e93f981e2ab00c4b5d413fae80d1168c": {
+    "seen_at": "2026-11-17T10:58:22.265881+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited|f6335622c32c083be4dd67fccb186242ca3d988b5c5e1f7a50be438ebc62aa2b": {
+    "seen_at": "2026-11-17T10:58:22.265923+00:00",
+    "source": "rapid7"
   }
 }
