@@ -5390,5 +5390,73 @@
   "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited|f6335622c32c083be4dd67fccb186242ca3d988b5c5e1f7a50be438ebc62aa2b": {
     "seen_at": "2026-11-17T10:58:22.265923+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|f75badc7b13aa23d5a975c3e9bfa49e3e81ac9e2e43f8b324b461b866ca65ba6": {
+    "seen_at": "2026-11-17T19:40:43.496979+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more|a63c7336a5d1460444acda25335272700433f49f1aee45b3132af18d3624d557": {
+    "seen_at": "2026-11-17T19:40:43.497036+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model|9fb99166f6f8c6050fb584c70476019c9bb7c317880ec73ddf372dac3e4e708f": {
+    "seen_at": "2026-11-17T19:40:43.497039+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack|620a9bcc00f0f7474cfa17ed51096033267dc34f5ec18da2c6c95c2eb05d6d87": {
+    "seen_at": "2026-11-17T19:40:43.497042+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool|1732601a106a25252d41ea57ffd8abc7f4594cdd5372fc180d34dbfe30c4b260": {
+    "seen_at": "2026-11-17T19:40:43.497044+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions|ca01e6f4b3a81d4640a50b989bf2332efa6617aab3c941c2878bcb9584545871": {
+    "seen_at": "2026-11-17T19:40:43.497047+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html|9c5bab53babee3ca94c91d1ee07ffcc52e560463d891cf305446190ff0bb6a99": {
+    "seen_at": "2026-11-17T19:40:43.497049+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html|e65b90db47479732d851f23764e10a96ab738d8a81ff39820970b525fceb7ba3": {
+    "seen_at": "2026-11-17T19:40:43.497052+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html|92ab0137d6528c5ff2266081cc41c56ff7512464b9deba96510e08966bdaa3cc": {
+    "seen_at": "2026-11-17T19:40:43.497055+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html|b17b986071732e7f6449d98f531b4460bb3329f6ee703b91a54da8edb15d6fff": {
+    "seen_at": "2026-11-17T19:40:43.497057+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html|86bfbc149922e662419d6dbe4f048d00a4c42d06f78a3cd41b4caed173b3004f": {
+    "seen_at": "2026-11-17T19:40:43.497059+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html|16b67170fbb9555aa2fcc89a9e523a3b71ee0c1869f07b05a5b14c5987ec8fe4": {
+    "seen_at": "2026-11-17T19:40:43.497062+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html|298860347f495b03c6d733b6eabac54c026c036721f5315b80302137ba49a373": {
+    "seen_at": "2026-11-17T19:40:43.497066+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html|b504734fd412f137ff50aceb9211ee63ae4425caaac8afe102624f2dc580002d": {
+    "seen_at": "2026-11-17T19:40:43.497069+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17|ebf32575183098d019a1d154195e6afc7cadbc97ea3a62b0d3ceb4d23b58019c": {
+    "seen_at": "2026-11-17T19:40:43.497122+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/em-claude-access-brings-ai-context-into-surface-command-asm-easm|a74aea1325b868019bed29fc2df045dc7494c2987815b66b27949eec0e173c29": {
+    "seen_at": "2026-11-17T19:40:43.497125+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited|afcaa9a48582ede67c433bfe210466c0cfd56216b0bea5b3a2da1f7a48c15c24": {
+    "seen_at": "2026-11-17T19:40:43.497127+00:00",
+    "source": "rapid7"
   }
 }
