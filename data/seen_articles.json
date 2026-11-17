@@ -5330,5 +5330,29 @@
   "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed|1812848dcbddf91745990a2cabf9067856374b620e98e76d188ffa13b303091f": {
     "seen_at": "2026-11-16T18:47:01.072556+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware|3dda9d9050ecfebc889d04802abca0f4826a26cc43e4108d36113f56d46f3b5e": {
+    "seen_at": "2026-11-17T02:18:11.808774+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website|5bd396b19d24ccf243bef769d39fbab139149e54a61dfa85709a18988f1ca6c0": {
+    "seen_at": "2026-11-17T02:18:11.808793+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats|61b53c99276adc0bd489289041af4219f3225c8b332fdf56ae07193cbded61e0": {
+    "seen_at": "2026-11-17T02:18:11.808797+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms|19f2e094d95e5c3d91f45ee69c3256de3a9175d706867971684335388c8370a0": {
+    "seen_at": "2026-11-17T02:18:11.808800+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack|bf2eec34a1f489a144e6f7db8cc59d4db90ebf5bb785f40175b56d42759a3bf4": {
+    "seen_at": "2026-11-17T02:18:11.808803+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited|552ba8048670177c41512b0ba6bb24ce13a9e4889281f1fcfba16d10b822bd91": {
+    "seen_at": "2026-11-17T02:18:11.808925+00:00",
+    "source": "rapid7"
   }
 }
