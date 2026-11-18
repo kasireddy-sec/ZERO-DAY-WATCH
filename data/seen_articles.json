@@ -5638,5 +5638,53 @@
   "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites|2e30d45f491cf4519e5f28ce4625bdfe1736bd509bc9d07995bfbd1cde6b1815": {
     "seen_at": "2026-11-18T02:05:15.779548+00:00",
     "source": "securityweek"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security|a8be446369793971eed21de167fb689381e82c9de6df3b7bc70a0cc19dfaf409": {
+    "seen_at": "2026-11-18T10:30:10.346643+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison|cb4399cb0a86a7ce835fe11be42a21aecf7d2b85bbebd550d6d117c8c93a40ba": {
+    "seen_at": "2026-11-18T10:30:10.346664+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html|b060438ab4cde18d2dbb92fb9200b4bc00662a17e0515dd0bb530fd02012ffa7": {
+    "seen_at": "2026-11-18T10:30:10.346674+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html|a7bc13511a3aa45b72ee3caf8fff92d377bd7f26ecee55c2a34290a331a63d4b": {
+    "seen_at": "2026-11-18T10:30:10.346678+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html|9b64c1a055b5e98129b290284839e5ffbcb4831be82378efaa3c668daa44b25f": {
+    "seen_at": "2026-11-18T10:30:10.346682+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html|7d8aa023276360a5c69d312e3d782d19cb5cf5742d375f7bd1c06ef3f769478e": {
+    "seen_at": "2026-11-18T10:30:10.346686+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html|7aeac52966c22fb9ffd51e7a0b4f62ba4460255816a576b3b11bf20acfcb8a28": {
+    "seen_at": "2026-11-18T10:30:10.346689+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html|cf214767301c7facc295cc4da2f7b930ccb0f6236969f9ccadcafa61a3a9567e": {
+    "seen_at": "2026-11-18T10:30:10.346696+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html|34effde36fa27fa60b575d7471f04db53e2b81d482ffe745fdadc6f52a9c9cb7": {
+    "seen_at": "2026-11-18T10:30:10.346702+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu|d0c6b80ab5e3c2579c79d246a959a3f504f83458e1f1a991986329ff83820c8f": {
+    "seen_at": "2026-11-18T10:30:10.346756+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover|08e4f4a6c1dc2fb36b959b27a375792499439fb6ae213fe2d65f78af949621a5": {
+    "seen_at": "2026-11-18T10:30:10.346760+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says|ea9b03f5141852ad6b1f110ee2727403ba0a84244c092ea559d351d8010dd5cc": {
+    "seen_at": "2026-11-18T10:30:10.346763+00:00",
+    "source": "securityweek"
   }
 }
