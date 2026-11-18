@@ -5458,5 +5458,185 @@
   "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited|afcaa9a48582ede67c433bfe210466c0cfd56216b0bea5b3a2da1f7a48c15c24": {
     "seen_at": "2026-11-17T19:40:43.497127+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06|3c94d099722edaad86c6fc77c631b80024d0ec7b67b0383b41e196a2e923f46d": {
+    "seen_at": "2026-11-18T02:05:15.779326+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01|9ab0604d430a80928bf4448b499fc516a969d635414dd36266c0227623824a9c": {
+    "seen_at": "2026-11-18T02:05:15.779360+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05|c837d94bb12fd2598d3a6aa2e80fea4836b8bedff807ddc4c71c8577ef981a51": {
+    "seen_at": "2026-11-18T02:05:15.779364+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02|9d291c289368dc4dabad85187378b513356d9bbe8022eef768f9f991c2a23ae9": {
+    "seen_at": "2026-11-18T02:05:15.779367+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching|77ba1aec00c7fdc57826112ba812b5b72352264c1fae7f569ea8dcb5958e2b51": {
+    "seen_at": "2026-11-18T02:05:15.779371+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04|91a2853b74f1b0d6cf6057d68e483249de984c4d19b81aecfd3f7f4a62d7f1be": {
+    "seen_at": "2026-11-18T02:05:15.779374+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10|1e326d729ab9be628cea86665cccae2529dad69fc6fd0f5e314353de0927073b": {
+    "seen_at": "2026-11-18T02:05:15.779377+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08|a769a93dfc48ae7614e6f59c0255db317c755b29382afadc247f00ae1c5ecf7a": {
+    "seen_at": "2026-11-18T02:05:15.779381+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03|ab943e56aec4b8f33f1858ed683ff7753ba69274b98c18969606c00c83ea950d": {
+    "seen_at": "2026-11-18T02:05:15.779385+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07|6bec41fb105f7295de7062be655b8a474f4a4c5ccd14e667abf92e1cfa8f45ed": {
+    "seen_at": "2026-11-18T02:05:15.779389+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09|d273d979982134b8b4b3ce8070bb87213c66aa2bb7081e205521adbfd5004acd": {
+    "seen_at": "2026-11-18T02:05:15.779393+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog|5c0f197afa019bbd79761f8dd808565ecd89a8500ea2ed7a687b9a5b7ec2a656": {
+    "seen_at": "2026-11-18T02:05:15.779396+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11|08ef66b7516f4835a86e04a81ba2b802711a8108bd28b82bf1af459be2da08f5": {
+    "seen_at": "2026-11-18T02:05:15.779398+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog|df4ae0dc59b8b0c3f48330e8362714fe91615a805f890ab45f5c546ec5fe7b90": {
+    "seen_at": "2026-11-18T02:05:15.779401+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05|9f36a83ff72472b0761ee6757aad45a8ac1845bdb846a515300a3ac41eed7c9d": {
+    "seen_at": "2026-11-18T02:05:15.779404+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02|7c0b9d6bdaba642698e438235dbfbba792785c02f57af32cedcc47ef960c4983": {
+    "seen_at": "2026-11-18T02:05:15.779406+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04|f02028d1edc6498c8276796f356eb9195a8528ce524c0984daaab20d4a86f19d": {
+    "seen_at": "2026-11-18T02:05:15.779409+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03|62a50ff0b5237a7f1d3cb6cd435e0d6433b2079c7204625977e58da3e3550e5a": {
+    "seen_at": "2026-11-18T02:05:15.779412+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01|714095338eb685e463bb8b4f43062de89d59d6eacaf54bb94a6301b4a07d80af": {
+    "seen_at": "2026-11-18T02:05:15.779415+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog|48f9e06194fa5ab6e832565d71f6fd91f70b9d360937fd3a46a8a6415abe0ec9": {
+    "seen_at": "2026-11-18T02:05:15.779417+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog|ef8dc632fcba1454f64bb4ff0b663cb19a325a9f2800ac945593d2b416c670e7": {
+    "seen_at": "2026-11-18T02:05:15.779420+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog|bda7587f2c75b223c621db812067b8c9a61a438d7d26313f39def3b85454753c": {
+    "seen_at": "2026-11-18T02:05:15.779423+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems|1177a7d742ddf8e0342d8e6b893b6a7eed13c97c5eb391d90d1fe3881e907d97": {
+    "seen_at": "2026-11-18T02:05:15.779426+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors|f8ca70b2809c1ddcbda2da118597e58afeef2fd1c268801ec4ddb8d39dc9aac4": {
+    "seen_at": "2026-11-18T02:05:15.779429+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog|13ef8333004736069712098c362d0c3e899b288f5e915a1024ffdca2028febda": {
+    "seen_at": "2026-11-18T02:05:15.779432+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog|6941a989840779d6f4e60be95bcbca87506e9bdf92e7f67e42bbc3786bc5bffe": {
+    "seen_at": "2026-11-18T02:05:15.779435+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01|af82fa68e1b0268936a2ff2fcba73816f1c80e4f46507abc31b4226ec2637826": {
+    "seen_at": "2026-11-18T02:05:15.779438+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog|7df41b190cdcdd96fdc292fc49cbf1a028916f74fed4277366909704b14dcb25": {
+    "seen_at": "2026-11-18T02:05:15.779441+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01|3fed227274c82a9a372b8173721cb1e73782c2e105fd0fbbf019e728f63ba79b": {
+    "seen_at": "2026-11-18T02:05:15.779444+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog|43749ffcc32d8ff0e5a34d9e7337c7c80a402a985e482f17630fef9479d4c5c3": {
+    "seen_at": "2026-11-18T02:05:15.779447+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications|c09f5a512664faeade6c9ced949e9b25321af411e061f9de3ad44b23db8cf1af": {
+    "seen_at": "2026-11-18T02:05:15.779449+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds|863a4b042ef4f99c845ff6a085590d3c0cbfecf9cdc84b128a1ef2543295abb7": {
+    "seen_at": "2026-11-18T02:05:15.779452+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack|e0d6f089e497a0d26360422a260bc5015a885059ce86b4057518d30fcadf11be": {
+    "seen_at": "2026-11-18T02:05:15.779456+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html|c1521074895f44b71430d4b43f9df5ca28a5f3dbd7ef4fdc8276b137cc5eba1e": {
+    "seen_at": "2026-11-18T02:05:15.779461+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html|ccfcf1b9e91223e1c648fc02f058e844760692f8e1c1e5e0240df610e8c02f44": {
+    "seen_at": "2026-11-18T02:05:15.779465+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says|330799c69dcd14bff2469558d66202fe4651e7d491e04b03ff9d22150ddc5c3b": {
+    "seen_at": "2026-11-18T02:05:15.779518+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system|7e7e6d0d6a7fbe5aa54746b6fd49a8e415d29b129320be49f7ff5ee8c53d538e": {
+    "seen_at": "2026-11-18T02:05:15.779521+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure|52679814625628056c1a3c30b8a759d67296193e5f352ec3227e17ed5539aca5": {
+    "seen_at": "2026-11-18T02:05:15.779524+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool|de0f456784c9c97f11100c244c19c76919088e77c35836ce8596d4c68cf5f856": {
+    "seen_at": "2026-11-18T02:05:15.779526+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign|93174c7324864221b289a4783308d92e7353e5b1d512b21b0967d9207dad0fcc": {
+    "seen_at": "2026-11-18T02:05:15.779529+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000|31bbe299874a07472b490832953d85c34eae4ccb310dfb603538d9c986348200": {
+    "seen_at": "2026-11-18T02:05:15.779532+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity|9d8b8698eb2f1105056efbc903665cddae601d3803e23f5f2525afb5c3517a88": {
+    "seen_at": "2026-11-18T02:05:15.779535+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days|28936997fccd2b0a0257569277bb3356dc6110ea8aa7122bc135417e15420eed": {
+    "seen_at": "2026-11-18T02:05:15.779541+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack|2b00a3768d4a2c4ea2f3eaf580e784fb86063a9046b91fee8ee086c766b5ee18": {
+    "seen_at": "2026-11-18T02:05:15.779545+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites|2e30d45f491cf4519e5f28ce4625bdfe1736bd509bc9d07995bfbd1cde6b1815": {
+    "seen_at": "2026-11-18T02:05:15.779548+00:00",
+    "source": "securityweek"
   }
 }
