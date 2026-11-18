@@ -5686,5 +5686,93 @@
   "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says|ea9b03f5141852ad6b1f110ee2727403ba0a84244c092ea559d351d8010dd5cc": {
     "seen_at": "2026-11-18T10:30:10.346763+00:00",
     "source": "securityweek"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials|9b285e349ed0325de030ad5654c2ea0c92c48745e6db42b35fd676142dff482d": {
+    "seen_at": "2026-11-18T19:00:15.582726+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters|5433dc9f65580654247aa69046a49081d8fdee7ba1fdee35f9479e4d137dbcef": {
+    "seen_at": "2026-11-18T19:00:15.582743+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down|6b7e1e46e5099912b9b81f9640d6f89b9207ef3e0dd556daae341a16828d6e72": {
+    "seen_at": "2026-11-18T19:00:15.582748+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks|cf5cf822b0e93b168784705adf227f8ed126fe7363d7187c96eedf1e605ef0a7": {
+    "seen_at": "2026-11-18T19:00:15.582752+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html|5e4de44841d215416aba074cde206552b06a8404ff2775c0d52f85c8ef34e0e8": {
+    "seen_at": "2026-11-18T19:00:15.582764+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html|b92c59bdf4aa91b3e0e4336891661d00e2ed8aa0b92dcd831d930f167fb7e371": {
+    "seen_at": "2026-11-18T19:00:15.582767+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html|6bd40f4f711a0b1eab10e11baf7d9d88e43507d03b6573fdf99a8c73fd4bbc1b": {
+    "seen_at": "2026-11-18T19:00:15.582770+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html|8a4809382e3e90579b526c627412a0ce639a1e2776648dcd4dbda32f3d52d4b0": {
+    "seen_at": "2026-11-18T19:00:15.582774+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html|588a6e3a2cd033b840499d2111b37210d9068fdd7a34c7235a2304aa0972f289": {
+    "seen_at": "2026-11-18T19:00:15.582778+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html|2586a495ebd3bae33f3b14301085943744d24f641f6b2e45096931ba43ca5628": {
+    "seen_at": "2026-11-18T19:00:15.582798+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform|b3b04723cec291879cfc233b16d8ac09973d8c649777da761a8e1354e0d7f1d3": {
+    "seen_at": "2026-11-18T19:00:15.582859+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization|ac083bd985e531bc4f90e2a2d32d0bab3e0a551f6870ce739672c984bb7afa1b": {
+    "seen_at": "2026-11-18T19:00:15.582867+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case|f362e0c8a143d6aec1d9a3b9c996cdbfe751dd88a601f0f29242fee3af7bbb2a": {
+    "seen_at": "2026-11-18T19:00:15.582870+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview|0ed0be1ee559f26be214c50ae93f0387f6f4318cc797720de79e2145813b51d2": {
+    "seen_at": "2026-11-18T19:00:15.582873+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do|96247ca0bf1d6ff9d4c99fcc110ae4fdad60e6bad40084c5734c05e3823058fb": {
+    "seen_at": "2026-11-18T19:00:15.582876+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities|d25089caaed7b27c4baf00f7ff59a052152811b9f7398f21d255b8df7f21ea75": {
+    "seen_at": "2026-11-18T19:00:15.582879+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer|1e43fdacb9409ee350113af7487d569b43b88123d047c95c719b524b1c248ac1": {
+    "seen_at": "2026-11-18T19:00:15.582882+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks|2f57beb0c6daffbf7a1414e74b5b5e15903809f1254884b1edc6713c8ad31b41": {
+    "seen_at": "2026-11-18T19:00:15.582885+00:00",
+    "source": "securityweek"
+  },
+  "https://www.rapid7.com/blog/post/tr-self-hosted-ai-renting-compute-exposed-servers|47a498a1fba0d19659d766cd706da08f72e3509be14eed2873a6cf42e4f8328b": {
+    "seen_at": "2026-11-18T19:00:15.582901+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/ve-cve-2026-123007-critical-nginx-http-2-integer-underflow-leads-to-rce-fixed|118e331493312c361ae4448d61c0d7562c8889755c0db6027945af4141cae924": {
+    "seen_at": "2026-11-18T19:00:15.582904+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17|5e1ee0426d9398b5072498a151e17b041485c4094edffcb1c0d40d56e68de362": {
+    "seen_at": "2026-11-18T19:00:15.582907+00:00",
+    "source": "rapid7"
+  },
+  "https://www.thezdi.com/blog/2026/11/17/hostile-inference-exploiting-docker-model-runner-for-container-escapes|997863d8f23b573efeacb016a39d3df6c0a7c7779271b44849cd3dddaf8759b2": {
+    "seen_at": "2026-11-18T19:00:15.582933+00:00",
+    "source": "zdi"
   }
 }
