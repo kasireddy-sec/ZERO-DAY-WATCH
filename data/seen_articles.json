@@ -5854,5 +5854,125 @@
   "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform|d34c925d705dc2b967815a674d784c0174d4dc02cbf68a42e9df72d1c9544469": {
     "seen_at": "2026-11-19T09:07:01.375387+00:00",
     "source": "securityweek"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02|1ee7d5ad6b0981ca09ed3ac37fcfdda4df6c27c247a0deec967a2b979c12df0e": {
+    "seen_at": "2026-11-19T18:29:41.289719+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03|a323814d58d793ab8633fd6e3c23703d61976c38abd7665e80fd7d8f7f12ab0e": {
+    "seen_at": "2026-11-19T18:29:41.289737+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01|bee65db6aee89bc21eb6301dfbb0c623314da5888dd9bdd518fd43adbf73fec6": {
+    "seen_at": "2026-11-19T18:29:41.289741+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data|7d683df36d52b4da2c0b4c88cbb9beca27a9aede52528d17c7a7a5005fe91f40": {
+    "seen_at": "2026-11-19T18:29:41.289776+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs|257712a68f7ed6f18caaeb9828f08e2b546601cec63368c14645be801a7639ac": {
+    "seen_at": "2026-11-19T18:29:41.289779+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft|ef5e72ae260b90aa06abe32fda07c3f94fe168097420c2f235bad26beb0f5259": {
+    "seen_at": "2026-11-19T18:29:41.289782+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers|0a54bc566b4524d6a5d86780c303237dece43f29a2c782b3c8c7cefc9c21737e": {
+    "seen_at": "2026-11-19T18:29:41.289784+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly|0f199559fc3792925010c872442a9047488acfaf073ced46595e8d5944dc1467": {
+    "seen_at": "2026-11-19T18:29:41.289787+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html|79adc4bbf9e987b49e11430124675551b95f1beb41de40225c37ae21e24fd011": {
+    "seen_at": "2026-11-19T18:29:41.289790+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html|2219146527d63bafe81bcad5d5f4eacaef4e55b010d741c852214fdb6d99e137": {
+    "seen_at": "2026-11-19T18:29:41.289792+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html|7b5892ccbcb120414d9e7e74b309ba0b4ff81abda89b7e4280302897e39862e2": {
+    "seen_at": "2026-11-19T18:29:41.289795+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html|7afc22a368b422514a2414654db2d706fe3bd9e29eafc449e44e3c7a2c339606": {
+    "seen_at": "2026-11-19T18:29:41.289798+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/everything-is-web-application-including.html|69960d0cfede8781c167f93167968fb2b3aa1a59e50378a8bb1689553484c837": {
+    "seen_at": "2026-11-19T18:29:41.289800+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html|554b144f1254c313216e255f96f664667bf517fd418087833c62ba41e5bbe4d0": {
+    "seen_at": "2026-11-19T18:29:41.289803+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html|656395e2e79b67067a5878d38b19b246fdfef606f58176abc929b30bcbbaccef": {
+    "seen_at": "2026-11-19T18:29:41.289809+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html|6df9ab15c174e92b45ea7f89b96000f723617f2c56f377874f1a54a1ea73b6cf": {
+    "seen_at": "2026-11-19T18:29:41.289824+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities|1070f967e08b6c0ee68ac200e907bf4f17b9a222a59d251be690fe22020487f4": {
+    "seen_at": "2026-11-19T18:29:41.289862+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim|b030fb0eee7a96135734f0f55f969a349ae59295f916855c2cc3fc2520d1cb53": {
+    "seen_at": "2026-11-19T18:29:41.289865+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release|fa23450b88069a55b83fcb1e8c5ecf01ff19dbd8b6b53e51b9ecc80ba5e96e16": {
+    "seen_at": "2026-11-19T18:29:41.289868+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection|9c11beb8522f6252c85939c68353f3a04045944b941ec367712231ab00d219e4": {
+    "seen_at": "2026-11-19T18:29:41.289870+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks|4f1d6ef87b6cadf7df359f11ab18be269dbdb052e1a20273ca03e91fc0a89f60": {
+    "seen_at": "2026-11-19T18:29:41.289873+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it|960d9acf4a053607b010c13c312e9e91e75cb2673161bb6df11b423e0665d52b": {
+    "seen_at": "2026-11-19T18:29:41.289876+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products|dbd051aa9e12aa807b31894e847b0e7b93e64420cd46eb05988781a1f931a043": {
+    "seen_at": "2026-11-19T18:29:41.289880+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public|798ba28fb89c84b93672785f213960d4bbc055a46c85041c210f9c0d63b0deb5": {
+    "seen_at": "2026-11-19T18:29:41.289883+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories|0c399f4efaee0954cfc637eaa92a67758719ff5913c3aa91ba42a6b53e93c2a2": {
+    "seen_at": "2026-11-19T18:29:41.289885+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw|92d79d167ea0e7831ec6f670fb3becef24949c201d79e3cb6dc686bd674fe6a5": {
+    "seen_at": "2026-11-19T18:29:41.289888+00:00",
+    "source": "securityweek"
+  },
+  "https://www.rapid7.com/blog/post/dr-what-is-preemptive-mdr-security-leaders-guide|d3bd1b8333475a47424652f2223a9b99a49c1c2dc7933cb2b8d72a58df76eddb": {
+    "seen_at": "2026-11-19T18:29:41.289902+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/tr-spying-on-governments-no-malware-custom-webworms-toolkit-softether-bridge|ac2af81da369b39742d67a4198f5eb0e93c5480ee95133f2e5932094aacc4124": {
+    "seen_at": "2026-11-19T18:29:41.289905+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17|b03f8240bb79ced2fa38bff1a07394f852eae795a49534dd226e033ea5cf14be": {
+    "seen_at": "2026-11-19T18:29:41.289911+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited|22fdb4779ad7f9c106f818801b7f5fc24b8d1468841c516f2473766a3301f152": {
+    "seen_at": "2026-11-19T18:29:41.289915+00:00",
+    "source": "rapid7"
   }
 }
