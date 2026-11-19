@@ -5774,5 +5774,49 @@
   "https://www.thezdi.com/blog/2026/11/17/hostile-inference-exploiting-docker-model-runner-for-container-escapes|997863d8f23b573efeacb016a39d3df6c0a7c7779271b44849cd3dddaf8759b2": {
     "seen_at": "2026-11-18T19:00:15.582933+00:00",
     "source": "zdi"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|903d55c3969db32c8b3a902715f8eb0b7e51f4f19d87bfd43d4aded2d8171944": {
+    "seen_at": "2026-11-19T01:03:21.374283+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|a89d6cd8406f24fc5f1330883a4617284c39366d85889d29c65f2732f81e47d1": {
+    "seen_at": "2026-11-19T01:03:21.374301+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|073fbabe5639f22d270e7c5593da1d91f3c140132ab45411af2eed0430d83c36": {
+    "seen_at": "2026-11-19T01:03:21.374304+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|776b9e0ca69a70a2bbd46349f176128752ddcea1adc7ab876e5f8843a7d2dc82": {
+    "seen_at": "2026-11-19T01:03:21.374306+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog|442d491b36c02509163873869808e5c899c49518a08ad17c550dd5788a7f33bf": {
+    "seen_at": "2026-11-19T01:03:21.374341+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms|409a191057d7a7f5b9d5e36e1297512c5bd2841ba451dd97951cd0e7ea9fbb54": {
+    "seen_at": "2026-11-19T01:03:21.374367+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam|c2d3a3d63fc3c459fd97bbff1ec399764519db4fc5a5389bdd8c0890a49059ac": {
+    "seen_at": "2026-11-19T01:03:21.374369+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack|6920aa706f93de5ca13448970924ff1a150c94ba6309920a322ed95a08607035": {
+    "seen_at": "2026-11-19T01:03:21.374371+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html|46eb7e754bd662ade5558396d1769b0595306548e8a1b12edb385d12ee4a79d7": {
+    "seen_at": "2026-11-19T01:03:21.374375+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html|5eb88196b4d6ff35ede4b34199394ba57e3bfd11c832c5e6622ff56c288dc0f5": {
+    "seen_at": "2026-11-19T01:03:21.374376+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html|a5759f66e38fa7c7f99b4a3c9b88e5cc8c4994b221e575c4c4c046f8bc11a62b": {
+    "seen_at": "2026-11-19T01:03:21.374378+00:00",
+    "source": "thehackernews"
   }
 }
