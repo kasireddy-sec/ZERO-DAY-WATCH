@@ -6118,5 +6118,49 @@
   "https://www.rapid7.com/blog/post/ve-cve-2026-123007-critical-nginx-http-2-integer-underflow-leads-to-rce-fixed|7c0f9f8511f9dc59fc1f16ec6a250f5019a328b6dcab4ffbb58a684a503e532e": {
     "seen_at": "2026-11-20T17:06:45.567348+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|accaad0eb4f8eaba5317db7888171aa41a8ebeb738c62c4487f2d57837d5e7db": {
+    "seen_at": "2026-11-20T23:15:59.038623+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|8c9af4e56e3a403c29b57f069f07173b9beeeb3fb9c33ef8637d57e0645c808e": {
+    "seen_at": "2026-11-20T23:15:59.038651+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|62a6caa438084c0a9b01d43f31e3bdc492be67f830d884757cbd377d37145fba": {
+    "seen_at": "2026-11-20T23:15:59.038659+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|77691ed1f482dd74cfbd8d4a76dbfb97560ef1b816c4d49bc13a4bb284f1468b": {
+    "seen_at": "2026-11-20T23:15:59.038664+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog|70d3206ddd573a6c7d5fdcc5debf4154008fb03148e85fd5b62e237709488472": {
+    "seen_at": "2026-11-20T23:15:59.038720+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data|21341feb9c6726815e688bd23abcd1a796879779c0ae8017230f8de9f10b4a93": {
+    "seen_at": "2026-11-20T23:15:59.038768+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server|e1aedd11808404201955b8f96d72c56f536c9813e767e6e3c041d75a0256e26d": {
+    "seen_at": "2026-11-20T23:15:59.038772+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html|99ce9f4d86ee4adcf9cf46447b32dba4877b4292020681b1ae1d5177348d6674": {
+    "seen_at": "2026-11-20T23:15:59.038779+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html|60dff631458b614fcb614aed4614b31fa2de78636032de1a7f5fadc2ada7d90c": {
+    "seen_at": "2026-11-20T23:15:59.038782+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign|6ad22360742e53c3c4b98adac86948c3c1fd04c93ea260ce3f104eabdad68994": {
+    "seen_at": "2026-11-20T23:15:59.038844+00:00",
+    "source": "securityweek"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-114938|4392061f577e86ba2fd2cdc173d038143c0f36a8b168dc3c3b2ab429de430dde": {
+    "seen_at": "2026-11-20T23:15:59.038918+00:00",
+    "source": "palo_alto"
   }
 }
