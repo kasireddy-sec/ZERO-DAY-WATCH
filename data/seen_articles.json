@@ -5974,5 +5974,37 @@
   "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited|22fdb4779ad7f9c106f818801b7f5fc24b8d1468841c516f2473766a3301f152": {
     "seen_at": "2026-11-19T18:29:41.289915+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september|64dc868e545409934c182ffa0fcb4a8671e9be212554a8fc13f994427f1c6e31": {
+    "seen_at": "2026-11-20T00:51:43.727062+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers|edcf3a2897a67c5755e997b65396b3dbf30bb48bca8b8cdfe0732787023140fb": {
+    "seen_at": "2026-11-20T00:51:43.727081+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express|7cfe23ee1833f51cc554898cf0c292c1230e52c938275a3e33922379360935a7": {
+    "seen_at": "2026-11-20T00:51:43.727085+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html|6e4a7c216e49a3941c2833cf7ef8aa5cb678e2d21c65855688d11747e43d67ae": {
+    "seen_at": "2026-11-20T00:51:43.727091+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html|c8d19e4b59f82765a36a9736a6135b21fdb1297d8a98cba221a4abcc79fb8d8b": {
+    "seen_at": "2026-11-20T00:51:43.727103+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt|e0cc12787a9b00445b776ae595456636499988b96672d0ea0d61f0aeb5687add": {
+    "seen_at": "2026-11-20T00:51:43.727155+00:00",
+    "source": "securityweek"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-123890-critical-authentication-bypass-vmware-vcenter|44cfa8a597e1381b41536f3ca2223e8eafa92435f29d957375390c21067789e3": {
+    "seen_at": "2026-11-20T00:51:43.727178+00:00",
+    "source": "rapid7"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-114938|02c21917fa94ac88ba531414c696998480e7174808d00e738afaec4dd8d10783": {
+    "seen_at": "2026-11-20T00:51:43.727229+00:00",
+    "source": "palo_alto"
   }
 }
