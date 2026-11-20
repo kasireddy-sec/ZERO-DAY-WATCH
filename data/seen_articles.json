@@ -6006,5 +6006,33 @@
   "https://security.paloaltonetworks.com/CVE-2026-114938|02c21917fa94ac88ba531414c696998480e7174808d00e738afaec4dd8d10783": {
     "seen_at": "2026-11-20T00:51:43.727229+00:00",
     "source": "palo_alto"
+  },
+  "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html|4620284a1386b997fc816a21d458ca20447f9b7aada15100f5b807fe2b4a93f3": {
+    "seen_at": "2026-11-20T08:02:59.137736+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html|e2e59ed065e75056852003b1558d44aad962a01f424334a5378899cb46cf08f6": {
+    "seen_at": "2026-11-20T08:02:59.137754+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html|6e23dbe25fd17ab498dc295d1a84102f293b09f90d71e49b124e630a61a752fe": {
+    "seen_at": "2026-11-20T08:02:59.137759+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html|88ef1271bc7551c760edb14f8bfe0d373a2e8d4d1e757a8c1ee8b9765433fc64": {
+    "seen_at": "2026-11-20T08:02:59.137766+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html|7a27037f382f321b1ffea17edc9dd981a4f1b547635bbfa7c773a9169e1b424f": {
+    "seen_at": "2026-11-20T08:02:59.137772+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak|4b9bc3a76a2022bdef7e5a6641a06a56efb71d160ad6f58d250c847c542c01e8": {
+    "seen_at": "2026-11-20T08:02:59.137822+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release|e4ea7c02f6e568bc73e00232149ff072634590868f750b0ea7beb48e211817a5": {
+    "seen_at": "2026-11-20T08:02:59.137828+00:00",
+    "source": "securityweek"
   }
 }
