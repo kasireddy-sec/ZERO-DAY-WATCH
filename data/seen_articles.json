@@ -6206,5 +6206,17 @@
   "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day|9820ba094ee9e41e7930ad542dbbb23a235c237482efc33f13f900d63cdbeccb": {
     "seen_at": "2026-11-21T12:54:27.718911+00:00",
     "source": "securityweek"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data|40f58fa93521ab47b2a49b7e0f156262ff934afd7616f5cfe1e6b73bc290e0ad": {
+    "seen_at": "2026-11-21T19:55:59.781835+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests|e9e3317b66ca04cc6dd99cd20b4d9690cb656337fc3cd0656c5cbfab23b5185e": {
+    "seen_at": "2026-11-21T19:55:59.781852+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database|b3ec99385d33bd54c9f043443cc276abd0428339095c49e2d171750602d0f23f": {
+    "seen_at": "2026-11-21T19:55:59.781857+00:00",
+    "source": "bleepingcomputer"
   }
 }
