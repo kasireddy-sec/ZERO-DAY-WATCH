@@ -6162,5 +6162,9 @@
   "https://security.paloaltonetworks.com/CVE-2026-114938|4392061f577e86ba2fd2cdc173d038143c0f36a8b168dc3c3b2ab429de430dde": {
     "seen_at": "2026-11-20T23:15:59.038918+00:00",
     "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-123633|0cb3dc182b79be5e036f7be184a64618e557da418a706ad2589bab5db34be19c": {
+    "seen_at": "2026-11-21T04:09:07.058186+00:00",
+    "source": "palo_alto"
   }
 }
