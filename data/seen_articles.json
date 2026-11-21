@@ -6166,5 +6166,45 @@
   "https://security.paloaltonetworks.com/CVE-2026-123633|0cb3dc182b79be5e036f7be184a64618e557da418a706ad2589bab5db34be19c": {
     "seen_at": "2026-11-21T04:09:07.058186+00:00",
     "source": "palo_alto"
+  },
+  "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html|9c3f16ba0522c8abed453eeb972903de414b1023ed2617b37ca04b74730148be": {
+    "seen_at": "2026-11-21T12:54:27.718797+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html|f32b8a52bc98c7703d712bb79072b56ff17c464c59f08a9c059f8d15d1a863b4": {
+    "seen_at": "2026-11-21T12:54:27.718812+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html|422d2afffdb89b86f1280d1260ab8976e5dab50a4bf6b1993ee878007f4dc3d8": {
+    "seen_at": "2026-11-21T12:54:27.718817+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html|49c10cc041bd58b4920fd148670a0fc57c30b4221270840b1821b17cc4fbd65e": {
+    "seen_at": "2026-11-21T12:54:27.718820+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html|5a4841dc6e5dbc2e206a14d7b73af310f12d4dbd8d24e59100847e8c2109b6f9": {
+    "seen_at": "2026-11-21T12:54:27.718824+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html|edc9b7cd008373806dd65e1078f4fb44506d6e8e320391d3b7de2207bc5dcbeb": {
+    "seen_at": "2026-11-21T12:54:27.718827+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html|b780caa1bf91720221c3b18ec08e11ebf5760299b83c23162c30732a1192fa28": {
+    "seen_at": "2026-11-21T12:54:27.718829+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html|7abdb006832e9d9134bb32ea16816f8378413708a1ab42dcc460142039d8a164": {
+    "seen_at": "2026-11-21T12:54:27.718838+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html|347086ddfa871152849fa1de2d00fbe50f9c9476a982194a5a5678d45141fb53": {
+    "seen_at": "2026-11-21T12:54:27.718903+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day|9820ba094ee9e41e7930ad542dbbb23a235c237482efc33f13f900d63cdbeccb": {
+    "seen_at": "2026-11-21T12:54:27.718911+00:00",
+    "source": "securityweek"
   }
 }
