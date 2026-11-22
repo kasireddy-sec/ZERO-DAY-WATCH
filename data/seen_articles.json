@@ -6218,5 +6218,9 @@
   "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database|b3ec99385d33bd54c9f043443cc276abd0428339095c49e2d171750602d0f23f": {
     "seen_at": "2026-11-21T19:55:59.781857+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets|2669e5f8ad3c130c09c48bd1b470165d8084f4b0948ca45474af1c4e65aff42b": {
+    "seen_at": "2026-11-22T00:04:58.334688+00:00",
+    "source": "bleepingcomputer"
   }
 }
