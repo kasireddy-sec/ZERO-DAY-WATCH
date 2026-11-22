@@ -6222,5 +6222,21 @@
   "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets|2669e5f8ad3c130c09c48bd1b470165d8084f4b0948ca45474af1c4e65aff42b": {
     "seen_at": "2026-11-22T00:04:58.334688+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html|c9134924b764b17e57c7ea70058dbabdf7b0c321efea28408b9743a38fdcf12b": {
+    "seen_at": "2026-11-22T07:14:59.978791+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html|57bb3d905e7a44f3df029a4961bfac47e7e4b12aa9d219af9d1081b485072546": {
+    "seen_at": "2026-11-22T07:14:59.978807+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says|4c88d89f0a070db1f1f8be4a2ae6a7e11c56143aa360a9f63a68258635734685": {
+    "seen_at": "2026-11-22T07:14:59.978897+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director|a980c41d68648412c48f1abf31c62f785474933e9d632b87d72bfdbb94a6cf9a": {
+    "seen_at": "2026-11-22T07:14:59.978901+00:00",
+    "source": "securityweek"
   }
 }
