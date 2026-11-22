@@ -6242,5 +6242,13 @@
   "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android|dd04cfdbb85c26478b5b384fec57f2dbc3991c2a64215676e4517552df59c1ac": {
     "seen_at": "2026-11-22T15:32:40.961410+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices|545d137e34dba6b0454343b9e2cf52e79400474b2f13fb6021417a7107a15d80": {
+    "seen_at": "2026-11-22T21:31:04.112687+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach|baedd6ba5950403858efa7dc0642ace1e2b8fba4bfc92bca5c9fa02d8b29e3bd": {
+    "seen_at": "2026-11-22T21:31:04.112705+00:00",
+    "source": "bleepingcomputer"
   }
 }
