@@ -6238,5 +6238,9 @@
   "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director|a980c41d68648412c48f1abf31c62f785474933e9d632b87d72bfdbb94a6cf9a": {
     "seen_at": "2026-11-22T07:14:59.978901+00:00",
     "source": "securityweek"
+  },
+  "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android|dd04cfdbb85c26478b5b384fec57f2dbc3991c2a64215676e4517552df59c1ac": {
+    "seen_at": "2026-11-22T15:32:40.961410+00:00",
+    "source": "bleepingcomputer"
   }
 }
