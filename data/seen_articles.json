@@ -6278,5 +6278,117 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-123890-critical-authentication-bypass-vmware-vcenter|37c9b709fe33cf2269e0978f411abeb51085cb5fe45146b05c77cbe67e736ea7": {
     "seen_at": "2026-11-23T11:00:53.547579+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|f40001f7cbc650a803e1a215ac228b9d3130ff0d9dd887c1b0632cd826ec49e1": {
+    "seen_at": "2026-11-23T22:33:06.168080+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|8a4f2c50d0db37388efe72f01d2198f7409410afffdfc8fc1ceccd47c9729083": {
+    "seen_at": "2026-11-23T22:33:06.168096+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|093187c317f918f15f28c84f859317f8b2ecf73e92214e383ff461350d309646": {
+    "seen_at": "2026-11-23T22:33:06.168103+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog|e763e997d011a3ecc34ac026dd2fda1eae11fec49edbd97c6106d1200e6f484b": {
+    "seen_at": "2026-11-23T22:33:06.168148+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million|fef09df7e120a37840606f84b335b3022cef98a67b31dd3d13bd409bbfd986ac": {
+    "seen_at": "2026-11-23T22:33:06.168190+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets|ddfe606e0e0026a174c7de31a0b8fe62c436b6468cdeebf9e303bcffcde93692": {
+    "seen_at": "2026-11-23T22:33:06.168192+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials|a5336981d47a52bfe8941d5d7e1995d76d5ccea028f766867c6ba0aa395f022d": {
+    "seen_at": "2026-11-23T22:33:06.168195+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data|55bfee85a17a04156fc9f6ed095838d2b3d7dd7e4320d0a0c3180706d3061961": {
+    "seen_at": "2026-11-23T22:33:06.168198+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards|0e88e1e6749160efe903252aa67c456d09082b50a4b955b726073e602fee667b": {
+    "seen_at": "2026-11-23T22:33:06.168201+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html|0ff37cc5368c0c938cef6c2d69e277a74f16cb29fffe304ee8fa1559de353bcc": {
+    "seen_at": "2026-11-23T22:33:06.168203+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html|022d6d4e9dca7729b046193bd794b355baeffc8ada6036f7bf85d54af57f04cd": {
+    "seen_at": "2026-11-23T22:33:06.168207+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html|04cca73c4925c048f71280ecd2d7f13ca0031df96a24615365448bd90587f678": {
+    "seen_at": "2026-11-23T22:33:06.168210+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html|0b463a781e5c204351af569b083ce46ee9b27478d2b6e319a1e8980264704f23": {
+    "seen_at": "2026-11-23T22:33:06.168213+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html|2fbe2bbabee3dc37a64c3345e50d010afcc29213c1389d796ba720d00b63b1e2": {
+    "seen_at": "2026-11-23T22:33:06.168216+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html|5b81f3fb1e339de5ba80d67385307480d1a41f9f910a61d1ba08a9437bc6e05d": {
+    "seen_at": "2026-11-23T22:33:06.168222+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html|ae9cfc68146835749dbfbe81d5860bea7205c404cdcd2bee90d0c8ee4cc34243": {
+    "seen_at": "2026-11-23T22:33:06.168231+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html|fc40ed919ed9df2f9e81ff84a344f0ddba28097649ee10590d372a8b5a44a64b": {
+    "seen_at": "2026-11-23T22:33:06.168240+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html|37c3311deea04d5a2ff9fe6e9b8372bfb1123f0c721956a15213869918909400": {
+    "seen_at": "2026-11-23T22:33:06.168253+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms|daadd4810aa6c17a7d64743629de71102e6cb1f78c3e0603814ac3e46915a62a": {
+    "seen_at": "2026-11-23T22:33:06.168277+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack|414ae9463b0e32dc12d1e38bc8a054318a93fafe1cdd602ca7bf6737d1b118cb": {
+    "seen_at": "2026-11-23T22:33:06.168280+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path|d44d694f2e9b8218a6cc2ce0d505dcc4e542a69f24a39b961c3b5cb859a1b845": {
+    "seen_at": "2026-11-23T22:33:06.168282+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw|de72504ef70daed2501e6832e87988f15a341a9f130d4194fffe0d7b69c8624f": {
+    "seen_at": "2026-11-23T22:33:06.168285+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos|1a0ab8e79aee0c869ffcae2f6bbb9819f22f62be7e2e2d46b626766fb605d57c": {
+    "seen_at": "2026-11-23T22:33:06.168288+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted|52bc250e5396c6ccbdd81500faa6f43664e35db4c717e11d25675b4c0166b663": {
+    "seen_at": "2026-11-23T22:33:06.168291+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks|d9559482c6aa6dd0fa02d808db1d37a1b955a96ec7cd37a6f275a79f468e559b": {
+    "seen_at": "2026-11-23T22:33:06.168294+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal|5ac1cc45d0c242bd97c18100a7abe177e7cbad72831073a5c2b8c14290072412": {
+    "seen_at": "2026-11-23T22:33:06.168296+00:00",
+    "source": "securityweek"
+  },
+  "https://projectzero.google/2026/11/virtualbox-process-hardening.html|cba007d02a44ab7fc350a5b30a962345dd5392393b88b0217f9933008cf88974": {
+    "seen_at": "2026-11-23T22:33:06.168302+00:00",
+    "source": "google_project_zero"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-114938|9a381a4c739c4bcdc9dd1673ede8094c647715fc9a037965c81e8cdcb40851e4": {
+    "seen_at": "2026-11-23T22:33:06.168364+00:00",
+    "source": "palo_alto"
   }
 }
