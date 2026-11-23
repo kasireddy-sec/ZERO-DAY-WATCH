@@ -6250,5 +6250,33 @@
   "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach|baedd6ba5950403858efa7dc0642ace1e2b8fba4bfc92bca5c9fa02d8b29e3bd": {
     "seen_at": "2026-11-22T21:31:04.112705+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch|11f7a06c8cd486a01e4d5ccd884f634b7681beaaedb61b3a4e6a5aa6d974a519": {
+    "seen_at": "2026-11-23T11:00:53.547460+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited|6e927e824b6478b43e26ba84782d41c014f56104db86a9b5249b6433e59938f8": {
+    "seen_at": "2026-11-23T11:00:53.547477+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html|55131bdbb0e95825e8a8660ab799fd4c1b8dc7fee24fa1a789c30ec116dc9da6": {
+    "seen_at": "2026-11-23T11:00:53.547485+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html|5b2155fa4dac71ba9c64fd4a2228c2016e29639629b81abc4bb830d594dbc959": {
+    "seen_at": "2026-11-23T11:00:53.547488+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html|18ee6a69f8055a3c22c332d1bfafda0cc39664b449072ddd54b0cd6770cb0b03": {
+    "seen_at": "2026-11-23T11:00:53.547491+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html|26a47b89e0513ca022328f9748c89e257ac5baf137188009a5f20d59ae3d1688": {
+    "seen_at": "2026-11-23T11:00:53.547500+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-123890-critical-authentication-bypass-vmware-vcenter|37c9b709fe33cf2269e0978f411abeb51085cb5fe45146b05c77cbe67e736ea7": {
+    "seen_at": "2026-11-23T11:00:53.547579+00:00",
+    "source": "rapid7"
   }
 }
