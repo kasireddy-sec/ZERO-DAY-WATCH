@@ -6390,5 +6390,37 @@
   "https://security.paloaltonetworks.com/CVE-2026-114938|9a381a4c739c4bcdc9dd1673ede8094c647715fc9a037965c81e8cdcb40851e4": {
     "seen_at": "2026-11-23T22:33:06.168364+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials|29efe1f429e05b53ec79d46603e6e30f1cce085151fcb829b5682b61aebf93a3": {
+    "seen_at": "2026-11-24T06:43:35.885210+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html|454706fe54b76f3ec76008b869132c1a23fb65a447533354815c359e9ae4b78b": {
+    "seen_at": "2026-11-24T06:43:35.885226+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html|58b5e442f59c0fe509d40dec9cbbb2c166c703d3ff4ac1f21599793d62e51891": {
+    "seen_at": "2026-11-24T06:43:35.885228+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html|8cacf6873c0ed2e7f6a08204c1d1c3172fd851036805ee5a0b45ecac9dada68d": {
+    "seen_at": "2026-11-24T06:43:35.885231+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html|9bcfb9993492b035717bc8983a3aebcfee423da074642d47449991519826d59d": {
+    "seen_at": "2026-11-24T06:43:35.885237+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html|880c50d315146d9f847425b744a8f6d30e0d3cec914147a89a48e763d8a7baa6": {
+    "seen_at": "2026-11-24T06:43:35.885247+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html|b983f356cd1e5da89caa3b3286289c53d914820683559e782ffe4b662bce3d97": {
+    "seen_at": "2026-11-24T06:43:35.885261+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html|8efe8a6dee74a56346c1c045ecd9dcb5f3c900ff908edfb42f5a6934980972d3": {
+    "seen_at": "2026-11-24T06:43:35.885274+00:00",
+    "source": "thehackernews"
   }
 }
