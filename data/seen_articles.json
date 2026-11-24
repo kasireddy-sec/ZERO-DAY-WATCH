@@ -6422,5 +6422,133 @@
   "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html|8efe8a6dee74a56346c1c045ecd9dcb5f3c900ff908edfb42f5a6934980972d3": {
     "seen_at": "2026-11-24T06:43:35.885274+00:00",
     "source": "thehackernews"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|8b096965b3fbb225145d95a6a420ce0da7fbc3142569884d1ec8bbfe0dbc1c5f": {
+    "seen_at": "2026-11-24T18:37:26.051740+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|6308ae44a4d9047d371d882b7e00ddbcf0404b1c4696e7244a179093688e59c1": {
+    "seen_at": "2026-11-24T18:37:26.051759+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|113fbf8011719bd67e63e518f0cb026c0981790850904d9b1cb01a8bb1bf9a19": {
+    "seen_at": "2026-11-24T18:37:26.051763+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02|95c50204ca5a982a897e31aa26e10ca8f85f35382cb3b02110bbbf8f67545ea9": {
+    "seen_at": "2026-11-24T18:37:26.051807+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03|5600089ac2c06f218557eb8911bf8fd3d154216a54d667943c854c93e43fc039": {
+    "seen_at": "2026-11-24T18:37:26.051810+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01|dd33da6611196449e329c006dfcb38fb33bbe16fb925df18364f0b1d252f5455": {
+    "seen_at": "2026-11-24T18:37:26.051813+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys|2134604de81a4846011f9de7c0701868126355c601be3e4179cc5cbad5fc4914": {
+    "seen_at": "2026-11-24T18:37:26.051856+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof|7373959dc35b5b14fb4a72ea676f1229b63ed2c26f5e420bb2ca8dc8edb96cc7": {
+    "seen_at": "2026-11-24T18:37:26.051859+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach|9e45de09337c42d641dd4685e0b98c7482729d56e134501878946204732f3f1f": {
+    "seen_at": "2026-11-24T18:37:26.051862+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations|034db499bc26a3aa44e07cbeadee22d7752ed5ff24f4f045f972a27a96c21579": {
+    "seen_at": "2026-11-24T18:37:26.051864+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits|9d8aa5be162a1282e4dfddf1c918a15e71a5970f250980461950360c115920b7": {
+    "seen_at": "2026-11-24T18:37:26.051867+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html|8c9f850af33b291d07df3f5406024231cb781881f36e126062b8d819766d3ee4": {
+    "seen_at": "2026-11-24T18:37:26.051870+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html|c1f5a774c9e375ba948bc968826ba2a75452b41813efa7116a9a410987eb615a": {
+    "seen_at": "2026-11-24T18:37:26.051873+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html|b3650370ef0fefc41cc8a913f551b01ba467c2edfcc4406c549fd5e354e87dd3": {
+    "seen_at": "2026-11-24T18:37:26.051876+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html|e4a72ed112c98fdb95c98d40adf10aafa9607598eac19b655934e709ebe63152": {
+    "seen_at": "2026-11-24T18:37:26.051881+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html|0d74dcd4c832bb542f13e56933fab2cb23d990ecbe800ead15e20f5a8b0fdfd3": {
+    "seen_at": "2026-11-24T18:37:26.051883+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html|e174aa2fb2a907705088b241a3d644fc2deaa18ca20d7185f410b549fa1284b4": {
+    "seen_at": "2026-11-24T18:37:26.051885+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html|b54738718b4eb12a68ec2d168ec70d929fc583836c190cd8d95b28b564616829": {
+    "seen_at": "2026-11-24T18:37:26.051888+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html|5c26fcd540814aa37b779094b73f385902507c4760ddc7e331df03579bea1f35": {
+    "seen_at": "2026-11-24T18:37:26.051893+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html|6ab515252e3e4d52682ee80202e9a05bf7f6d0e3221af86f0630059dadec7c79": {
+    "seen_at": "2026-11-24T18:37:26.051903+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html|516442c84180e75204e670b2aa79954e4eff8a1923d85bed6befb9cf54c8429d": {
+    "seen_at": "2026-11-24T18:37:26.051921+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities|35f04cf9bf67889f68ce4e0924062dd95823648520e0b8f6e2690e309c6bbce1": {
+    "seen_at": "2026-11-24T18:37:26.051950+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation|3defde1ba80fb07adf19f6d414f14ca440f9487c719e7c6049bdd8461f7297cf": {
+    "seen_at": "2026-11-24T18:37:26.051952+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign|ac5da1655543febbd65de701393e931b887a0dcc80d16476282b81d099a141cf": {
+    "seen_at": "2026-11-24T18:37:26.051955+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse|35f5b42cde23ee7353d68b5f5909d94093b47a70ed685b1e29a48b7b83f73528": {
+    "seen_at": "2026-11-24T18:37:26.051957+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems|b64d94bfefdeb5757dd2e227df11032e90ca6326c4b9064bb29e3107ea088488": {
+    "seen_at": "2026-11-24T18:37:26.051960+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco|5cc418139e0c89b024900e20012521c14c37d9f7ac5a88bd7dd7b08173b994e7": {
+    "seen_at": "2026-11-24T18:37:26.051963+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking|6a77dca4f792f7eb7c91b315589c6df2639b0a0c638692c0901cf703931427a8": {
+    "seen_at": "2026-11-24T18:37:26.051965+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine|49bece64ec2308a0e683d28cacb7ad0150d0745c729793867a0b9db5632fcc85": {
+    "seen_at": "2026-11-24T18:37:26.051968+00:00",
+    "source": "securityweek"
+  },
+  "https://www.rapid7.com/blog/post/dr-comparing-mdr-providers-scorecard|d54c0a348bb301b143341ce7963d8de1504d9cfee90e9eb567ea56fd0faa5d68": {
+    "seen_at": "2026-11-24T18:37:26.051985+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/ra-rapid7-analysis-vmware-vcenter-srp-authentication-bypass-to-root-cve-2026-123890|61b662f88e5279d227fe32307be28181c2445b058ca005e686a7b3c929008518": {
+    "seen_at": "2026-11-24T18:37:26.051987+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17|9663717bc4632dc939b528546c951a16f097afdfdab7839df6674c088d628e9b": {
+    "seen_at": "2026-11-24T18:37:26.051998+00:00",
+    "source": "rapid7"
   }
 }
