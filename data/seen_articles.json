@@ -6550,5 +6550,41 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17|9663717bc4632dc939b528546c951a16f097afdfdab7839df6674c088d628e9b": {
     "seen_at": "2026-11-24T18:37:26.051998+00:00",
     "source": "rapid7"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog|820a5bf306222ed48681e6cf3f8423becbbd0a1bab70e4c7759731d513e2d0d6": {
+    "seen_at": "2026-11-25T02:55:53.847095+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01|7e8d102869a03f0f8ed3e98ffce6b55d0166a19af16bf2db74e4008be56c6033": {
+    "seen_at": "2026-11-25T02:55:53.847112+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach|8da7540a36e6811ef58582cd5f0373ea73e692d4398b0a7a5651c405c359abb4": {
+    "seen_at": "2026-11-25T02:55:53.847140+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign|3cb9bb41a5fc2e6c0c3f5eeda89068f11a3be24db0fb9600a8d1f6733c597122": {
+    "seen_at": "2026-11-25T02:55:53.847144+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems|8f86f57431c4e83b18263e8e96e42c8ca3d826831823f436ca8c5eb8b17c01f7": {
+    "seen_at": "2026-11-25T02:55:53.847147+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says|6577ffaa458692515b0f450447142c2b93b3f2915d1fdac5415f76e8ce3031bb": {
+    "seen_at": "2026-11-25T02:55:53.847211+00:00",
+    "source": "securityweek"
+  },
+  "https://security.paloaltonetworks.com/PAN-SA-2026-0015|99d84dfa9756d362fa990bf6b208b9119a9863dc1e7a93166eb5c24275bc1d87": {
+    "seen_at": "2026-11-25T02:55:53.847271+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/CVE-2026-123633|327eaeb6deb1634daf86b1fd3852b8e84b68ca694a3929fe0c3110e31c363e87": {
+    "seen_at": "2026-11-25T02:55:53.847274+00:00",
+    "source": "palo_alto"
+  },
+  "https://security.paloaltonetworks.com/PAN-SA-2026-0005|82283773273e528791a5d28ea29f22b35df8218f1c4956ae4e98b6cb231b05c4": {
+    "seen_at": "2026-11-25T02:55:53.847277+00:00",
+    "source": "palo_alto"
   }
 }
