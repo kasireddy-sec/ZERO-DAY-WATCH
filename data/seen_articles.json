@@ -6586,5 +6586,73 @@
   "https://security.paloaltonetworks.com/PAN-SA-2026-0005|82283773273e528791a5d28ea29f22b35df8218f1c4956ae4e98b6cb231b05c4": {
     "seen_at": "2026-11-25T02:55:53.847277+00:00",
     "source": "palo_alto"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable|2304d7284d00cd81fe3a689383325da5985d9b7c6b6c5c4a744ccd65f51bb399": {
+    "seen_at": "2026-11-25T12:05:36.500411+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites|7b081f5e0164b6b37e7201fea9793246ff039468ce3b90d71699ee1172a889eb": {
+    "seen_at": "2026-11-25T12:05:36.500427+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates|32620ded33100cec209ae821b5a095f7c67f5380fcee0d14e9d527cb3ec3b696": {
+    "seen_at": "2026-11-25T12:05:36.500432+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system|9c310c1e77fcdd231032f39276096912f821a37ac12e8fc19abda716d95f1fbe": {
+    "seen_at": "2026-11-25T12:05:36.500435+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html|97e82f24509e9d69ed60bfadb6ba66f49c8fa7d99f4d60b313b3a2556906bf78": {
+    "seen_at": "2026-11-25T12:05:36.500441+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html|0086b10db6161e00f23796f19e3e25a434ae45466c3e25a229d7316aec19eb76": {
+    "seen_at": "2026-11-25T12:05:36.500444+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html|9b732b18ef7009bb049d9a554c71fac6dd13dba947d906139a0f3d82bd9697f4": {
+    "seen_at": "2026-11-25T12:05:36.500446+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html|125f2e3b4ee682229d502470b62270aea08f8b24f02b190ee6aed3a1c35e747c": {
+    "seen_at": "2026-11-25T12:05:36.500449+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html|a92fb63acd866d057b877b1f7edf68679de65e8fb1c439ccb5ec77e090ee55eb": {
+    "seen_at": "2026-11-25T12:05:36.500451+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html|64648549c489949facf13c39954330607091aae4b9172dcbaeadc2a58df57d8f": {
+    "seen_at": "2026-11-25T12:05:36.500453+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html|98a4c3125b15ea7d69babaaeb3db81208abf121a10fd4017387d2dec64908d9d": {
+    "seen_at": "2026-11-25T12:05:36.500456+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html|d65e157cdce92013988eab532f7a06808ca7785f1ce2daa7851ac498ba0ebf3c": {
+    "seen_at": "2026-11-25T12:05:36.500458+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html|76370d383c5f0dc5ceb76116ca726ec09c90cc58d382254366ab4f41a2f7eb82": {
+    "seen_at": "2026-11-25T12:05:36.500479+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack|67c09dcf1feeaf3cbed3c487635ab0599dcbf7400369ae6f437804e429e5b5ce": {
+    "seen_at": "2026-11-25T12:05:36.500512+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library|bee0e35acf618ffd31586d46f78c044ccff1416715629d5475d152eac02210c7": {
+    "seen_at": "2026-11-25T12:05:36.500515+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls|ba7d864ea17bfe3f8c9843e3fcb35f236c48586c4d7cbb0ca65cdb789fd35cb1": {
+    "seen_at": "2026-11-25T12:05:36.500517+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks|7859d22b1ca9d7f3e02176f90c8f46e693a4b3affc4e3b30dcd50d4f11e32137": {
+    "seen_at": "2026-11-25T12:05:36.500520+00:00",
+    "source": "securityweek"
   }
 }
