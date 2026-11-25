@@ -6654,5 +6654,109 @@
   "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks|7859d22b1ca9d7f3e02176f90c8f46e693a4b3affc4e3b30dcd50d4f11e32137": {
     "seen_at": "2026-11-25T12:05:36.500520+00:00",
     "source": "securityweek"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|609122c41f57ba89132f3ae5970dd0b4add3b2b13e4ce6298332936603d94dfd": {
+    "seen_at": "2026-11-25T21:55:19.366421+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|b0027516af8d9e0df72fae3a99f33b6a1625870de91e389ef3ed471a48eb4f7e": {
+    "seen_at": "2026-11-25T21:55:19.366439+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|caa812430f642698c1089182df66ece25d1628dece09302b7b0e848d648298b2": {
+    "seen_at": "2026-11-25T21:55:19.366443+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|69b7ac1246164ad8b774fa4c410756b105f389c88c7c2f228b34411b028de57f": {
+    "seen_at": "2026-11-25T21:55:19.366447+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|551c61a9ac357738f1e7fc862413f50dad1d484113600f29b95f17eb9e5fcc21": {
+    "seen_at": "2026-11-25T21:55:19.366450+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|313f8c5e0d391250478aa12c8f01fe34cf072c7b01d8c7a6148d17424c923857": {
+    "seen_at": "2026-11-25T21:55:19.366454+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|70d523fd6e2e00dd163cf2c1b75aa811f093d6cd58860df2534306545a4ae1e6": {
+    "seen_at": "2026-11-25T21:55:19.366457+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|722b2450b544627f6ea79f6731743ebd51e80f7c17f3002ac00542157fd4a35a": {
+    "seen_at": "2026-11-25T21:55:19.366461+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|5fe04d7ce4e255061832d4a8a7e42eddb06de6c6b4ec705270c20e82b58f5080": {
+    "seen_at": "2026-11-25T21:55:19.366464+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|be61e98614488829b0035046e10a27901221cff6e369a2056ff10f800aabe990": {
+    "seen_at": "2026-11-25T21:55:19.366467+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog|c8b535838477167eedf302fd087398f60b72c734340ae1655e3f056f69a26b38": {
+    "seen_at": "2026-11-25T21:55:19.366518+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach|390280b96e017a7c759947318c87f06cb185aa44addc3709270f099616c7979e": {
+    "seen_at": "2026-11-25T21:55:19.366557+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks|b1711ea6c463dae3fdc3fb194a29aa4b2b661ee50a98bb554ad1c0175adb1a2e": {
+    "seen_at": "2026-11-25T21:55:19.366561+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers|ebe62269171166165c1f78e1a94ac8aaf0bf5b8d686075b252a4ebe697b2760f": {
+    "seen_at": "2026-11-25T21:55:19.366565+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps|5096aea10761e03eae77e3820291b95007f67f3d2992501fc5758aa069725554": {
+    "seen_at": "2026-11-25T21:55:19.366568+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances|27093df2ca90cbc88fb73a18a55add9bd8da3d62cf56f38555baa75f49744182": {
+    "seen_at": "2026-11-25T21:55:19.366572+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html|eb5aa6fdeb2418e7f0860b34210d1c4600aee6c5f11c03ed213633d73cb4f436": {
+    "seen_at": "2026-11-25T21:55:19.366576+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html|04accc12c01b25820eedc2101baae0be13a7b19d304bd5f631db11f6da8874e1": {
+    "seen_at": "2026-11-25T21:55:19.366579+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack|439675f0350d8b4000257c525e6796cfaeb5a636f3da0b1ddf2a93775eb69d25": {
+    "seen_at": "2026-11-25T21:55:19.366635+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties|5826c3306d8160f1d344e09794429ca1a61a7b4d0b12c6db412859d4ff598628": {
+    "seen_at": "2026-11-25T21:55:19.366639+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident|b5e1de4839c65dac2c6f9e2e7bd20c8e725910922b8c93fcbaec9da0ea6fdf9b": {
+    "seen_at": "2026-11-25T21:55:19.366641+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget|b55ce9af3abe036a5e661513ce4506573a875452728557c42bf217b0ae68b958": {
+    "seen_at": "2026-11-25T21:55:19.366645+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks|b0e5da6039605d4877656ae3916fdf78bc93f50838b73dd660e36699fce99745": {
+    "seen_at": "2026-11-25T21:55:19.366653+00:00",
+    "source": "securityweek"
+  },
+  "https://www.rapid7.com/blog/post/so-rapid7-named-leader-2026-gartner-magic-quadrant-integrated-security-operations-center-systems-isocs|27b27c86ac3c7e3c11367415bff196d89077dd2ee0bbc6298653271ab4870cd9": {
+    "seen_at": "2026-11-25T21:55:19.366669+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/it-2026-cybersecurity-predictions-wrong-or-right|6c435e4fbae388eca75139df36e88074a3aa80d9ae0aa62252fffbb19ea371d3": {
+    "seen_at": "2026-11-25T21:55:19.366672+00:00",
+    "source": "rapid7"
+  },
+  "https://www.rapid7.com/blog/post/etr-cve-2026-123903-critical-vmware-directory-service-authentication-bypass-affects-vcenter|1ef6aadebd191836f0750184a63a5175b3f2f72226b49db8bdc1270f4623d7f3": {
+    "seen_at": "2026-11-25T21:55:19.366675+00:00",
+    "source": "rapid7"
   }
 }
