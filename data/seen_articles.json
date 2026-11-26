@@ -6758,5 +6758,9 @@
   "https://www.rapid7.com/blog/post/etr-cve-2026-123903-critical-vmware-directory-service-authentication-bypass-affects-vcenter|1ef6aadebd191836f0750184a63a5175b3f2f72226b49db8bdc1270f4623d7f3": {
     "seen_at": "2026-11-25T21:55:19.366675+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks|3d3ad03422eccee06d960fd699c81686aee882fb5929df70f08e423bf37b6d9b": {
+    "seen_at": "2026-11-26T03:56:53.284052+00:00",
+    "source": "bleepingcomputer"
   }
 }
