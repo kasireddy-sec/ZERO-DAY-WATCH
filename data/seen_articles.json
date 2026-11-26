@@ -6826,5 +6826,41 @@
   "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed|fd96740d80bc94ec1b873b3037c0aeab0fddf53d56d8156907c7133ad46bb04f": {
     "seen_at": "2026-11-26T13:34:49.223248+00:00",
     "source": "rapid7"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug|65b9ba191bfc518868933ed40fc69a1f6228674094c019714aa1f4ad087c5925": {
+    "seen_at": "2026-11-26T22:47:43.852103+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026|b61584bb094b99b805b4365c8a618a32c44fc25c4daa51a809d83601ef86f22a": {
+    "seen_at": "2026-11-26T22:47:43.852121+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins|12ddb95f2e2d6e939497b54a268604f8155acea5a3f9efbf610f8a10212da9d0": {
+    "seen_at": "2026-11-26T22:47:43.852124+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension|8d38bfb2ff860b37042e9745badcf27e7dcd4f7f46d2e186f6a10116cdd7b07e": {
+    "seen_at": "2026-11-26T22:47:43.852127+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html|1b6f1528f340a9e3055fcbb8ef1089400159c1bfa74fe3d0a1c1e3332b99c92d": {
+    "seen_at": "2026-11-26T22:47:43.852131+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html|11ae6806f4efd86a7f5481885c9d5be5304b113cd0611856eb66fae036409b97": {
+    "seen_at": "2026-11-26T22:47:43.852134+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html|35d01825930d3baff33b5c2f0a3f519281757ed4146fed1c4a91b42a5d3daba6": {
+    "seen_at": "2026-11-26T22:47:43.852140+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html|860bda664ee76bdf14434764f503c92b23169d8d399a49901aa0b790f91f3f17": {
+    "seen_at": "2026-11-26T22:47:43.852157+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information|81fc3dfe7d72c96e84291698790e35ba9543b82e9e6119e36ff394c2152aeca9": {
+    "seen_at": "2026-11-26T22:47:43.852196+00:00",
+    "source": "securityweek"
   }
 }
