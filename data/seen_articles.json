@@ -6762,5 +6762,69 @@
   "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks|3d3ad03422eccee06d960fd699c81686aee882fb5929df70f08e423bf37b6d9b": {
     "seen_at": "2026-11-26T03:56:53.284052+00:00",
     "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook|7cbecb019f9b2888050c45d2b119ee5ff0dfe16539324d5c23293ebbd833f5d0": {
+    "seen_at": "2026-11-26T13:34:49.223109+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html|6c6dabe6f3f670969c0a0435304edf9884267224584108b9c93cf57d2b9c330e": {
+    "seen_at": "2026-11-26T13:34:49.223129+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html|29014b9d71ef3d1d51a11fbe90d6d42b3443e9b704df94d84b4a4e86031de909": {
+    "seen_at": "2026-11-26T13:34:49.223133+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html|57ad03b9a703c9cba59c5c9961c2e802f7cbcb22a424ad212ec8d0ecc52ed8ce": {
+    "seen_at": "2026-11-26T13:34:49.223137+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html|fe49be577bcc7dfada938933a2c3cd7940b17ae7c9d812428432a762a30d3994": {
+    "seen_at": "2026-11-26T13:34:49.223140+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html|d8ffb70f3ad8048be114f46e95c10b3d49dff02a14a8f35873c0491bb94679e9": {
+    "seen_at": "2026-11-26T13:34:49.223143+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html|4062f18bc033367561ff5bf16a2755982d95190f7fc10a784879d02257b50ce8": {
+    "seen_at": "2026-11-26T13:34:49.223146+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html|f09aeb4cd0cd38513c92f1b5b5ae66c39e878651538cf18a2526ad9ec2e0a1f4": {
+    "seen_at": "2026-11-26T13:34:49.223152+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html|3250d4b2661b5c4e8e11e792ae0a781898803b5d0668b5f6dc3522b6e1454aaa": {
+    "seen_at": "2026-11-26T13:34:49.223163+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html|ef471ba42d4fde9b695d14c1fa6c18013da5554440561685b5c184eac1875d94": {
+    "seen_at": "2026-11-26T13:34:49.223178+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html|d2315031abcfad975273ebdfb95d1a2a1f3b0769ee9808f9fdc0bac89ed574bc": {
+    "seen_at": "2026-11-26T13:34:49.223190+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks|e7663c7f0548b4c026365975defa8646789f42bd54bc9fc25e9da3f6175020a1": {
+    "seen_at": "2026-11-26T13:34:49.223204+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks|bae75e4cddf52c0c6db2c3262f28ed7bb967af90e1541e69d3201b37f3f0bd31": {
+    "seen_at": "2026-11-26T13:34:49.223207+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting|cdad5529bed40a51c5478ff4dc3145dfcabab35ed039260c89a8757531d99ac6": {
+    "seen_at": "2026-11-26T13:34:49.223209+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code|c52d9d657d95bdb8b5d6c08534541124c40acbeb7a81e2b16d59e5bfea781ca0": {
+    "seen_at": "2026-11-26T13:34:49.223212+00:00",
+    "source": "securityweek"
+  },
+  "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed|fd96740d80bc94ec1b873b3037c0aeab0fddf53d56d8156907c7133ad46bb04f": {
+    "seen_at": "2026-11-26T13:34:49.223248+00:00",
+    "source": "rapid7"
   }
 }
