@@ -6922,5 +6922,45 @@
   "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised|4154c374b6736f18a51058ad67e2e4976399f3de6111335575d63bf436babe84": {
     "seen_at": "2026-11-27T14:40:55.037826+00:00",
     "source": "securityweek"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|80219bb17ebf6df9f84ab1d35b21d002ad8b646af54d80e8ed54104c36f5943e": {
+    "seen_at": "2026-11-27T23:13:04.886371+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|21449535724cc5bb89e1adb30a9a79ce2e5d34516b29a63d6e6a05c8e84cfab3": {
+    "seen_at": "2026-11-27T23:13:04.886391+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json|560a0a72faee25fc8a3332660c26dd50625c27c1d5d11db5c04c303b8b9e14a5": {
+    "seen_at": "2026-11-27T23:13:04.886395+00:00",
+    "source": "cisa_kev"
+  },
+  "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog|d44a4c2e7c7b44350625a318fd5f96e2840ca6ce346c9742ec914979b696d94b": {
+    "seen_at": "2026-11-27T23:13:04.886456+00:00",
+    "source": "cisa_alerts"
+  },
+  "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts|2be50c4edb96f83081b8ff24bc4fc6df29ef6b4f0affd47d785703d346e30ec2": {
+    "seen_at": "2026-11-27T23:13:04.886501+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info|0b49455a22b1c1c1d0ae281d96c35da8bd5cd256138cc0955a2859debfd08a43": {
+    "seen_at": "2026-11-27T23:13:04.886505+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution|0654c0e5982e20a39ad7333a37ccf880c123c034dde50b993b57d8682d50ac49": {
+    "seen_at": "2026-11-27T23:13:04.886508+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach|fb710728e372ca23538cfe8bdeba5b190f105c27d5ef8f82602b1514596ff9e4": {
+    "seen_at": "2026-11-27T23:13:04.886512+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms|964583c687d68a0098170d770551b6192d885fe69d60bf6183de553082b4a13f": {
+    "seen_at": "2026-11-27T23:13:04.886515+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html|97ba5cf0a2628e3556dfee0cc04ea8dee7341069edfd766a89e2efeef84526d9": {
+    "seen_at": "2026-11-27T23:13:04.886518+00:00",
+    "source": "thehackernews"
   }
 }
