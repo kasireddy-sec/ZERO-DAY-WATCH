@@ -6862,5 +6862,65 @@
   "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information|81fc3dfe7d72c96e84291698790e35ba9543b82e9e6119e36ff394c2152aeca9": {
     "seen_at": "2026-11-26T22:47:43.852196+00:00",
     "source": "securityweek"
+  },
+  "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026|06391e108c0a60449a4d47228f30709c4d5cfa5c8b3b5450345a419e694293f7": {
+    "seen_at": "2026-11-27T14:40:55.037722+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028|9003ea1bc940d48f31a3a7224b89314949d2f9c2200dc631cf9d7a1878485c11": {
+    "seen_at": "2026-11-27T14:40:55.037738+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks|d5c6264ab9706a5d5106c26d82631dd204cba290ee347497e3f924509be0be24": {
+    "seen_at": "2026-11-27T14:40:55.037743+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity|cb3edfffcba78ab72f789b398368e91b008ebac1ccd2e674a040bad7f4e8866f": {
+    "seen_at": "2026-11-27T14:40:55.037746+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes|f25e3618adf73fa6324bf9daa544ce6481bfb153ac5991ee94ed2767642c6b4c": {
+    "seen_at": "2026-11-27T14:40:55.037749+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html|4462834d6e749caa7d574a88a87a1946efe8d20cff4b2b2e1aebeb87f770af8b": {
+    "seen_at": "2026-11-27T14:40:55.037752+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html|f1892e5172b9897f0f0f63a611e2621d76f5cb9cccbaff338bb9b3cbb6e3fa43": {
+    "seen_at": "2026-11-27T14:40:55.037755+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html|11df7517799a3f577c5d6dfda71145b0aa0ac6b1fa16a8ac21eacfb505e93073": {
+    "seen_at": "2026-11-27T14:40:55.037758+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html|d894caba7aeef0cafa5ada7663410aba3480eb18499318c17f1ac4c5f9991e12": {
+    "seen_at": "2026-11-27T14:40:55.037761+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html|2b46457c73371553d433f486b20661968a09a6f8cc4f2059bb891ed1428e67b4": {
+    "seen_at": "2026-11-27T14:40:55.037764+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html|7338e584928fc40c7266d12d169d27dc446152379649f631e14ccac51c0e53ac": {
+    "seen_at": "2026-11-27T14:40:55.037768+00:00",
+    "source": "thehackernews"
+  },
+  "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities|a2800670f00e57a1f3d10fbfe9d8c23aa8ce1aaed34dd524592656fce251ad8d": {
+    "seen_at": "2026-11-27T14:40:55.037818+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach|d366526f9071bb866811dd3ef077141ff53f75d2628f40774d5f246b2fdfe79b": {
+    "seen_at": "2026-11-27T14:40:55.037821+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach|6a3f1b0532c2c58991cf4a751dd5b9f71479fdba58b5d9cdc9200ff08068fadf": {
+    "seen_at": "2026-11-27T14:40:55.037824+00:00",
+    "source": "securityweek"
+  },
+  "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised|4154c374b6736f18a51058ad67e2e4976399f3de6111335575d63bf436babe84": {
+    "seen_at": "2026-11-27T14:40:55.037826+00:00",
+    "source": "securityweek"
   }
 }
