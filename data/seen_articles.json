@@ -6962,5 +6962,25 @@
   "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html|97ba5cf0a2628e3556dfee0cc04ea8dee7341069edfd766a89e2efeef84526d9": {
     "seen_at": "2026-11-27T23:13:04.886518+00:00",
     "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html|c6f81ee42b4f931ce9bfdbbbca99399df674794a7de518bc4118581019bb0ee4": {
+    "seen_at": "2026-11-28T13:52:46.710048+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html|853875ce2817d05316cac23062c505433430825acd491abc21ffe6f852333ff4": {
+    "seen_at": "2026-11-28T13:52:46.710067+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html|be2ab89657c72a8369458bd615ff709bf0ac0a36c6f90a778b3cf4b65a44593d": {
+    "seen_at": "2026-11-28T13:52:46.710071+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html|6a1560a847cbf24b11a1d1cb32f85e20cdf5551c2ba15d18c7435765c9f8b4b8": {
+    "seen_at": "2026-11-28T13:52:46.710113+00:00",
+    "source": "thehackernews"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html|54383c9dbc8d093a7f152281182f3ee2378bf2602e2330178d462d41a4101dd3": {
+    "seen_at": "2026-11-28T13:52:46.710121+00:00",
+    "source": "thehackernews"
   }
 }
