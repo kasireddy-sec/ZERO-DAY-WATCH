@@ -6982,5 +6982,17 @@
   "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html|54383c9dbc8d093a7f152281182f3ee2378bf2602e2330178d462d41a4101dd3": {
     "seen_at": "2026-11-28T13:52:46.710121+00:00",
     "source": "thehackernews"
+  },
+  "https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes|71b3a64b4f51bc1785a91a4c2e16805f76f1aa074a0cc48b7814b4f4e2895dba": {
+    "seen_at": "2026-11-28T21:31:57.991326+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat|b90aa14dc8789aa5c44f4db54df7136b9987256241701c68989ddb9eb8230100": {
+    "seen_at": "2026-11-28T21:31:57.991341+00:00",
+    "source": "bleepingcomputer"
+  },
+  "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution|dad0c9dddbc5c7874d85249db2c1d4364a4d7752488b7be161e1526777169416": {
+    "seen_at": "2026-11-28T21:31:57.991346+00:00",
+    "source": "bleepingcomputer"
   }
 }
